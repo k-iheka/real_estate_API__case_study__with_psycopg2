@@ -1,0 +1,501 @@
+id,assessorID,legalDescription,ownerOccupied,yearBuilt,zoning,lotSize,propertyType,subdivision
+"6522-28th-Ave,-Kenosha,-WI-53143",01-122-01-156-015,LOT 6 BLK 3 PUGH'S SUB PT OF NE 1/4 SEC 1 T 1 R 22 DOC#1316934 DOC#1810394 DOC#1882053,0.0,1916,M-1,6534.0,Duplex-Triplex,PUGHS SUB
+"20422-W-Legend-Trl,-Buckeye,-AZ-85396",502-83-361,VERRADO PHASE 3 SOUTH PHASES A AND B MCR 1156-40,1.0,2018,PC,9952.0,Single Family,VERRADO PH3
+"1041-Scaleybark-Rd,-Charlotte,-NC-28209",14918213,DIST:1 CITY/MUNI/TWP:CHARLOTTE MAP REF:BK 149 PG 18,1.0,1956,R-4,21683.0,Single Family,DILWORTH
+"2352-Sw-5th-St,-Apt-16,-Miami,-FL-33135",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2301-S-Austin-Ave,-Ste-5,-Denison,-TX-75020",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"51-Birdsong-Pkwy,-Orchard-Park,-NY-14127",146089 173.12-1-22,LOT:22.000 BLK:1 SEC:173.120 DIST:146089 CITY/MUNI/TWP:ORCHARD PARK (TOV) SUBD:HOLLAND LAND COMPANYS SURVEY,1.0,2005,R1,25700.0,Single Family,HOLLAND LAND COMPANYS SURVEY
+"113-Oak-Ave,-Bellmawr,-NJ-08031",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"11875-Westview-Pkwy,-San-Diego,-CA-92126",318-570-21-05,PM18533 PAR 1*US 24PER DOC01-26283&UND INT IN,1.0,2001,R-1:SINGLE FAM-RES,82553.0,Condo,TAMPICO
+"8715-Shadow-Crest-St,-Houston,-TX-77074",0872510000003,LT 3 BLK 15 BRAEBURN GLEN SEC 1,1.0,1958,unknown,7148.0,Single Family,BRAEBURN GLEN
+"4465-Boca-Way,-Spc-137,-Reno,-NV-89502",021-624-39,DONNER SPRINGS MH LT 11 BLK D,1.0,1979,MF14,5271.0,Manufactured,DONNER SPRINGS MOBILE HOMES
+"815-Kendall-St,-Port-Orchard,-WA-98366",4025-001-003-0008,"LOTS 3, 4 AND 5, AEGERTER'S SECOND ADDITION TO SIDNEY, ACCORDING TO PLAT RECORDED IN VOLUME 2 OF PLATS, PAGE 38, IN KITSAP",0.0,1940,CITY,9583.0,Single Family,AEGERTERS 2ND ADDN
+"7002-Lakeview-Dr,-Unit-101,-San-Antonio,-TX-78244",unknown,unknown,0.0,2019,unknown,4008.0,Duplex-Triplex,unknown
+"1009-Mechanic-St,-Bethlehem,-PA-18015",P6SE2A 15 7A      0204,CITY/MUNI/TWP:BETHLEHEM CITY,0.0,1900,RM,2396.0,Duplex-Triplex,PARK RDG
+"3665-Whispering-Pines-Loop-S,-Delaware,-OH-43015",418-310-22-023-000,LOT 2464 THE PINES SEC 1 PH A,1.0,2019,unknown,13199.0,Single Family,THE PINES SEC 1 PH A
+"705-Chapel-Rd,-Glenside,-PA-19038",54-00-04024-008,LOT:91 DIST:54 CITY/MUNI/TWP:UPPER DUBLIN TOWNSHIP,1.0,1956,B,15862.0,Single Family,FAIRWAY ESTATES SEC 05
+"54-Albero-Ct,-Rancho-Palos-Verdes,-CA-90275",7573-019-036,TR=45667 LOT 15,1.0,1991,RPRS1-RS20,23007.0,Single Family,45667
+"53-Oakland-Ave,-Hanover,-MA-02339",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"13343-Sunkiss-Loop,-Windermere,-FL-34786",14-23-27-8393-02-180,SUMMERPORT PHASE 3 56/9 LOT 218,1.0,2005,P-D,7318.0,Single Family,SUMMERPORT PH 3
+"9245-W-Ira-St,-Tucson,-AZ-85735",212-37-536B,MILLSTONE MANOR NO 6 LOTS 5 6 & 7 BLK 19 SERIAL NO: S7611U&X MAKE: TREASURE HOME,1.0,1972,unknown,23958.0,Manufactured,MILLSTONE MANOR
+"50-E-Bellevue-Pl,-Apt-2105,-Chicago,-IL-60611",17-03-202-065-1110,(50) EAST (BELLEVUE) CONDOMINIUM SEC 03-39-14,1.0,1977,unknown,21156.0,Condo,50 EAST BELLEVUE CONDOMINIUM
+"5129-N-Newton-Cir,-Park-City,-KS-67219",095-21-0-21-01-014.00,LOT 14 BLOCK A F. E. NEWTON'S 2ND. ADD.,1.0,1989,unknown,21780.0,Single Family,SUBD NO.: T03
+"1641-Old-Orchard-Ln,-Seabrook,-TX-77586",1198650050023,LT 23 BLK 5 MYSTIC VILLAGE AT LAKE MIJA,1.0,2002,unknown,9583.0,Single Family,MYSTIC VILLAGE AT LAKE MIJA
+"328-Union-Ave,-Runnemede,-NJ-08078",30  00124-0000-00004,LOT:4 BLK:124 DIST:30 CITY/MUNI/TWP:RUNNEMEDE BORO MAP REF:TAX MAP 8,1.0,1950,unknown,13351.0,Single Family,RUNNEMEADE GARDENS SEC M
+"877-Brosmer-Dr,-Reynoldsburg,-OH-43068",013-026628-00.020,LOT 20 VILLAGES AT SUMMIT WOODS SEC 1,1.0,2002,unknown,10890.0,Single Family,VILLAGES AT SUMMIT WOODS
+"3222-W-Myrtle-Ave,-Phoenix,-AZ-85051",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"24417-Twin-Lake-Dr,-Land-O-Lakes,-FL-34639",28-26-19-0020-00000-1210,TWIN LAKE PHASE ONE PB 27 PG 22-28 LOT 121 OR 8847 PG 299 OR 9112 PG 3015 OR 9112 PG 3535 OR 9632 PG 3620,0.0,1991,R4,6182.0,Single Family,TWIN LAKE
+"624-N-Main-St,-Kewaunee,-WI-54216",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"141-S-670-E,-Pleasant-Grove,-UT-84062",53-031-0012,"LOT 14, PLAT A, TIMP HEIGHTS SUBD",1.0,1974,unknown,8276.0,Single Family,TIMP HEIGHTS
+"41-Mary-St,-West-Jefferson,-OH-43162",10-00245.000,LOT 6 TOWN & COUNTRY,1.0,1954,unknown,7500.0,Single Family,WEST JEFF
+"7807-Golf-Circle-Dr,-Apt-206,-Margate,-FL-33063",unknown,unknown,0.0,0,unknown,0.0,Condo,unknown
+"6449-Wetherole-St,-Apt-2I,-Rego-Park,-NY-11374",03097-1251,unknown,0.0,1961,R7-1,49658.0,Condo,unknown
+"3350-Mcfaddin-St,-Apt-27,-Beaumont,-TX-77706",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"510-S-Irena-Ave,-Redondo-Beach,-CA-90277",7507-005-038,TR=10019 VAC ST ADJ ON W AND LOT 6 BLK 46,1.0,2014,RBR-1,5727.0,Single Family,10019
+"713-Mainsail-Dr,-Tampa,-FL-33602",A1929195QW000017007130,ISLAND PLACE A CONDOMINIUM UNIT 713 BLDG 17 AND AN UNDIV INT IN COMMON ELEMENTS,1.0,1993,PD-A,0.0,Condo,ISLAND PLACE A CONDOMINIUM
+"113-Obregon-St,-San-Antonio,-TX-78207",06750-008-0100,NCB 6750 BLK 8 LOT 10 AND 11,1.0,1984,unknown,6447.0,Single Family,CONV A/S CODE
+"1632-River-Oaks-Dr,-Irving,-TX-75060",32223500010070000,IRVING RIVER OAKS 1 BLK A LOT 7 VOL2003165/32079 DD08142003 CO-DC 2235000100700 13222350001,1.0,1959,Z325,6960.0,Single Family,IRVING RIVER OAKS
+"2718-Bettis-Ave,-Wasco,-CA-93280",488-284-03-00-5,"TRACT 6282, BLOCK, LOT 37",0.0,2011,unknown,6534.0,Land,unknown
+"337-Early-Rd,-Columbia,-TN-38401",060076    07511T338,COUNTRYSIDE VILLAGE 338 VACANT,0.0,2016,unknown,0.0,Manufactured,COUNTRYSIDE VILLAGE
+"1025-Martin-Luther-King-Jr-Dr,-Asheboro,-NC-27203",7761336777,unknown,0.0,1975,unknown,28400.0,Single Family,unknown
+"625-Hidden-Cove-Dr,-Princeton,-TX-75407",R-11870-00E-0050-1,"BROOKSIDE PHASE 1A (CPN), BLK E, LOT 5",1.0,2020,unknown,0.0,Single Family,BROOKSIDE PHASE 1A (CPN)
+"1901-N-River-Rd,-Algonquin,-IL-60102",19-26-251-018,DOC 91R028589 PT LT 2 S1/2 N1/2 JOHN PECHAS SUB,1.0,1993,unknown,54014.0,Single Family,JOHN PECHAS
+"8600-Douglas-Ave,-Dallas,-TX-75225",00000422344000000,BLK 5620 ACS 1.76 AVERILL WAY & DOUGLAS AVE INT201600154511 DD06032016 CO-DC 5620 000 00000 1005620 000,0.0,2013,Z292,76666.0,Single Family,JOHN HOWELL ABS 580
+"1615-Mariah-Way-E,-Fort-Walton-Beach,-FL-32547",34-1S-24-0597-000B-0260,CROSSWINDS LOT 26 BLK B,0.0,1987,unknown,5503.0,Single Family,CROSSWINDS
+"134-Danforth-Dr,-Port-Charlotte,-FL-33980",unknown,unknown,0.0,0,unknown,8321.0,Land,unknown
+"3813-Octavia-Ln,-Round-Rock,-TX-78681",R-16-4466-000H-0010,"S8524 - MAYFIELD RANCH SEC 6, BLOCK H, LOT 10",1.0,2007,unknown,7818.0,Single Family,MAYFIELD RANCH
+"235th-St-W,-Rosamond,-CA-93560",unknown,unknown,0.0,0,unknown,217800.0,Land,unknown
+"21515-Fairhaven-Creek-Dr,-Cypress,-TX-77433",1332810010013,LT 13 BLK 1 LAKES OF FAIRHAVEN SEC 4,1.0,2014,unknown,23535.0,Single Family,LAKES OF FAIRHAVEN
+"14405-Hardtree-Dr,-Lake-Hughes,-CA-93532",3225-010-028,TR=14631 LOTS 156 AND 157,0.0,1953,LCR17500*,11338.0,Single Family,14631
+"3011-Nova-Scotia-Ln,-Melbourne,-FL-32935",27-37-08-28-0000C.0-0013.00,NORTH POINTE UNIT 2 LOT 13 BLK C,1.0,1980,R1A,9148.0,Single Family,NORTH POINTE UNIT 2
+"106-Ada-St,-West-Monroe,-LA-71291",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"11114-Marbel-Ave,-Downey,-CA-90241",6254-028-032,TRACT NO 11399 LOT 12,0.0,1941,DOR2*,9529.0,Duplex-Triplex,11399
+"717-Gee-St,-Salinas,-CA-93905",004-332-004-000,MAP OF LOCKE PADDON ADD TO SALINAS SUB F OF ASSRS LOT 1 OF LOTS 31 TO 36 INCL EXC SW 10 FT IN CO RD,1.0,1952,unknown,7200.0,Single Family,LOCKE PADDON ADD TO SALINAS
+"1907-Arbor-Vista-Dr,-Charlotte,-NC-28262",02901308,L120 M40-521,0.0,2005,MX-1(INNOV),7821.0,Single Family,ARBOR HILLS MAP 02
+"Marsh-View-Dr,-Lot-1,-Townsend,-GA-31331",unknown,unknown,0.0,0,unknown,22216.0,Land,unknown
+"1009-W-Blaine-St,-Seattle,-WA-98119",186110-0326,CROWN ADD SUPL W 43 FT,1.0,1925,NR3,2580.0,Single Family,CROWN ADD SUPL
+"110-3rd-Ave,-Apt-3,-St-Pete-Beach,-FL-33706",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"502-1st-St-N,-Texas-City,-TX-77590",703000970001002,ABST 205 PAGE 6 S 100 FT OF LOTS 1 & 2 (1-2) BLK 97 TEXAS CITY,0.0,1955,unknown,10000.0,Single Family,TEXAS CITY
+"23330-Westheimer-Pkwy,-Katy,-TX-77494",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"10425-Hopcraft-Rd,-Onondaga,-MI-49264",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"247-Candytuft-Rd,-Reisterstown,-MD-21136",04-0416075470,SUBURBIA,1.0,1965,unknown,6600.0,Single Family,SUBURBIA
+"1775-N-Lafayette-St,-Unit-1,-Denver,-CO-80218",unknown,unknown,0.0,0,unknown,0.0,Condo,unknown
+"15441-Sabillasville-Rd,-Blue-Ridge-Summit,-PA-17214",23-Q20Q-23,COR OF SABELSVLE RD & SUMMIT A,0.0,1945,unknown,27443.0,Single Family,unknown
+"6-Penny-Ln,-Scarsdale,-NY-10583",552689 8.530-363-25,LOT:25.000 BLK:363 SEC:8.530 DIST:552689 CITY/MUNI/TWP:GREENBURGH (TOV),1.0,1969,R-20,16988.0,Single Family,FORT HILLS ESTATES INC
+"28-Asbury-Rd,-Asheville,-NC-28804",9750-04-9896-00000,DEED DATE: 07/19/2013 DEED: 5125-0158 SUBDIV: LEE NESBITT MADISON BLOCK: LOT: 1 SECTION: PLAT: 0116-0059,1.0,2005,RS4,35284.0,Single Family,LEE NESBITT MADISON
+"653-Cross-Keys-Rd,-Sicklerville,-NJ-08081",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"118-Glavera-Ave-NE,-Canton,-OH-44704",unknown,unknown,0.0,1950,unknown,13948.0,Single Family,unknown
+"25117-Plantation-Dr-NE,-Atlanta,-GA-30324",17 000800110490,GAIL MYHARD 261-7855,1.0,1983,PDH,1437.0,Condo,PLANTATION AT LENOX
+"4252-N-Teutonia-Ave,-Apt-201,-Milwaukee,-WI-53209",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"161-Kaylor-Rd,-Pittsburgh,-PA-15237",611-M-305,PERRYSVILLE MANOR PLAN 41 SEC 5 LOT 25X100 KAYL OR RD 1 STY BRK VEN & FRA HSE & INT GAR,1.0,1950,unknown,5000.0,Single Family,unknown
+"6750-Us-Hwy,-27-N-Apt-C23,-Sebring,-FL-33870",C-10-34-28-080-P020-C230,BLUFFS OF SEBRING CONDO PER OR 849 PG 363 UNIT C-23 PHASE 2 BLDG C + INT IN COMMON ELEMENTS,0.0,1986,R3,0.0,Condo,BLUFFS OF SEBRING CONDO
+"172-Parkrose-Dr,-Buda,-TX-78610",R146327,"SUNFIELD PHASE TWO SEC FOUR, BLOCK S, LOT 6, ACRES 0.2206",1.0,2016,unknown,9609.0,Single Family,SUNFIELD PH TWO SEC FOUR
+"6-Quail-Path,-Liverpool,-NY-13090",312489 094.-02-25.0,BAYBRY COMM SEC8 LOT419,1.0,1962,02 - SINGLE RESIDENCE,8141.0,Single Family,unknown
+"2520-Woodside-Dr,-Lewisville,-TX-75077",R162697,HIGHLAND SHORES PH 8P BLK JD LOT 25,1.0,1992,unknown,9152.0,Single Family,HIGHLAND SHORES PH 8P
+"10742-W-Flower-St,-Avondale,-AZ-85392",102-86-211,GARDEN LAKES LANDING MCR 324-10,1.0,1991,PAD,4317.0,Single Family,GARDEN LAKES LANDING
+"2523-Spring-St,-Pittsburgh,-PA-15210",13-R-284,F A & A A ARMHEINS PLAN 12 LOT 24X109.5 SPRING ST 2 1/2 STY FRA HSE 2523,1.0,1912,unknown,2628.0,Single Family,unknown
+"59274-Herwig-Rd,-Trlr-47,-Slidell,-LA-70461",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"14400-Vose-St,-Apt-203,-Van-Nuys,-CA-91405",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"1620-S-Chance-Ave,-Apt-117,-Fresno,-CA-93702",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"9350-S-Cimarron-Rd,-Unit-2080,-Las-Vegas,-NV-89178",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1433-Royer-St,-Des-Moines,-IA-50316",110/05806-000-000,LOT 43 VAN VLIET MEADOWS,1.0,1923,unknown,7250.0,Single Family,VAN VLIET MEADOWS
+"8099-Bridle-Path-Cir,-Jurupa-Valley,-CA-92509",166-511-010,LOT 10 MB 180/076 TR 21807,1.0,1988,A1,20473.0,Single Family,unknown
+"12615-Huntingwick-Dr,-Houston,-TX-77024",0993690000116,UNIT 116 BLDG P .005154 INT COMMON LAND & ELE MEMORIAL DRIVE T/H,1.0,1967,unknown,0.0,Condo,MEMORIAL DRIVE
+"3711-Landon-Park-Dr,-Katy,-TX-77449",1160420030043,LT 43 BLK 3 WESTFIELD TERRA R/P,1.0,1994,unknown,6508.0,Single Family,WESTFIELD TERRA R/P
+"4312-Airport-Blvd,-Austin,-TX-78722",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2028-Kays-Mill-Rd,-Finksburg,-MD-21048",04-059859,LT 29- 1.128 AC KAYS MILL ROAD SC 1 STARVIEW ESTS 31-04 PL B,1.0,1990,unknown,48787.0,Single Family,STARVIEW ESTATES AMD
+"1344-Stuart-St,-Denver,-CO-80204",05061-10-025-000,SUBD:WEST COLFAX SUBDIVISION L 8 & N 1/2 L 9 BLK 6 WEST COLFAX SUB,1.0,1905,U-RH-2.5,9370.0,Single Family,WEST COLFAX SUBDIVISION
+"6252-N-Lee-St,-Apt-14,-Morrow,-GA-30260",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1068-Ringwood-Ave,-Ste-1,-Haskell,-NJ-07420",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"13068-E-Adams-Rd,-Hammond,-LA-70403",3193500,LOT 17 CROWN FOREST EST SUB IN SECS 9 T7SR7E B552 P702-703 B517 P826 B721 P383 B974 P533 B1299 P806,1.0,1978,unknown,43560.0,Single Family,CROWN FOREST SUB
+"5161-Bluegrass-Trl,-Grovetown,-GA-30813",061A031B,LOT 31 1.938 ACS; LEWISTON DOWNS; WAS 061A-031,1.0,1980,unknown,84419.0,Single Family,LEWISTON DOWNS
+"2235-Catamaran-Dr,-Lake-Havasu-City,-AZ-86404",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"401-S-El-Cielo-Rd,-Unit-176,-Palm-Springs,-CA-92262",502-262-057,UNIT 176 CM 061/169 NAME=INT IN COM IN LOT 5 OF TR 19396 MB 144/061,0.0,1985,unknown,1179.0,Condo,NAMEINT IN COM IN LT 5 OF TR 1
+"2945-W-Peterson-Ave---B,-Chicago,-IL-60659",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"2127-Green-St,-Philadelphia,-PA-19130",15-2-0453-00,"256'11""W 21ST ST",1.0,1909,RM1,2046.0,Condo,unknown
+"306-Upper-Mountain-Ave,-Montclair,-NJ-07043",1300602000000023  01,unknown,1.0,1995,unknown,38124.0,Single Family,unknown
+"385-Piermont-Ave,-Hillsdale,-NJ-07642",27  01404-0000-00031,LOT:31 BLK:1404 DIST:27 CITY/MUNI/TWP:HILLSDALE BORO,1.0,1964,unknown,6299.0,Single Family,unknown
+"8507-Sagestone-Ct,-Houston,-TX-77095",1256800030006,LT 6 BLK 3 COPPER LAKES SEC 13,1.0,2005,unknown,11609.0,Single Family,COPPER LAKES
+"11319-Corum-St,-Houston,-TX-77089",0966190000019,LT 19 BLK 41 BEVERLY HILLS SEC 8,1.0,1964,unknown,8398.0,Single Family,BEVERLY HILLS SEC 8
+"302-Sagebrush,-Pharr,-TX-78577",P6500-03-000-0302-00,PHARR SOUTH UT NO. 3 LOT 302,0.0,1991,RM,5001.0,Manufactured,PHARR SOUTH UT NO. 3 - SPA
+"258-W-Nicklaus-Ave,-Kalispell,-MT-59901",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"139-Seabreeze-Dr,-Murrells-Inlet,-SC-29576",470-04-01-0092,MYRTLE DUNES; LOT 6 BL 4,0.0,2000,unknown,9148.0,Single Family,unknown
+"114-E-Oak-St,-Palmyra,-PA-17078",16-2291564-356327-0000,CONTROL #38013281,1.0,1950,unknown,9583.0,Single Family,unknown
+"1512-N-Florence-Pl,-Tulsa,-OK-74110",24125-03-29-04920,LOT-8-BLK-2,1.0,1952,RS3,7841.0,Single Family,LOUARD HGTS ADDN
+"11890-W-135th-St,-Overland-Park,-KS-66221",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"11209-Fetterly-Rd-W,-Hopkins,-MN-55305",11-117-22-14-0038,003 001 BURANDTS 1ST ADDN 140 X 311.26,1.0,1981,R-1,43560.0,Single Family,BURANDTS 1ST ADDN
+"1465-Culpepper-Dr,-Naperville,-IL-60540",08-20-410-005,HUNTINGTON ESTS UNIT 2 ALL,1.0,1979,R,9583.0,Single Family,HUNTINGTON ESTS
+"2722-Halsey-Dr,-Flower-Mound,-TX-75028",R186131,STONE CREEK ADDN PH 3 BLK C LOT 3,0.0,1997,unknown,8050.0,Single Family,STONE CREEK ADDN PH 3
+"6261-E-Canyon-Crossing-Dr,-Nampa,-ID-83687",unknown,unknown,0.0,2020,unknown,10890.0,Single Family,unknown
+"26076-Weigel-Rd,-New-Boston,-MI-48164",75 115 01 0109 000,29B109 LOT 109 WILLOW HEIGHTS SUB T4S R9E L57 P98 WCR,1.0,1977,unknown,5227.0,Single Family,WILLOW HEIGHTS SUB
+"16-Sylvester-St,-Manchester,-NH-03102",MNCH M:0762 B:000 L:0015,LOT:15 CITY/MUNI/TWP:MANCHESTER,1.0,1930,unknown,6600.0,Single Family,unknown
+"10527-Driver-Ave,-Saint-Louis,-MO-63114",15M-6-1-054-4,ASHBY MEADOWS PLAT 1,1.0,1959,R4,7701.0,Single Family,ASHBY MEADOWS PLAT 1
+"716-N-Atlanta-St,-Owasso,-OK-74055",61350-14-30-06130,LT 16 BLK 5,0.0,1965,RS3,7057.0,Single Family,SHERRILL ESTATES
+"123-Wayward-Dr,-Durham,-NC-27703",194019,PROP-PAGE IRA H/BLK:B/LT#7,1.0,0,RR,21475.0,Manufactured,PROP-PAGE IRA H
+"402-Shady-Oaks-Cir,-Denton,-TX-76208",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"59604-Plum-Nearly-Rd,-Bogalusa,-LA-70427",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"105-Hickory-Hills-Dr,-Murfreesboro,-TN-37128",100C-A-012.00-000,LOT 11 HICKORY HILLS SEC 1 PB 5 PG 112 125.9 X 204.2 IRR,1.0,1982,unknown,25709.0,Single Family,HICKORY HILLS SEC 1
+"955-Eudora-St,-Apt-1603,-Denver,-CO-80220",06064-08-240-240,PARK MAYFAIR CONDOS U-1603E PRK-54E STR-18E,1.0,1966,G-MU-20,431.0,Condo,PARK MAYFAIR CONDOS
+"321-323-Shore-Dr,-Apt-16---UNIT-23,-Highlands,-NJ-07732",19  00112-0000-00012-  16,unknown,0.0,1972,MF,0.0,Condo,unknown
+"490-Hoffman-Ave,-Apt-311,-Trenton,-NJ-08618",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"108-S-Ellyn-Ave,-Glen-Ellyn,-IL-60137",05-23-220-044,SCHUETZS RESUB OF LTS 1 TO 4 IN KNIGHTS DIV,1.0,1970,R,10019.0,Single Family,SCHUETZS RESUB OF KNIGHTS
+"1025-E-Young-St,-Longview,-TX-75602",0900000618-026-05-02,LT 26E NCB 618 ELLIS ACREAGE,0.0,1921,unknown,7500.0,Single Family,LONGVIEW NCB
+"21423-Old-Owen-Rd,-Monroe,-WA-98272",28073200302500,SEC/TWN/RNG/MER:SEC 32 TWN 28 RNG 07 SEC 32 TWP 28 RGE 07TH PTN SW14 SW14 LY S WOODS CR DAF BEG SE COR SD SW14 SW14 TH N 30FT TH W PLT S LN SD SUB 130FT TPB TH CO,0.0,1979,SP,15682.0,Apartment,SP 7906150365
+"7440-N-Hermitage-Ave,-Apt-3G,-Chicago,-IL-60626",11-30-411-023-1029,unknown,1.0,1926,unknown,14996.0,Condo,HERMITAGE AVE CONDO
+"888-E-Quincy-Ave,-Englewood,-CO-80113",2077-11-2-03-011,SUBDIVISIONCD 011700 SUBDIVISIONNAME CHERRYS BROADWAY GARDENS BLOCK 008 LOT 000 NE 1/4 OF BLK 8 CHERRYS BDWY GDNS,0.0,1953,unknown,46174.0,Single Family,CHERRYS BROADWAY GARDENS
+"444-Niu-St,-Apt-3405A,-Honolulu,-HI-96815",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4751-Hamburg-St,-Las-Vegas,-NV-89147",163-20-410-005,TIBURON 2-UNIT #1 PLAT BOOK 70 PAGE 99 LOT 134 BLOCK 4,1.0,1996,unknown,5663.0,Single Family,TIBURON 2-UNIT #1
+"10504-Lord-Dr,-Saint-Louis,-MO-63136",10F-1-4-002-8,CASTLE POINT UNIT NO 2,1.0,1957,R5,6499.0,Single Family,CASTLE POINT UNIT NO 2
+"2304-Oak-Ln,-Ste-236,-Grand-Prairie,-TX-75051",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1112-Stoeber-Ave,-Sarasota,-FL-34232",0038-11-0020,LOT 7 BLK B PLEASANT ACRES,1.0,1985,RE2,43750.0,Single Family,PLEASANT ACRES
+"5212-Ne-37th-St,-Kansas-City,-MO-64117",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"707-S-Windsor-St,-Windsor,-MO-65360",10-1.0-12-002-007-003.000,MARY E. JACKSON & OTHERS SUBD - WINDSOR - NE 100' LT 12.,0.0,1945,unknown,10000.0,Single Family,JACKSON OTHERS SUBD
+"50-W-34th-St,-Unit-09A11,-Manhattan,-NY-10001",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"3403-Memel-St,-Apt-C,-Houston,-TX-77026",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"705-Huron-Hl,-Madison,-WI-53711",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"1400-H-G-Mosley-Pkwy,-Apt-907,-Longview,-TX-75604",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4913-S-Narcissus-Ave,-Broken-Arrow,-OK-74011",82068-84-34-33430,LT 10 BLK 4,0.0,1987,R2,10542.0,Single Family,WINDSOR ESTATES SECOND
+"233-Ligustrum-Ln,-Apt-204,-Merritt-Island,-FL-32953",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"19043-Island-View-Dr,-Mora,-MN-55051",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"3329-Highway,-1045,-Amite,-LA-70422",0045781,2.9987 TOTAL ACRES-----BEING--- 1.9987 ACRES--SEC. 49--T3S-R6E; B199-P544--(FROM BARBARA JEAN MILLER); (MOBILE HOME); (HIS,1.0,1983,unknown,130680.0,Manufactured,unknown
+"2426-Summit-View-St,-Grand-Prairie,-TX-75050",28049500010070000,DAISY BLK A LT 7 INT20080059333 DD02052008 CO-DC 0495000100700 4CP04950001,1.0,1952,Z315,6692.0,Single Family,DAISY
+"8250-Forsyth-Blvd,-Unit-209,-Clayton,-MO-63105",unknown,unknown,0.0,0,unknown,49500.0,Condo,unknown
+"PO-Box-93372,-Las-Vegas,-NV-89193",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1523-E-204th-St,-Euclid,-OH-44117",646-28-034,14 AMBLER 0039 ALL,1.0,1925,U2,6000.0,Single Family,W E AMBLERS
+"716-S-Highland-St,-Arlington,-VA-22204",25-011-045,LT 5 COOKS ADDN TO ARLINGTON HEIGHTS 6962 SQ FT,1.0,1951,R-6,6962.0,Single Family,ARLINGTON HEIGHTS
+"177-Jupiter-Trl,-Weatherford,-TX-76088",002232500100300,unknown,0.0,0,unknown,43560.0,Single Family,unknown
+"721-N-Atlantic-Ave,-Pittsburgh,-PA-15224",50-C-332,ENGLEWOOD PLAN BLK C 6 LOT 34.5XAVG110.57X34.64 RR ATLANTIC AVE 1 STY BRK V BUNG 721,0.0,1955,unknown,3742.0,Single Family,unknown
+"116-Richmond-Dr,-Fairview-Heights,-IL-62208",03-27-0-208-002,CAPITOL OAKS 2ND ADD LOT/SEC-161 DOC A02707278,1.0,1974,unknown,9583.0,Manufactured,CAPITOL OAKS
+"801-Vance-St-E,-Wilson,-NC-27893",3721-69-7874.000,801 VANCE ST E M1P4L5 1.00LT,0.0,1969,unknown,5140.0,Single Family,unknown
+"10611-Drexel-Ave,-Cleveland,-OH-44108",109-14-025,378 GRANTWOOD 0161 ALL MB109 PG14 MB28198 PG0022,1.0,1915,2F,8400.0,Duplex-Triplex,GRANTWOOD
+"10844-Collins-St,-North-Hollywood,-CA-91601",unknown,unknown,0.0,0,unknown,5500.0,Single Family,unknown
+"1802-Commercial-St,-Steilacoom,-WA-98388",unknown,unknown,0.0,1858,unknown,14480.0,Single Family,unknown
+"1110-Sw-48th-Ter,-Apt-A201,-Cape-Coral,-FL-33914",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"8903-C-E-King-Pkwy,-Trlr-108,-Houston,-TX-77044",6000003016364,2011 CLAYTON 13X66 HUD# HWC0420942 SERIAL# CLW033054TX KING PKWY MH COMM,1.0,2011,unknown,0.0,Manufactured,unknown
+"14449-Fox-St,-Mission-Hills,-CA-91345",2615-017-001,TRACT # 15363 LOT 1,1.0,1955,LARS,8266.0,Single Family,15363
+"816-Ash-St,-Burleson,-TX-76028",126.2647.02720,LOT 3 BLK 24 THE GARDENS,0.0,1978,unknown,8260.0,Duplex-Triplex,GARDENS
+"941-Stratford-Ave,-Sweetwater,-TN-37874",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"26-Pleasant-St,-Apt-2,-Cambridge,-MA-02139",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"5810-Lalor-Dr,-San-Jose,-CA-95123",687-20-049,LOT 2,1.0,1972,R1-8,6215.0,Single Family,5246
+"1258-Lago-Vista-Dr,-Beverly-Hills,-CA-90210",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"1689-Mclain-Rd-NW,-Acworth,-GA-30101",20022601290,DIST:9 CITY/MUNI/TWP:UNINCORPORATED SUBD:BROOKSTONE (ORIGINAL PHASE),1.0,1991,unknown,16440.0,Single Family,BROOKSTONE (ORIGINAL PHASE)
+"46-Planters-Cir,-Beaufort,-SC-29907",R200 014 000 0062 0000,LOT 2 BLUFF FARM #BKO310,1.0,1984,4112,0.0,Single Family,BLUFF FARMS
+"100-Grant-Ave,-Apt-306,-Duquesne,-PA-15110",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4022-Sparrow-Rock-St,-Las-Vegas,-NV-89129",137-01-412-032,BEAZER AT LONE MOUNTAIN WEST- UNIT 1 PLAT BOOK 114 PAGE 45 LOT 32 BLOCK A,1.0,2005,unknown,2614.0,Single Family,BEAZER AT LONE MOUNTAIN WEST- UNIT 1
+"6238-Pelican-Coral,-San-Antonio,-TX-78244",16611-049-0100,NCB 16611 BLK 49 LOT 10 HIGHLAND FARMS TWO UT-1,1.0,2002,unknown,6011.0,Single Family,CONV A/S CODE
+"2171-W-Sunset-Surprise-Ct,-Tucson,-AZ-85742",225-05-4050,LA CHOLLA BLUFFS LOT 20,1.0,2003,unknown,5150.0,Single Family,LA CHOLLA BLUFFS
+"1060-W-Hollywood-Ave,-Apt-501,-Chicago,-IL-60660",14-05-405-034-1046,(HOLLYWOOD) TERRACE CONDOMINIUM SEC 05-40-14,1.0,1974,unknown,17700.0,Condo,HOLLYWOOD TERRACE CONDOMINIUM
+"6057-Magellan-Rd,-Jacksonville,-FL-32222",015276-0000,5-93 16-3S-25E .633 JACKSONVILLE HEIGHTS PT TRACT 5 RECD O/R 14616-2234 BLK 4,1.0,1972,RR-ACRE,29559.0,Single Family,JAX HEIGHTS SEC
+"975-Pine-Ridge-Dr,-Plantation,-FL-33317",50-41-12-09-0320,LAUDERDALE GOLF ESTATES FIRST ADD 35-29 B LOT 2 BLK 10,1.0,1955,RS-4K,9005.0,Single Family,LAUDERDALE GOLF ESTATES
+"14612-S-St,-Omaha,-NE-68137",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"1102-E-Hickory-St,-Denton,-TX-76205",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"8944-Candice-Lee-Ct,-Las-Vegas,-NV-89149",125-20-115-194,WHITNEY HGTS PLAT BOOK 123 PAGE 3 LOT 194 BLOCK 1,0.0,2009,unknown,1742.0,Single Family,WHITNEY HGTS
+"2335-Avellino-Ave,-Saint-Cloud,-FL-34771",172531324100010430,AVELLINO PB 22 PG 153-155 LOT 43,1.0,2016,unknown,6970.0,Single Family,AVELLINO
+"711-Penny-Ln,-Trussville,-AL-35173",12-00-23-4-008-046.352,UNIT 711 CAHABA PARC CONDO PHASE IV-A REAL 200620 PG 4819 PB 223 PG 45 & AMENDED REAL 200706 PG 27747 PB 224 PG 92 & SECOND,0.0,1964,R-4,0.0,Condo,CAHABA PARC CONDO 12-23-4
+"1179-Abernathy-Rd,-Ashland-City,-TN-37015",011051    01400,unknown,1.0,2017,unknown,55757.0,Single Family,unknown
+"4855-Orleans-Ln-N,-Minneapolis,-MN-55442",12-118-22-42-0011,002 002 NATHAN TRAILS E 123X126X58X143,1.0,1981,unknown,12197.0,Single Family,NATHAN TRAILS
+"212-Anderson-St,-Piedmont,-SC-29673",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"3117-Brentwood-Dr,-Grand-Island,-NE-68801",400025396,BRENTWOOD SECOND SUB LT 7 BLK 1; MAP NUMBER: 3315-00-0-10750-001-0007,1.0,1990,01-SINGLE FAMILY,12400.0,Single Family,BRENTWOOD SECOND SUB
+"2623-S-Andrews-Ln,-San-Bernardino,-CA-92408",0141-531-42-0000,TRACT 15826 LOT 66 BOOK 280 PAGE 38,0.0,2001,unknown,8000.0,Single Family,unknown
+"715-S-Alton-Way,-Unit-7C,-Denver,-CO-80247",06153-07-083-083,UNIT 2083 APT 7C PS 125 P 9 & UND 1/48TH INT IN BLDG 28 & UND 1/192ND INT IN BLK 13 WINDSOR GARDENS EAST FLG NO 2,1.0,1970,O-1,1840.0,Condo,WINDSOR GARDENS EAST FLG 2
+"PO-Box-3387,-Conway,-SC-29528",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"9782-S-182nd-Dr,-Goodyear,-AZ-85338",400-79-712,ESTRELLA MOUNTAIN RANCH PARCEL 67/69 MCR 591-21,1.0,2005,PAD,12486.0,Single Family,ESTRELLA MOUNTAIN RANCH PCL 67/69
+"15-Clematis-Ave,-Waterbury,-CT-06708",WATE M:0082 B:0958 L:0081,MAPNUM:000082 WARDNUM:00 BLOCKNUM:000958 LOTNUM:000081 UNITNUM:00000,0.0,1984,RS,6098.0,Single Family,unknown
+"7336-E-Norwood-St,-Mesa,-AZ-85207",219-25-581,GRAYFOX AT LAS SENDAS MCR 529-46,1.0,2001,R-7,8451.0,Single Family,GRAYFOX AT LAS SENDAS
+"840-Sacramento-Ave,-Apt-340,-West-Sacramento,-CA-95605",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"34-Ashley-Ave,-Charleston,-SC-29401",457-07-04-028,LEGAL DESCRIPTION SUBDIVISION NAME -34 ASHLEY AVE DESCRIPTION -LT 34 PLATSUFFIX D-126 POLTWP 002,1.0,1951,unknown,3049.0,Single Family,34 ASHLEY AVE
+"613-Jumbuck-Ln,-Bakersfield,-CA-93307",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"122-Mckeel-Ave,-Tarrytown,-NY-10591",552611 1.50-22-9,unknown,1.0,0,unknown,10454.0,Single Family,unknown
+"7920-Seville-Pl,-Apt-1904,-Boca-Raton,-FL-33433",00-42-47-28-27-002-1904,EL VIENTO AT BOCA POINTE COND NO TWO APT 1904,1.0,1986,unknown,43560.0,Condo,VIENTO AT BOCA POINTE COND NO
+"134-Partridge-Cir,-Carlisle,-PA-17013",29-15-1252-041,MIDDLETON ESTATES LOT 12-D PH 1 PB 58 PG 110,1.0,1991,unknown,3049.0,Single Family,MIDDLETON ESTATES
+"3958-N-Albina-Ave,-Portland,-OR-97227",unknown,unknown,0.0,0,unknown,0.0,Condo,unknown
+"1901-S-Henry-Ln,-Gilbert,-AZ-85295",313-24-011,RAY AND RECKER PHASE 1 MCR 1311-18,1.0,2018,SF-D,5331.0,Single Family,RAY & RECKER PH1
+"1337-Banks-St,-Houston,-TX-77006",0731210000028,LT 28 RANCH ESTATES,0.0,1947,unknown,6624.0,Single Family,unknown
+"2120-Dogwood-Dr,-Sevierville,-TN-37876",078085    02000,"DISTRICT: 13, COUNTY AREA: H01",0.0,2006,R-1,32234.0,Single Family,SHIELDS MTN
+"1602-Yeomans-Path,-Lakeland,-FL-33809",242716161091001890,DERBYSHIRE PB 86 PGS 19 & 20 LOT 189,0.0,1989,unknown,12998.0,Single Family,DERBYSHIRE
+"3410-E-Janice-St,-Long-Beach,-CA-90805",7121-003-010,TRACT # 20546 LOT 90,1.0,1955,LBR1N,6065.0,Single Family,20546
+"34-Prospect-St,-Roosevelt,-NY-11575",unknown,unknown,0.0,1954,unknown,8694.0,Single Family,unknown
+"5071-Elrose-Ave,-San-Jose,-CA-95124",419-46-024,TR 3865 LOT 24,1.0,1965,R1-8,6000.0,Single Family,3865
+"25306-Saddlebrook-Ranch-Dr,-Tomball,-TX-77375",1284080040002,LT 2 BLK 4 SADDLEBROOK RANCH SEC 2,0.0,2011,unknown,6983.0,Single Family,SADDLEBROOK RANCH
+"14680-Nw-66th-Ter,-Kansas-City,-MO-64152",20-4.0-20-300-019-032-000,THOUSAND OAKS 11TH LOT 538,1.0,2011,unknown,10890.0,Single Family,THOUSAND OAKS 11TH
+"202-Petunia-Dr,-Griffin,-GA-30223",310 -01-053,LOT 53 POD 11 PB 26/503,1.0,2017,unknown,11326.0,Single Family,SUN CITY PEACHTREE (POD 11)
+"8510-West-St,-Houston,-TX-77093",1449520010002,LT 2 BLK 1 BERRY ESTATES,0.0,2022,unknown,3001.0,Single Family,unknown
+"8085-Caminito-De-Pizza,-Unit-L,-San-Diego,-CA-92108",438-170-22-21,TR 9605 LOT 1*US341PER DOC80-119371&UND INT IN,1.0,1975,R-1:SINGLE FAM-RES,458483.0,Condo,PARK VILLAS SOUTH
+"1109-Dennison-St,-Little-Rock,-AR-72202",34L-043-00-016-00,LOT:3 BLK:2 SUBD:CAPITOL HILL EXT SEC/TWN/RNG/MER:SEC 04 TWN 01N RNG 12W,1.0,2002,unknown,7405.0,Single Family,CAPITOL HILL EXT
+"17319-Acorn-Rdg,-Eden-Prairie,-MN-55347",29-116-22-23-0077,022 007 OAKPARKE ESTATES 3RD ADDN 87X170X98X193X31,1.0,2002,R1-13.5,18731.0,Single Family,OAKPARKE ESTATES 3RD ADDN
+"625-Prendergast-Ave,-Apt-3,-Jamestown,-NY-14701",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"475-N-Highland-St,-Apt-3F,-Memphis,-TN-38122",unknown,unknown,0.0,1970,unknown,126760.0,Condo,unknown
+"1560-Central-Ave,-Unit-440,-Saint-Petersburg,-FL-33705",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"7020-Henry-Quincy-Way,-Charlotte,-NC-28277",225-115-34,L34 BLDG6 M60-713,1.0,2017,unknown,2614.0,Condo,unknown
+"61023-Amethyst-St,-Bend,-OR-97702",181218 CB 04500,BLK:14 SEC/TWN/RNG/MER:SEC 18 TWN 18 RNG 12 MAP REF:181218-CB,1.0,2000,unknown,16553.0,Single Family,HOMESTEAD PH 05
+"6704-Nantucket-Ln,-Arlington,-TX-76001",24893-4-6,MARTHA'S VINEYARD ADDITION BLOCK 4 LOT 6,1.0,1993,unknown,9143.0,Single Family,MARTHA'S VINEYARD ADDITION
+"273-Jaimes-Ln,-Atoka,-TN-38004",084143C A 02000,"DISTRICT: 07, COUNTY AREA: T23",1.0,1994,unknown,52708.0,Single Family,BLAYDES EST SEC H
+"134-Palarm-Creek-Rd,-Conway,-AR-72032",210-00008-000,LOT 8 FAINS LANDING SUB NO 1/3 IN 26-05-13 FD #53,0.0,1951,unknown,0.0,Single Family,FAINS LANDING SUB
+"3482-Big-Sur-Dr,-Las-Vegas,-NV-89122",161-16-210-310,DESERT INN MOBILE EST 1 PLAT BOOK 21 PAGE 9 LOT 171 BLOCK 7,1.0,1979,unknown,3920.0,Manufactured,DESERT INN MOBILE EST 1
+"2432-S-15th-Ave,-Broadview,-IL-60155",15-22-217-025,(BROADVIEW) SUB OF NE & EH NE EX RR SEC 22-39-12,1.0,1944,unknown,6700.0,Single Family,BROADVIEW SUB
+"631-W-Greenfield-St,-Elkhorn,-WI-53121",unknown,unknown,0.0,1960,unknown,16553.0,Single Family,unknown
+"1300-Se-1st-St,-Apt-5,-Fort-Lauderdale,-FL-33301",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1500-Hamilton-St,-Apt-736,-Philadelphia,-PA-19130",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"9220-Bradford-Forest-Dr,-Harrisburg,-NC-28075",5506 63 6015,LOT 2 BRADFORD FOREST SUB,1.0,2002,LDR,46174.0,Single Family,BRADFORD FOREST SUB
+"565-Sparks-Blvd,-Apt-BF618,-Sparks,-NV-89434",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"626-Apple-Orchard-Cir,-Berkeley-Springs,-WV-25411",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"10462-E-Olla-Ave,-Mesa,-AZ-85212",309-19-520,SANTA RITA RANCH PARCEL 5 MCR 473-25,1.0,2000,R-6,7000.0,Single Family,SANTA RITA RANCH PCL 5
+"16151-Silverleaf-Dr,-San-Lorenzo,-CA-94580",80C-495-289,TRACT 6511 LOT 106,1.0,1996,unknown,3167.0,Single Family,unknown
+"5408-Brooks-St,-Rio-Grande-City,-TX-78582",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2109-Elfen-Gln,-Van-Buren,-AR-72956",70005808011,unknown,0.0,2007,unknown,0.0,Duplex-Triplex,RENA VALLEY
+"586-W-Mount-Maria-Rd,-Spruce,-MI-48762",070-011-100-025-00,"T27N R7E SEC 11 COM N 1/8 PT ON E SEC LN, S88DEGW 1301.35 FT, N 498.44 FT, S58DEGE 300 FT TO POB, N31DEGE 190 FT, S58DEGE 110",0.0,0,unknown,20909.0,Single Family,unknown
+"105-S-12th-St,-Apt-C6,-Murray,-KY-42071",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"7463-S-Via-Rancho-Ln,-Costa,-Tucson,-AZ-85756",141-36-4320,LA ESTANCIA DE TUCSON LOT 423,1.0,2021,unknown,0.0,Single Family,LA ESTANCIA DE TUCSON
+"324-Saint-Francis-Way,-Knoxville,-TN-37919",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2391-Sample-Ave,-Clovis,-CA-93611",550-182-13 02,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"102-Long-St,-Morganton,-NC-28655",152,"102 LONG ST MORGANTON, NC 28655",1.0,1958,RESIDENTIAL THREE DIST,23958.0,Single Family,unknown
+"39670-Highview-Dr,-Oakhurst,-CA-93644",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"505-Forest-St,-Martinsville,-VA-24112",52  (07  )00  /02,FR 50 LOT 1 BLK 9,0.0,1936,R-C,12458.0,Single Family,unknown
+"1111-Chamboard-Ln,-Houston,-TX-77018",0923900000035,LT 35 BLK 3 SHEPHERD PARK PLAZA SEC 1,1.0,1961,unknown,7819.0,Single Family,SHEPHERD PARK PLAZA
+"13645-E-Colonial-Dr,-Apt-168,-Orlando,-FL-32826",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"2449-E-Club-Dr-NE,-Apt-114,-Brookhaven,-GA-30319",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2701-Hillsboro-Ave-N,-Apt-309,-Minneapolis,-MN-55427",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"290-Hanover-Rd,-York,-PA-17408",51-000-27-0178.00-00000,unknown,1.0,1960,RS,14980.0,Single Family,unknown
+"6034-S-12th-Pl,-Phoenix,-AZ-85042",114-28-028,VISTA DEL SUR,1.0,1971,R-6,8525.0,Single Family,VISTA DEL SUR
+"1217-Bellaire-Dr-NE,-Brookhaven,-GA-30319",18 239 02 004,CITY/MUNI/TWP:BROOKHAVEN,1.0,1946,R100,26136.0,Single Family,CARLTON OPERATING CO
+"610-E-North-St,-Apt-7,-Greenville,-SC-29601",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"96-Franklin-Square-Dr,-Apt-107,-Munford,-TN-38058",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"509-Wentworth-Ave,-Battle-Creek,-MI-49015",4640-08-197-0,KERTSONS ADD TO FOSTER PARK LOT 97,0.0,1935,R1B,5314.0,Single Family,KERTSONS ADD TO FOSTER PARK
+"4140-Sw-53rd-Ave,-Portland,-OR-97221",1S1E07DC 06500,"SMOKE RISE, BLOCK 4, LOT 7",1.0,1969,R10,18178.0,Single Family,SMOKE RISE
+"1100-16th-St,-Clarkston,-WA-99403",unknown,unknown,0.0,0,unknown,0.0,Land,unknown
+"327-Cedar-Ridge-Rd,-Randleman,-NC-27317",0144669,PT 596-599 S 3 PB 16-56 MIDWAY FOREST PL16-56,1.0,1983,RS-40,65340.0,Single Family,MIDWAY FOREST
+"628A-7-1-2-St-SW,-Charlottesville,-VA-22903",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"375-Meadow-Ln,-Mooresville,-NC-28115",228B073,L4 .94AC,1.0,1990,RA,40946.0,unknown,CORRIHER MEADOWS
+"4200-Veterans-Memorial-Blvd,-Metairie,-LA-70006",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"17511-Ohio-Canal-Ct,-Humble,-TX-77346",1282880020018,LT 18 BLK 2 EAGLE SPRINGS SEC 28 R/P,1.0,2008,unknown,12924.0,Single Family,EAGLE SPRINGS R/P
+"843-Wood-Ave,-Edison,-NJ-08820",05  00500-0000-00012-  04,LOT:12.04 BLK:500 DIST:05 CITY/MUNI/TWP:EDISON TWP MAP REF:TAX MAP 124,1.0,1952,RBB,21516.0,Single Family,RAHWAY ESTATES
+"779-Briarcliff-Dr,-Orange-City,-FL-32763",8015-15-00-0190,LOT 19 BRIARWOOD SOUTH SUB MB 39 PG 100 PER OR 2708 PG 0923 PER UNREC D/C PER D/C 6975 PG 1156 PER OR 6987 PG 1091,1.0,1985,R4,14560.0,Single Family,BRIARWOOD
+"3185-Dove-Ln,-Mulberry,-FL-33860",232928142050001880,PINE LAKE SUB PB-56 PG 18 LOT 188,1.0,1975,RE-1,18125.0,Single Family,PINE LAKE SUBDIVISION
+"8745-Steelhead-Ct,-Reno,-NV-89523",038-785-16,RIVER PARK 2 LT 242 BLK B,1.0,1998,SF8,7449.0,Single Family,RIVER PARK SUBDIVISION 2
+"568-Past-St,-Palmetto,-GA-30268",unknown,unknown,0.0,1964,unknown,11491.0,Duplex-Triplex,unknown
+"78-Tuscarora-Ave,-Beaufort,-SC-29907",unknown,unknown,0.0,0,unknown,0.0,Land,unknown
+"45-313-Namoku-St,-Kaneohe,-HI-96744",1-4-5-062-048,unknown,1.0,1957,U/04/00 - MULTI-LUO,8888.0,Single Family,PIKOILOA TR
+"461-Coopers-Way,-Centerton,-AR-72719",06-01570-000,PLAT 10/17/03 2003-901,1.0,2004,unknown,10454.0,Single Family,SIENNA AT COOPER'S FARM PH 1A-CENTERTON
+"3733-Autumn-Ln,-Baytown,-TX-77521",1085990000159,LT 159 WHISPERING PINES SEC 2,1.0,1976,unknown,8294.0,Single Family,WHISPERING PINES
+"15411-Blackwell-Dr,-Omaha,-NE-68137",2010635320,PHEASANT RUN LOT 161 BLOCK 0 70 X 125,1.0,1979,R3,8750.0,Single Family,PHEASANT RUN
+"515-W-Summit-Ave,-Coeur-D-Alene,-ID-83814",C198000A013A,"COLUMBUS PARK ADD TO CDA, LT 13, W2-LT 14 BLOCK A 1450N04W",1.0,1929,unknown,11195.0,Single Family,COLUMBUS PARK ADD
+"15-S-Church-St,-Unit-4,-Spring-City,-PA-19475",unknown,unknown,0.0,1957,unknown,14120.0,Apartment,unknown
+"1406-Bliss-St,-Belvidere,-IL-61008",05-24-403-016,24-44-3 RIVERBEND NORTH PLAT NO 2 LOT 10 1406 BLISS ST,1.0,2001,unknown,11326.0,Single Family,unknown
+"2100-Winsted-Ln,-Apt-A,-Austin,-TX-78703",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"201-08-116th-Ave,-Saint-Albans,-NY-11412",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"901-44th-Ave-NE,-Saint-Petersburg,-FL-33703",05-31-17-19278-002-0170,"CRISP MANOR 1ST ADD BLK 2, LOT 17",0.0,1963,unknown,8163.0,Single Family,CRISP MANOR 1ST ADD
+"6186-Zachary-Ave,-Springfield,-OH-45502",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"91-1079-Kaupea-St,-Kapolei,-HI-96707",1-9-1-140-007,"LOT 16947 MAP 1317 LCAPP 1069 KAUPEA 5,000 SF",0.0,2007,A-1,5000.0,Single Family,unknown
+"460-W-Hintz-Rd,-Wheeling,-IL-60090",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"5237-Magellan-Way-W,-Delray-Beach,-FL-33484",00-42-46-11-22-000-1140,CASA DEL REY PL 2 LT 114,1.0,1989,RS,3062.0,Single Family,CASA DEL REY PL 2
+"1379-Land-Grove-Dr,-Kernersville,-NC-27284",6865-92-0944.00,SEDGE HOLLOW LO014 PH2 BL5641R PL67-140,1.0,2018,RS9,7405.0,Single Family,SEDGE HOLLOW PH 1
+"8735-Crampton-Dr,-Powell,-OH-43065",590-219067,CRAMPTON DRIVE SUMMIT VIEW WOODS SECTION 4 LOT 314,1.0,1993,unknown,11520.0,Single Family,SUMMIT VIEW WOODS SEC 4
+"67-Lagoon-Rd,-Statesboro,-GA-30461",unknown,unknown,0.0,0,unknown,60984.0,Land,unknown
+"25267-18th-St,-San-Bernardino,-CA-92404",0273-323-07-0000,TRACT 4025 LOT 16,1.0,1956,unknown,7254.0,Single Family,PERRIS HILL KNOLLS UNIT #2
+"Carthage-Rd,-West-End,-NC-27376",unknown,unknown,0.0,0,unknown,852034.0,Land,unknown
+"5286-24th-St,-Detroit,-MI-48208",12008756.,"E 24TH 2 MEGINNITY & KINNUCANS SUB L12 P16 PLATS, W C R 12/135 30 X 134.97",1.0,1910,R2,3920.0,Single Family,MEGINNITY KINNUCANS SUB
+"2108-E-Woodstone-Dr,-Hayden,-ID-83835",H34540120110,"FOREST HILLS 2ND ADD, LT 11 BLK 12 1951N03W",1.0,2001,unknown,21867.0,Single Family,FOREST HILLS 2ND ADD
+"1348-Yadkinville-Rd,-Mocksville,-NC-27028",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"10243-Classic-Oak-Rd-N,-Jacksonville,-FL-32225",161296-1052,39-56 07-2S-28E HOLLY OAKS MANOR REPLAT LOT 26,1.0,1984,RLD-60,6087.0,Single Family,HOLLY OAKS MANOR REPLAT
+"1406-E-6th-Ave,-Brodhead,-WI-53520",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"505-N-Maple-St,-Searcy,-AR-72143",unknown,unknown,0.0,2022,unknown,26136.0,Duplex-Triplex,unknown
+"602-4th-St-S,-Northwood,-IA-50459",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"30264-Lands-End-Pl,-Canyon-Lake,-CA-92587",355-023-036,LOT 81 SUBDIVISIONNAME TR 3779 LOTTYPE LOT RECMAPTYPE MAP BOOK MAPPLATB 059 MAPPLATP 056,0.0,1987,R1,7405.0,Single Family,unknown
+"7992-N-Indian-Rd-E,-Dry-Fork,-UT-84078",unknown,unknown,0.0,0,unknown,0.0,Land,unknown
+"7142-S-Maplewood-Ave,-Chicago,-IL-60629",19-25-204-036,FREDK H (BARTLETTS)(WESTERN) AVE SUB OF NE NE SEC 25-38-13,1.0,1926,unknown,3780.0,Single Family,BARTLETTS WESTERN
+"2727-W-43rd-St,-Apt-410,-Minneapolis,-MN-55410",08-028-24-42-0329,UNIT NO G25,1.0,1968,unknown,0.0,unknown,unknown
+"704-Walnut-Ridge-Ests,-Pottstown,-PA-19464",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"11839-Loma-Dr,-Apt-8,-Whittier,-CA-90604",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"3327-Las-Vegas-Blvd-S,-Ste-1560,-Las-Vegas,-NV-89109",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"6033-W-Bethany-Home-Rd,-Apt-804,-Glendale,-AZ-85301",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"11505-Pace-Bend-Ct,-Gibsonton,-FL-33534",U363019B64000000000260,VICTORY LANDING LOT 26,0.0,2020,PD,6250.0,Single Family,unknown
+"297-County-Hwy,-241,-Benton,-MO-63736",unknown,unknown,0.0,0,unknown,87120.0,Land,unknown
+"824-Pecos-River-Dr,-Granbury,-TX-76048",11481.001.0322.0,LOT: 322 & 321 BLK: 1 SUBD: COMANCHE COVE SUB SEC A,1.0,1979,unknown,0.0,Manufactured,COMANCHE COVE
+"202-Crossroads-Cir,-Montrose,-CO-81401",unknown,unknown,0.0,0,unknown,0.0,Condo,unknown
+"2-W-Rawhide-Ave,-Gilbert,-AZ-85233",302-34-064,RAWHIDE PARK,1.0,1971,R-10,10346.0,Single Family,RAWHIDE PARK
+"5103-Concordia-St,-Fairfax,-VA-22032",068-4-05-02-0023,COUNTRY CLUB VIEW LT 23 BLK 2 SEC 7,1.0,1970,R-2C(R-2 W/CLUSTER DEV),15788.0,Single Family,COUNTRY CLUB VIEW
+"11211-Nw-7th-St,-Apt-2,-Miami,-FL-33172",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"5606-Dalrymple-Rd,-Minneapolis,-MN-55424",19-028-24-23-0021,015 002 GOLF TERRACE HEIGHTS 1ST ADDN 90 X 150,1.0,1950,R-1,13504.0,Single Family,GOLF TERRACE HEIGHTS 1ST ADDN
+"1544-S-53rd-St,-Philadelphia,-PA-19143",51-2-0161-00,"80'4"" S OF UPLAND ST",1.0,1925,RM1,1248.0,Condo,BEECHWOOD COMMONS CONDO
+"300-Mercer-St,-Apt-30J,-New-York,-NY-10003",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"627-Cory-St,-Bessemer,-AL-35020",38-00-20-4-001-007.000,LOT 17 & N 5 FT OF LOT 16 BLK 7 TENN LD COS EASTERN VALLEY SUB,1.0,1954,R2,23000.0,Single Family,TENN LD CO EASTERN VALLEY
+"PO-Box-527,-Harrison,-NJ-07029",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"12-Huntington-Ln,-Willingboro,-NJ-08046",38  00607-0000-00004,ADDITIONAL LOTS: 0600N+2300,1.0,1963,unknown,6996.0,Single Family,HAWTHORNE PARK SEC 101
+"10721-Emerald-Park-Ln,-Fort-Worth,-TX-76052",unknown,unknown,0.0,2006,unknown,8276.0,Single Family,unknown
+"315-May-Oak-Rd,-Columbia,-SC-29229",23101-05-03,"LOT 91 52.5X200.9X48.9X101.1X167.4 #SU MAYWOOD PLACE PH IV #PR RB297-2632,RB325-481",1.0,1999,PDD,0.0,Single Family,MAYWOOD PLACE PH 4
+"2070-World-Parkway-Blvd,-Apt-20,-Clearwater,-FL-33763",06-29-16-64009-015-0200,"ON TOP OF THE WORLD UNIT 12 CONDO BLDG 15, APT 20 (WING ""F"" NE)",0.0,1971,unknown,0.0,Condo,ON TOP OF THE WORLD UNIT 12 CONDO
+"105-S-Alarcon-St,-Unit-A,-Prescott,-AZ-86303",unknown,unknown,0.0,1895,unknown,8276.0,Duplex-Triplex,unknown
+"1636-Hull-Ave,-Apt-202,-Des-Moines,-IA-50313",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2441-Carlmont-Dr,-Apt-306,-Belmont,-CA-94002",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"11151-Trinity-River-Dr,-Rancho-Cordova,-CA-95670",056-0410-039-0000,"LARCHMONT SUNRIVER 05 EXC M/R, LOT 467",1.0,1983,RD 5,7405.0,Single Family,LARCHMONT SUNRIVER 05 EXC M/R
+"1725-Tillstream-Dr,-Orlando,-FL-32818",23-22-28-1782-02-440,COUNTRY CHASE UNIT 5 36/27 LOT 244,1.0,1997,R-L-D,6325.0,Single Family,COUNTRY CHASE UT 5
+"1241-5th-St,-Whitehall,-PA-18052",549894576858-1,LOTS: 021,1.0,1958,R-4,9570.0,Single Family,ECHO HILLS
+"22271-E-Bellewood-Pl,-Aurora,-CO-80015",2073-12-3-08-005,SUBDIVISIONCD 017486 SUBDIVISIONNAME COPPERLEAF 2ND FLG BLOCK 027 LOT 005 LOT 5 BLK 27 COPPERLEAF 2ND FLG EX M/R'S,0.0,2007,AMU,4500.0,Single Family,COPPERLEAF 2ND FLG
+"14-Santa-Cruz-Dr,-Florissant,-MO-63031",09J-2-3-101-9,MARYVILLE & LOT PT 7,1.0,1951,24R4,9148.0,Single Family,MARYVILLE
+"1595-Mono-Ave,-San-Leandro,-CA-94578",080 004004502,unknown,0.0,1971,unknown,14500.0,Duplex-Triplex,unknown
+"1825-Oates-Dr,-Apt-722,-Mesquite,-TX-75150",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"506-Hiawatha-Trl,-Georgetown,-KY-40324",140-20-399.000,INDIAN HILLS,0.0,0,unknown,0.0,Single Family,INDIAN HILLS
+"9136-Trail-Ct,-Jonesboro,-GA-30238",05-235A- D-017,LOT:34 CITY/MUNI/TWP:UNINCORPORATED CNTY W/FIRE SUBD:GREENWOOD HILLS,1.0,1974,RS110,0.0,Single Family,GREENWOOD HILLS
+"101-E-10th-St,-Ste-4G,-New-York-City,-NY-10003",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"2434-Covey-Ct,-Santa-Rosa,-CA-95403",152-220-008-000,QUAIL HOLLOW UNIT#1 LOT 8,1.0,1986,unknown,6969.0,Single Family,QUAIL HOLLOW UN #1
+"3318-Saint-James-Pl,-Falls-Church,-VA-22042",060-1-16-0055,RAYMONDALE LT 55 SEC 3,1.0,1956,R-4(RESIDENTIAL 4 DU/AC),11110.0,Single Family,RAYMONDALE
+"1627-Woodhaven-Ct,-Mundelein,-IL-60060",10-23-413-090,"WOODHAVEN; UNIT 3-1627-B & .4894% INT IN COMMON ELEMENTS IN WOODHAVEN CONDO PER DOC 3210343,3280141",1.0,1991,unknown,0.0,Condo,WOODHAVEN CONDO
+"18335-Sagebrush-Trl,-Desert-Hot-Springs,-CA-92241",657-312-005,LOT 5 SUBDIVISIONNAME B BAR H RANCH ESTATES 3 LOTTYPE LOT RECMAPTYPE MAP BOOK MAPPLATB 036 MAPPLATP 080,0.0,1992,R1,9148.0,Single Family,B BAR H RANCH ESTATES
+"PO-Box-2006,-Denham-Springs,-LA-70727",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"9758-Old-Lincoln-Trl,-Fairview-Heights,-IL-62208",03-30-0-404-024,GREEN RIDGE HEIGHTS LOT/SEC-5 ALL LT 5 & SW 35 FT LT 6 DOC A01658266,1.0,1962,unknown,27007.0,Single Family,RIDGE HEIGHTS
+"2457-S-Palmetto-Ave,-Sanford,-FL-32771",36-19-30-541-0000-0760,S 32 FT OF LOT 76 + N 48 FT OF LOT 77 PINE HEIGHTS PB 3 PG 51,1.0,1957,unknown,14880.0,Single Family,PINE HEIGHTS
+"J5-The-Mdws,-Clifton,-NJ-07012",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"65-Cambridge-Ave,-Jersey-City,-NJ-07307",06  03801-0000-00008,LOT:8 BLK:3801 DIST:06 CITY/MUNI/TWP:JERSEY CITY CITY MAP REF:TAX MAP 38,1.0,1880,R-2,2500.0,Single Family,unknown
+"1491-Pompey-Dr,-San-Jose,-CA-95128",279-28-026,TR 1820 LOT 24,1.0,1958,R2,7130.0,Duplex-Triplex,unknown
+"257-Deerwood-Cir,-Unit-2-9,-Naples,-FL-34113",unknown,unknown,0.0,1990,unknown,0.0,Condo,unknown
+"933-West-Blvd,-Hartford,-CT-06105",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1500-Holly-Ln-NE,-Atlanta,-GA-30329",18 152 02 005,CITY/MUNI/TWP:UNINCORPORATED,1.0,1957,R85,13068.0,Apartment,MERRY HILLS SUB
+"1019-Sw-39th-St,-San-Antonio,-TX-78237",08991-017-0233,NCB 8991 BLK 17 LOT N 29.05 FT OF 22 & S 50.95 FT OF 23,1.0,1930,unknown,26659.0,Single Family,CONV A/S CODE
+"256-E-Gas-Ave,-York,-PA-17403",02-028-01-0048.00-00000,DIST:WARD 02 CITY/MUNI/TWP:YORK CITY,1.0,1900,RS,958.0,Single Family,unknown
+"1806-N-Culberson-St,-Gainesville,-TX-76240",unknown,unknown,0.0,1952,unknown,8407.0,Single Family,unknown
+"2520-Sea-Robin-Rd,-Pensacola,-FL-32526",43-1S-30-1000-005-001,LT 5 BLK A SOUTH GULF MANOR UNIT 2 PB 10 P 19 OR 8172 P 794,1.0,1978,MDR,10193.0,Single Family,SOUTH GULF MANOR UNIT #1
+"Big-Woods-Rd,-Smyrna,-DE-19977",unknown,unknown,0.0,0,unknown,0.0,Land,unknown
+"106-Anita-Dr,-Egg-Harbor-Township,-NJ-08234",unknown,unknown,0.0,1970,unknown,14000.0,Single Family,unknown
+"231-S-Cherry-St,-Itasca,-IL-60143",03-08-402-007,FIRST ADDITION TO ITASCA TERRACE,1.0,1972,R,9583.0,Single Family,FIRST ADDITION
+"1521-N-Elk-Grove-Ave,-Chicago,-IL-60622",17-06-201-014,(PICKETS)(SECOND) ADD TO (CHICAGO) BEING LT4 OF ASSES SORS DIV OF UNSUBDIVIDED LANDS IN EH NW & NE SEC 06-39-14,1.0,1897,unknown,2175.0,Single Family,PICKETS SECOND ADD TO CHICAGO
+"2613-N-Prospect-Ave,-Springfield,-MO-65803",unknown,unknown,0.0,0,unknown,0.0,Land,unknown
+"917-Katie-Cir,-Royersford,-PA-19468",61-00-02802-206,24 X 100 2400 SF,1.0,1998,R3,2400.0,Single Family,INDIAN CRK
+"18055-Manning-Dr,-Prairieville,-LA-70769",020015141,LOT 41 TWELVE OAKS SD (308675-MAP#170390) (485498) (609638) (643323) (MAP#467869) (644536) (MAP#495654 & #500311) (COB509935),1.0,2002,unknown,0.0,Single Family,TWELVE OAKS (2002)
+"20748-W-Grant-Mine-Rd,-Wittmann,-AZ-85361",503-48-617,CHAPARRAL RANCHEROS UNIT 2 LOTS 224 THRU 345 REPLAT MCR 489-16,0.0,1983,R-43,50211.0,Manufactured,CHAPARRAL RANCHEROS
+"5500-Broken-Sound-Blvd-NW,---2-1202,-Boca-Raton,-FL-33487",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"10122-Harvest-Gold-Dr,-Charlotte,-NC-28215",5505 59 7343,LT 345 HOLCOMB WOODS,1.0,2021,RV-CZ,14549.0,Single Family,unknown
+"117-Pinckney-Pl,-Aiken,-SC-29803",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"16-Prospect-St,-Waterville,-ME-04901",WAVL M:052 B:256,BLK:256 CITY/MUNI/TWP:WATERVILLE,1.0,1962,unknown,11761.0,Single Family,unknown
+"14-Langdon-Ct,-Sicklerville,-NJ-08081",36  11001-0000-00034,LOT:34 BLK:11001 DIST:36 CITY/MUNI/TWP:WINSLOW TWP MAP REF:TAX MAP 110,0.0,1975,RM,1498.0,Single Family,INDEPENDENCE VILLAGE
+"4805-Hahns-Peak-Dr,-Unit-204,-Loveland,-CO-80538",85094-75-204,"UNIT 204, LAKESHORE AT CENTERRA CONDOS PH S SUPP 18, LOV (20060073335)",0.0,2006,unknown,525.0,Condo,LAKESHORE AT CENTERRA CONDOS PH S SUPP 1
+"517-S-Moon-Rd,-Apache-Junction,-AZ-85119",103-08-013J,"THAT PORTION OF THE EAST HALF OF THE NORTHWEST QUARTER OF THE SOU THWEST QUARTER OF THE SOUTHWEST QUARTER OF SECTION 24,",1.0,2020,unknown,43560.0,Single Family,PORTION OF
+"4127-Sunnyside-Ave,-Baltimore,-MD-21215",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"202-Southland-Dr,-Sanger,-TX-76266",R58112,SANGER SOUTH BLK 1 LOT 18,1.0,1978,unknown,12528.0,Single Family,SANGER SOUTH
+"1938-Kingston-Rd,-Farmington,-UT-84025",08-045-0008,"ALL OF LOT 8, SOMERSET HOLLOW PRD",1.0,1983,R,10890.0,Single Family,SOMERSET HOLLOW
+"277-Mark-Ave,-Glendale-Heights,-IL-60139",02-34-202-010,RESKINS NINTH ADD TO GLENDALE HEIGHTS,1.0,1968,R,6970.0,Single Family,OLD GLENDALE HGTS CENTRAL RUS
+"139-S-15th-Ave,-Maywood,-IL-60153",15-10-230-019,unknown,1.0,1900,unknown,3325.0,Land,PROVISO LAND ASSOCIATION ADD TO MAYW
+"3579-Warfield-Rd,-Graham,-NC-27253",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4261-Edelweiss-Dr,-Plainfield,-IN-46168",32-10-33-121-003.000-012,THE OVERLOOK SEC 1 LOT 48 0.319 AC (PLAT),1.0,2019,unknown,13896.0,Single Family,OVERLOOK SEC 1
+"3951-Forestside-Dr,-Columbus,-GA-31907",086 024 029,9 BK A FORESTSIDE COURT,0.0,1948,unknown,20038.0,Single Family,FORESTSIDE COURT
+"7570-W-Flamingo-Rd,-Unit-159,-Las-Vegas,-NV-89147",163-15-413-003,RAIN TREE CONDO-UNIT #1 PLAT BOOK 46 PAGE 73 UNIT 103 BLDG 1,0.0,1991,unknown,3540.0,Condo,RAIN TREE CONDO-UNIT #1
+"410-Market-St,-Galveston,-TX-77550",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"8633-Barrique-Rd,-New-Kent,-VA-23124",unknown,unknown,0.0,2023,unknown,50225.0,Single Family,unknown
+"11057-Sw-3rd-St,-Unit-11057,-Sweetwater,-FL-33174",unknown,unknown,0.0,1971,unknown,7000.0,Condo,unknown
+"581-Roosevelt-Hall,-Ypsilanti,-MI-48197",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"355-N-Boise-Ave,-Loveland,-CO-80537",85183-63-003,"LOT 3, BLK 1, WATER EIGHTH SUB, LOV (20170046076)",0.0,2018,unknown,8059.0,Duplex-Triplex,WATER 8TH SUB
+"1500-The-Plz,-Charlotte,-NC-28205",09507911,L11 M230-236,1.0,1930,R-5 (HD),12645.0,Single Family,OAKLAND HEIGHTS
+"1007-Quail-Hollow-Dr,-Mary-Esther,-FL-32569",16-2S-25-4544-000B-0040,QUAIL RUN LOT 4 BLK B,1.0,1987,unknown,10802.0,Single Family,QUAIL RUN
+"101-Boucher-Ln,-Ligonier,-PA-15658",51-23-08-0-003,LOT CTG,1.0,0,unknown,25900.0,Single Family,unknown
+"130-Dwight-St,-Waterbury,-CT-06704",WBRY M:0116 B:0952 L:0068,LOT:68 BLK:952 CITY/MUNI/TWP:WATERBURY,1.0,1928,RL,9583.0,Single Family,unknown
+"4899-Smithfield-Dr,-Manchester,-MD-21102",06-068405,LT 18 - 2.15166 ACS 4899 SMITHFIELD DR 47-18 STONEY VALLEY,1.0,2003,unknown,93654.0,Single Family,STONEY VLY
+"42-Chester-St,-West-Springfield,-MA-01089",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"82-Crow-Creek-Rd,-Darby,-MT-59829",unknown,unknown,0.0,0,unknown,217800.0,Land,unknown
+"22-Lake-Julia-Dr-S,-Ponte-Vedra-Beach,-FL-32082",066240 0210,13/60-62 SAWGRASS GARDEN HOMES I LOT 21 OR5082/793,1.0,1979,PUD,8276.0,Single Family,SAWGRASS GARDEN HOMES I
+"2410-Everest-Pkwy,-Cape-Coral,-FL-33904",33-44-24-C1-01240.0010,CAPE CORAL UNIT 19 BLK 1240 PB 13 PG 134 LOTS 1 + 2,1.0,1978,R1-W,10000.0,Single Family,CC UT PT 19 GOLD COAST
+"1388-Laurel-Hill-Dr,-Clermont,-FL-34711",20-22-26-1506-000-17100,NORTH RIDGE PHASE III PB 48 PG 78-79 LOT 171 ORB 3755 PG 764,0.0,2004,unknown,10000.0,Single Family,NORTH RIDGE PHASE III
+"600-Beverly-Ave-E,-Sherwood,-AR-72120",23S-044-03-064-00,LOT:27 BLK:315 SUBD:PARK HILL 3S SEC/TWN/RNG/MER:SEC 07 TWN 02N RNG 11W,1.0,1959,unknown,10890.0,Single Family,PARK HILL 3S
+"729-Daniel-Freeman-Cir,-Inglewood,-CA-90301",4015-024-058,TR=73073 POR LOT 2 PH 1.5 CONDO UNIT 76 (AIRSPACE AND 1/30 INT IN COMMON AREA),1.0,0,INRM*,91347.0,Condo,unknown
+"4400-Kingfish-Ln,-Unit-1,-Panama-City-Beach,-FL-32408",unknown,unknown,0.0,0,unknown,0.0,Townhouse,unknown
+"1632-Ne-Prescott-St,-Apt-6,-Portland,-OR-97211",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"PO-Box-2621,-Weatherford,-TX-76086",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1702-Parkway-Dr,-Lubbock,-TX-79403",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4347-Beachside-Two-Dr,-Unit-4347,-Miramar-Beach,-FL-32550",unknown,unknown,0.0,0,unknown,0.0,Condo,unknown
+"31-Oakview-Ter,-Unit-2,-Boston,-MA-02130",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"810-Sycamore-St,-Ste-609,-Cincinnati,-OH-45202",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4001-Airport-Fwy,-Ste-400,-Bedford,-TX-76021",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"386-Whitecliff-Dr,-Ellijay,-GA-30540",3046B 027,LT 27 HARPER COVE,0.0,2001,R1,140263.0,Single Family,HARPER COVE
+"6002-S-82nd-St,-Unit-1A,-Tampa,-FL-33619",unknown,unknown,0.0,0,unknown,0.0,Duplex-Triplex,unknown
+"42-Acorn-Ct,-Zion-Crossroads,-VA-22942",36B  2     4,SPRING CREEK SUBDIVISION PB 8/2270-75 PHASE B SEC 2 LOT 4 DB 1194/113 .281 AC,1.0,2009,unknown,12240.0,Single Family,SPRING CREEK
+"8445-Graves-Ave,-Unit-6,-Santee,-CA-92071",387-061-13-06,TR 8048 LOT 1*US A-6 PER DOC75-222269&UND INT IN,1.0,1975,R-1:SINGLE FAM-RES,70090.0,Condo,GRAVES AVENUE VILLAS
+"4844-Tarragon-Ln,-Grand-Prairie,-TX-75052",23213Q-1-53,LAKE PARKS NORTH BLOCK 1 LOT 53,1.0,2009,unknown,9845.0,Single Family,LAKE PARKS NORTH
+"10319-Denison-Ave,-Cupertino,-CA-95014",316-29-055,TR 2086 LOT 112,1.0,1960,R1,7474.0,Single Family,IDLEWILD GREENS
+"14120-Sw-168th-Ln,-Miami,-FL-33177",30-5927-027-4180,LAGUNA PONDS SEC 2 PB 149-75 /LOC IN 5934 T-19105 LOT 14 BLK 20 LOT SIZE 8629 SQ FT FAU 30-5934-000-0160 OR 17771-1299 0897 1,1.0,1997,0101:SINGLE FAMILY,8629.0,Single Family,LAGUNA PONDS SEC 2
+"730-Hawks-Crest-Ln,-Blacklick,-OH-43004",170-003643,VILLAS AT HAWKS CREST CONDOMINIUM 2ND AMD BLDG 2 UNIT 730,1.0,2005,unknown,0.0,Condo,VILLAS AT HAWKS CREST 2ND AMD
+"1696-Snows-Mill-Rd,-Monroe,-GA-30655",C1650-007,3.36AC,0.0,1984,A2,146362.0,Single Family,LYNDA M & BILLY J PHELPS SURV
+"1511-W-Speedway-Blvd,-Tucson,-AZ-85745",116-12-488A,EL RIO PARK LOT 3 EXC N44' BLK 21,0.0,1980,unknown,7901.0,Single Family,EL RIO PARK
+"1419-El-Camino-Real,-Santa-Clara,-CA-95050",224-48-078,TR 10474 UNIT 43,1.0,2020,CT,1364.0,Condo,unknown
+"350-Hillside-Dr,-New-Cumberland,-PA-17070",25-25-0008-053,LOT 2 SEC A PB 8 PG 18,1.0,1956,unknown,37026.0,Single Family,unknown
+"862-Bridgewood-Dr,-Rock-Hill,-SC-29732",631-16-01-010,UNIT 203 C,1.0,1981,unknown,0.0,Single Family,CROSSCREEK HPR
+"PO-Box-366,-Conestee,-SC-29636",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"5117-Saratoga-Ave,-Bethesda,-MD-20816",07-00657651,GLEN COVE,1.0,1937,R60,6907.0,Single Family,GLEN COVE
+"20550-150th-St,-Carroll,-IA-51401",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"213-Bridle-Ln,-Washington,-PA-15301",170-017-09-00-0041-00,LOT 41 .207 AC HSE 1 STY/GAR,1.0,2020,unknown,9017.0,Single Family,unknown
+"3404-Ribbon-Reef-Ln,-Austin,-TX-78728",02761805420000,LOT 59 BLK A JACK'S POND SEC 3,1.0,1999,unknown,6325.0,Single Family,JACK'S POND SEC 3
+"208-Lakeside-Dr,-Newport,-NC-28570",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"497-Spring-Lake-Dr,-Melbourne,-FL-32940",26-36-14-NL-00001.0-0037.00,SUNTREE P.U.D. STAGE 5 TRACT 55 LOT 37 BLK 1 & PARCEL C,1.0,1989,PUD,15246.0,Single Family,SUNTREE P.U.D. STAGE 5 TRACT 55
+"4700-Catawba-River-Rd,-Edgemoor,-SC-29712",unknown,unknown,0.0,0,unknown,773626.0,Land,unknown
+"18800-Cohasset-St,-Unit-B,-Los-Angeles,-CA-91335",unknown,unknown,0.0,0,unknown,0.0,Townhouse,unknown
+"433-Hoopers-Creek-Rd,-Fletcher,-NC-28732",9673326611,SR1569 ON HOOPERS CREEK,0.0,1951,10000705~R2R,194713.0,Single Family,HOOPERS CREEK
+"2945-Avenida-Valera,-Carlsbad,-CA-92009",216-462-19-00,TR 12906 LOT 78,1.0,1995,R-1:SINGLE FAM-RES,5220.0,Single Family,FAIRWAYS
+"11223-Ratliffe-St,-Norwalk,-CA-90650",8049-005-016,TRACT NO 17581 LOT 110,1.0,1952,NOR15000*,5027.0,Single Family,17581
+"470-El-Portal-Dr,-Merced,-CA-95340",006-252-001-000,W PK VIL #3 LOT 48,1.0,1976,unknown,7703.0,Single Family,WAINWRIGHTS PARK VILLAGE 03
+"6067-Warbling-Ln,-Westerville,-OH-43081",010-259532,BLENDON CHASE CONDOMINIUM 9TH AMD UNIT 27-6067,1.0,2001,unknown,0.0,Condo,BLENDON CHASE 9TH AMD
+"74-Clemmer-Ave,-Akron,-OH-44313",68-13231,SV-ELM HILL EST LOT 30 ALL,1.0,1950,unknown,7632.0,Single Family,ELM HILL ESTATES
+"2229-Via,-Firenze,-Henderson,-NV-89044",191-14-715-008,INSPIRADA POD 2-1 UNIT 1 PLAT BOOK 150 PAGE 29 LOT 8,1.0,2017,unknown,2622.0,Single Family,INSPIRADA POD 2-1 UNIT 1
+"5111-Bonnedale-Ct,-Tampa,-FL-33624",U17281813G000000001310,CHADBOURNE VILLAGE LOT 131,1.0,1982,PD,3705.0,Single Family,CHADBOURNE VILLAGE
+"9-Short-24th-Ave-E,-Tuscaloosa,-AL-35404",30-04-17-3-004-004.000,LOT 6 IN BLK B IN THE PINES SUBD,0.0,1955,R-3,6968.0,Single Family,THE PINES SUBD
+"485-Brown-Thrasher-Ct,-Alpharetta,-GA-30009",22 514912560558,AN ANNEXATION AN ZONING CORR (04,1.0,1992,R10M,6665.0,Single Family,WEDGEWOOD
+"15400-Sw-81st-Cir-Ln,-Apt-1011,-Miami,-FL-33193",unknown,unknown,0.0,1981,unknown,0.0,Condo,unknown
+"5-Running-Brook-Rd,-Waterbury,-CT-06704",unknown,unknown,0.0,1999,unknown,6970.0,Single Family,unknown
+"2100-Augusta-Blvd,-Apt-134,-Fairfield,-OH-45014",A0700-144.000-072,UNIT 134 POINT PLEASANT CONDO VIII,0.0,1985,unknown,0.0,Condo,POINT PLEASANT CONDO V
+"10530-Secretariat-Dr,-Indianapolis,-IN-46234",32-08-29-492-012.000-022,WYNBROOKE SUB SEC 6 LOT 441 0.12AC,0.0,2003,unknown,5227.0,Single Family,WYNBROOKE SUB
+"445-S-Shelby-St,-Hobart,-IN-46342",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"1-Lucier-St,-Nashua,-NH-03064",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"12549-Wissant-Ln,-Saint-Louis,-MO-63146",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4660-Marysville-Rd,-Delaware,-OH-43015",420-120-01-004-000,LOTS 348,1.0,1985,unknown,0.0,Single Family,HIDDEN LAKE SUB
+"1536-Greenbriar-Blvd,-Boulder,-CO-80305",1577-09-3-13-072,UNIT 119 BLDG 11 MOUNTAIN SHADOWS TOWNDOMINIUMS & UND 1/123 INT IN COMMON ELEMENTS,0.0,1971,unknown,0.0,Condo,MOUNTAIN SHADOWS TOWNDOMINIUMS - BO
+"3141-Glennhaven-Dr,-Byram,-MS-39272",4855 0124 016,LOT 16 GLENNHAVEN PT I TOWN OF BYRAM,1.0,1997,unknown,0.0,Single Family,unknown
+"603-E-9th-St,-Washington,-NC-27889",5685-29-6425,2 L 3AND4 BLK F COR 9TH AND CHARLOTTE ST,0.0,1981,unknown,30928.0,Apartment,unknown
+"132-Herndon-Dr,-Evansville,-IN-47711",82-06-17-031-006.007-029,BOSSE FIELD TERR. PT LT 14,1.0,1909,unknown,5890.0,Single Family,BOSSE FIELD TERRACE
+"3402-Griffin-Rd,-Fort-Lauderdale,-FL-33312",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2291-Peeksville-Rd,-Locust-Grove,-GA-30248",160-01082000,LLOT: 209 LDIST:1 LOT:10,1.0,1998,RA,106591.0,Single Family,unknown
+"1913-Michelle-Ct,-Grove-City,-OH-43123",040007303,000 MICHELLE DRIVE EAST SECTION 2 LOT 99 KELLER FARM,0.0,1993,unknown,10250.0,Single Family,KELLER FARM EAST SEC 02
+"158-Midwood-Ave,-Waterbury,-CT-06708",WATE M:0249 B:0052 L:0056,000249 - 000052 - 000056  -  000000,1.0,1991,RS,14810.0,Single Family,PONDS
+"408-Winter-Park-Dr,-O-Fallon,-MO-63366",2-0060-7338-00-0116.0000000,WINTERHAVEN LOT 116,1.0,1997,unknown,9583.0,Single Family,WINTERHAVEN
+"3230-Brawner-Pkwy,-Corpus-Christi,-TX-78411",2066-0004-0370,DELLWOOD 2 LT 37 BK 4,1.0,1951,unknown,9017.0,Single Family,DELLWOOD #2
+"815-Kilsyth-Rd,-Elizabeth,-NJ-07208",04  00011-0000-00477,unknown,0.0,1914,unknown,6103.0,Single Family,ROUTLEDGE
+"815-1st-St,-Augusta,-GA-30901",060-2-068-00-0,WALKER VILLA (00000) 034-2,0.0,1951,R-1C,7405.0,Single Family,WALKER VILLA
+"36550-Chester-Rd,-Apt-2702,-Avon,-OH-44011",unknown,unknown,0.0,0,unknown,0.0,Apartment,unknown
+"29015-Abbey-Grove-Ln,-Katy,-TX-77494",9800-06-001-0060-914,"YOUNG RANCH SEC 6, BLOCK 1, LOT 6",1.0,2020,unknown,11863.0,Single Family,YOUNG RANCH SEC 6
+"1417-S-Camlan-Ln-W,-Springville,-UT-84663",unknown,unknown,0.0,0,unknown,0.0,Single Family,unknown
+"1803-Sw-Stallings-Dr,-Ste-1,-Nacogdoches,-TX-75964",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"Rolling-Hls,-Lot-8,-Viroqua,-WI-54665",unknown,unknown,0.0,0,unknown,105415.0,Land,unknown
+"2316-Wyoming-St,-Carlsbad,-NM-88220",unknown,unknown,0.0,0,unknown,0.0,Land,unknown
+"20-Washington-St,-Apt-49,-Methuen,-MA-01844",METH M:00810 B:00077B L:00049J,LOT:49J BLK:77B CITY/MUNI/TWP:METHUEN,1.0,1981,RA,0.0,Condo,unknown
+"850-Sw-7th-St,-Fort-Lauderdale,-FL-33315",504210410341,"SEAWANNA SUB BLK 63 FT LAUDERDALE 3-25 B LOT 13 LESS W 110,14 LESS W 110 & S 3 BLK 63",0.0,1972,RD-15,8414.0,Apartment,SEAWANNA SUB BLK 63
+"4923-W-31st-St,-Little-Rock,-AR-72204",34L-301-00-105-00,unknown,0.0,1950,unknown,6098.0,Single Family,OAKHURST
+"1335-Scott-Ave,-Fort-Wayne,-IN-46807",02-12-10-478-014.000-074,LOT 44 THOMPSONS 2ND ADD,0.0,1920,unknown,6460.0,Single Family,THOMPSONS 2ND ADD
+"105-Dakota-Dr,-Rio-Grande-City,-TX-78582",141870000000132000000,RANCHO VISTA S/D PH VLOT 132NEW S/D 2008,1.0,2012,unknown,21780.0,Single Family,RANCHO VISTA S/D
+"2980-Delmar-Ln-NW,-Apt-H7,-Atlanta,-GA-30311",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"18936-Nw-85th-Ave,-Apt-2606,-Hialeah,-FL-33015",30-2003-044-2080,IBIS VILLAS AT MIAMI GARDENS CONDO UNIT 2606 BLDG 26 PH IV UNDIV 0.368127709351132% INT IN COMMON ELEMENTS OFF REC 18876-4699,0.0,2004,"3700:MULTI-FAM,10-21 U/A",0.0,Condo,IBIS VILLAS AT MIAMI GARDENS
+"227-Center-St,-Canandaigua,-NY-14424",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"95-E-King-St,-Dallastown,-PA-17313",54-000-28-0174.00-00000,LOT 74; DENTON TER,1.0,1970,RS,11892.0,Single Family,DENTON TERRACE
+"1612-Houston-Blvd,-Apt-13,-South-Houston,-TX-77587",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"919-W-Prince-Rd,-Tucson,-AZ-85705",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"9177-S-South-Chicago-Ave,-Apt-602,-Chicago,-IL-60617",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2970-N-Cardell-Cir,-Tucson,-AZ-85712",110-06-4970,MONTE VISTA LOT 0011,1.0,2002,unknown,4104.0,Single Family,MONTE VISTA
+"7-Di-Lago-Park-Place-Dr,-Shady-Shores,-TX-76208",R301868,TERRA DI LAGO HIDDEN COVE ESTATES BLK A LOT 7,1.0,2016,unknown,27007.0,Single Family,TERRA DI LAGO HIDDEN COVE ESTATES
+"21258-Woodland-Way,-Shorewood,-IL-60404",unknown,unknown,0.0,0,unknown,0.0,Land,unknown
+"6433-Birchcrest-Ct,-Las-Vegas,-NV-89108",138-11-111-141,WOODCREST UNIT #1 AMD PLAT BOOK 30 PAGE 30 LOT 27 BLOCK 4,1.0,1984,unknown,4356.0,Single Family,WOODCREST UNIT #1 AMD
+"3548-Paradise-Dr,-Laredo,-TX-78046",81208000529,unknown,0.0,0,unknown,0.0,Manufactured,unknown
+"2029-Airport-Rd,-Whispering-Pines,-NC-28327",00038158,LOT 233 PH IV SEC 9,1.0,1973,WP,26005.0,Single Family,PROPERTY/WHISPERING PINES INC
+"12551-S-Ocotillo-Ridge-Trl,-Vail,-AZ-85641",305-14-014M,S161.77' N508.06' W269.26' E1811.90' SE4 1 AC SEC 22-16-16 SERIAL NO: PH1900589U&X MAKE: PALM HARBOR,1.0,1999,unknown,43560.0,Manufactured,unknown
+"3437-Decoursey-Ave,---2,-Covington,-KY-41015",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"929-E-Foothill-Blvd,-Spc-149,-Upland,-CA-91786",1045-401-21-6149,83 KAUFMAN/BROAD SN#KBCASNA315421/KBCASNB315421,1.0,1983,unknown,0.0,Manufactured,unknown
+"4171-Cumbrian-Gardens-Ln,-Jacksonville,-FL-32257",149017-0230,35-78 33-3S-27E HUNTINGTON FOREST UNIT ONE LOT 28 BLK D,1.0,1977,PUD,7496.0,Single Family,HUNTINGTON FOREST UNIT 01
+"PO-Box-36,-Silver-Spring,-PA-17575",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"607-W-Provential-Dr,-Apt-8,-Anaheim,-CA-92805",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"2300-Wilshire-Blvd,-Unit-201,-Santa-Monica,-CA-90403",unknown,unknown,0.0,2019,unknown,11639.0,Apartment,unknown
+"Morris-Shepherd-Dr,-Unit-7,-Brownwood,-TX-76801",unknown,unknown,0.0,0,unknown,130680.0,Land,unknown
+"34665-Sherwood-Dr,-Solon,-OH-44139",952-34-016,1-21 SHERWDPK#2 0041 ALL MB952 PG34 MB07950 PG0029,1.0,1956,R-1-C,69888.0,Single Family,SHERWDPK#2
+"9612-Mathog-Rd,-Riverview,-FL-33578",U203020ZZZ000003013800,TRACT BEG 267.5 FT N OF SE COR OF W 1/2 OF GOV LOT 2 AND RUN N 125 FT W 103.8 FT S 125 FT AND E 103.8 FT TO BEG,1.0,1979,RSC-4,13068.0,Single Family,UNPLATTED
+"737-Woodfield-Rd,-Villanova,-PA-19085",40-00-67224-002,L B-1,1.0,1950,R2,17900.0,Single Family,PEARTREE & PASFIELD INC PROP
+"1356-E-11th-St,-Casa-Grande,-AZ-85122",505-78-2450,ACACIA LANDING LOT 245 CAB C SLD 132 SEC 21-6S-6E 8675 SQ FT .2 AC,1.0,2001,unknown,8675.0,Single Family,ACACIA LANDING
+"2803-N-22nd-St,-Tampa,-FL-33605",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"11807-Highgrove-Dr,-Houston,-TX-77077",1062900000016,LT 16 BLK 11 COUNTRY VILLAGE SEC 2 R/P,1.0,1976,unknown,8999.0,Single Family,COUNTRY VILLAGE SEC 2 R/P
+"6741-Day-St,-Tujunga,-CA-91042",2569-025-029,DESCANSO TRACT 0.54 MORE OR LESS AC COM AT SW COR OF LOT 3 TH S 79 59' E 10.14 FT TH N PARALLEL WITH W LINE OF SDLOT 209.5 FT,1.0,1940,LARA,23711.0,Single Family,DESCANSO TRACT
+"6407-Beechwood-St,-Detroit,-MI-48210",16011540.,"W BEECHWOOD 459 BEECH HURST WM L HOLMES SUB L17 P40 PLATS, W C R 16/169 30 X105",0.0,1913,R2,3049.0,Single Family,L HOLMES SUB
+"1206-Ambrose-Dr,-Salado,-TX-76571",234515,"MILL CREEK SPRINGS PHASE II, BLOCK 002, LOT 0005, ACRES .602",1.0,2003,unknown,26223.0,Single Family,MILL CREEK SPRINGS PHASE II
+"PO-Box-519,-Union,-SC-29379",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4153-Rialto-Ave,-Clovis,-CA-93619",555-372-22,LOT 38 OF TRACT NO 6034 PHASE 1 BK 85 PGS 71-77,1.0,2017,R1P,4125.0,Single Family,unknown
+"7034-Golden-Crst,-Elkridge,-MD-21075",01-599300,"LOT 16, 13,437 SQ' 7034 GOLDEN CREST SAMUELS GRANT",1.0,2018,unknown,13437.0,Single Family,SAMUELS GRANT
+"952-Plymouth-Sorrento-Rd,-Apopka,-FL-32712",06-21-28-7172-08-030,MAP OF PLYMOUTH B/17 LOT 3 BLK H (LESS EAST 5 FT PER DB 385/509) & VAC R/W ON N THEREOF PER DB 596/467 (LESS PT TAKEN FOR R/W,0.0,1976,A-1,179903.0,Single Family,PLYMOUTH
+"5111-Mckittrick-Canyon-Dr,-Austin,-TX-78759",0152030613,LOT 51 BLUFFS OF GREAT HILLS THE,1.0,1984,unknown,3772.0,Single Family,BLUFFS OF GREAT HILLS THE
+"PO-Box-453,-Westville,-NJ-08093",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"34-Wax-Myrtle-Ct,-Hilton-Head-Island,-SC-29926",R600 040 00A 0201 0000,LOT 280 MOSS CRK PLANT,1.0,2000,6116,0.0,Single Family,VICTORIA&TOPPIN DR PATIO LOTS
+"801-East-Dr,-Edmond,-OK-73034",18-247-9781,CLEGERN PLACE EDMOND 000 000 ALL LOT 79 & NELY 47.5FT LOT 80,1.0,1954,unknown,19994.0,Single Family,CLEGERN PLACE EDMOND
+"837-Worcester-Dr,-Schenectady,-NY-12309",422400 60.12-1-16,LOT:16.000 BLK:1 SEC:60.12 DIST:422400 CITY/MUNI/TWP:NISKAYUNA,1.0,1968,R1,16117.0,Single Family,AVON CREST MAP 4
+"259-Lee-Rd,-601,-Phenix-City,-AL-36870",2402040000004016,"COM @ SE COR SEC 4; W 805'S; N 910'S ALG DIRT RD TO POB; W 965'S; N 440'S ALG HOSPILIKA CREEK E 110'S; S435'S TO POB. SEC 4, T 17 N, R 29 E.",0.0,1986,unknown,435600.0,Single Family,unknown
+"617-Hillside-Rd,-Glenview,-IL-60025",04-33-308-004,ARTHUR T (MCINTOSH) & COS (FIRST) ADD TO (GLENVIEW) C OUNTRYSIDE A SUB OF PTS OF SECTIONS 32&33 SEC 33-42-12,1.0,2004,unknown,12450.0,Single Family,MCINTOSH & COS FIRST ADD TO GLENVIEW
+"15422-Carrillon-Estates-Blvd,-Tampa,-FL-33625",U36271760L000001000510,CARRILLON ESTATES LOT 51 BLOCK 1,1.0,2004,PD,9200.0,Single Family,CARRILLON ESTATES
+"1122-Nw-4th-St,-Meridian,-ID-83642",S1212141906,PAR #1906 OF NE4 SEC 12 3N 1W PARCEL 1 R/S 2090 #141905-B,1.0,1993,R-4,12632.0,Single Family,SP 2090
+"230-Sharon-Rd,-Arcadia,-CA-91007",5785-006-014,TRACT NO 24140 LOT 4,1.0,1962,ARRO*,16435.0,Single Family,24140
+"180-Cimarron-Ct,-Apt-E,-Oshkosh,-WI-54902",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"7635-Concord-Rd,-Beaumont,-TX-77708",300017-000-024200-00000-9,PL RS 4 TR 120A ABST 17 W B DYCHES,0.0,1962,unknown,13721.0,Single Family,17  W. B. DYCHES
+"109-Freestone-St,-Greenville,-SC-29605",WG01.04-01-122.00,15,0.0,1967,R12,9800.0,Single Family,GLENDALE HEIGHTS
+"82-Cliffwood-Ave,-Unit-38,-Cliffwood,-NJ-07721",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"4401-Cedar-Ave,-Pikesville,-MD-21208",03-0316035360,"LTS 20,21 4401 CEDAR AVE MELLINEE",0.0,1906,unknown,15060.0,Single Family,MELLINEE
+"7945-Cobblesprings-Dr,-Avon,-IN-46123",32-10-02-430-003.000-031,COBBLESTONE SPRINGS SEC 1 LOT 10 .50AC,1.0,1994,unknown,21600.0,Single Family,COBBLESTONE SPRINGS
+"PO-Box-81,-Concord,-NC-28026",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"7400-Windsor-Woods-Dr,-Apt-2C,-Canton,-MI-48187",unknown,unknown,0.0,0,unknown,0.0,unknown,unknown
+"6208-202nd-St-SW,-Unit-63,-Lynnwood,-WA-98036",00960007506300,MOBILE HOMEPARK MEDO-LYNN MOBILE PARK PRK 075 D-00 SPACE 63,1.0,1976,L7,0.0,Manufactured,MOBILE HOMEPARK

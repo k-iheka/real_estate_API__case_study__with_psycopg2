@@ -1,0 +1,501 @@
+id,names,mailingAddress_id,mailingAddress_addressLine1,mailingAddress_city,mailingAddress_state,mailingAddress_zipCode,mailingAddress_formattedAddress,mailingAddress_addressLine2
+"6522-28th-Ave,-Kenosha,-WI-53143",['TIMOTHY SMITH'],"481-Broadview-Ave,-Highland-Park,-IL-60035",481 Broadview Ave,Highland Park,IL,60035,unknwon,unknwon
+"20422-W-Legend-Trl,-Buckeye,-AZ-85396",['DARBY SPARKS'],"20422-W-Legend-Trl,-Buckeye,-AZ-85396",20422 W Legend Trl,Buckeye,AZ,85396,unknwon,unknwon
+"1041-Scaleybark-Rd,-Charlotte,-NC-28209",['JOSE LUIS VIVEROS VIVEROS'],"1041-Scaleybark-Rd,-Charlotte,-NC-28209",1041 Scaleybark Rd,Charlotte,NC,28209,unknwon,unknwon
+"2352-Sw-5th-St,-Apt-16,-Miami,-FL-33135",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2301-S-Austin-Ave,-Ste-5,-Denison,-TX-75020",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"51-Birdsong-Pkwy,-Orchard-Park,-NY-14127","['CELESTINO PIETRANTONI', 'BRANDIE A PIETRANTONI']","51-Birdsong-Pkwy,-Orchard-Park,-NY-14127",51 Birdsong Pkwy,Orchard Park,NY,14127,unknwon,unknwon
+"113-Oak-Ave,-Bellmawr,-NJ-08031",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11875-Westview-Pkwy,-San-Diego,-CA-92126","['GOMEZ VICTOR M C', 'CASTRO BARBARA']","11875-Westview-Pkwy,-San-Diego,-CA-92126",11875 Westview Pkwy,San Diego,CA,92126,unknwon,unknwon
+"8715-Shadow-Crest-St,-Houston,-TX-77074","['Miguel E Garcia', 'PEREZ MEJIA']","8715-Shadow-Crest-St,-Houston,-TX-77074",8715 Shadow Crest St,Houston,TX,77074,"8715 Shadow Crest St, Houston, TX 77074",unknwon
+"4465-Boca-Way,-Spc-137,-Reno,-NV-89502",['DONNER SPRINGS MHP LLC'],"4465-Boca-Way,-Reno,-NV-89502",4465 Boca Way,Reno,NV,89502,unknwon,unknwon
+"815-Kendall-St,-Port-Orchard,-WA-98366",['SFR ACQUISITIONS 1 LLC'],"120-S-Riverside-Plz,-STE-2000,-Chicago,-IL-60606",120 S Riverside Plz,Chicago,IL,60606,unknwon,STE 2000
+"7002-Lakeview-Dr,-Unit-101,-San-Antonio,-TX-78244",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1009-Mechanic-St,-Bethlehem,-PA-18015",['KALI HOLDING COMPANY LLC'],"1101-W-Cedar-St,-Allentown,-PA-18102",1101 W Cedar St,Allentown,PA,18102,unknwon,unknwon
+"3665-Whispering-Pines-Loop-S,-Delaware,-OH-43015","['KELLY JO BARNHART', 'JOSHUA PAUL BARNHART']","3665-Whispering-Pines-Loop-S,-Delaware,-OH-43015",3665 Whispering Pines Loop S,Delaware,OH,43015,unknwon,unknwon
+"705-Chapel-Rd,-Glenside,-PA-19038","['Edward S Bush', 'LISA G BUSH']","705-Chapel-Rd,-Glenside,-PA-19038",705 Chapel Rd,Glenside,PA,19038,"705 Chapel Rd, Glenside, PA 19038",unknwon
+"54-Albero-Ct,-Rancho-Palos-Verdes,-CA-90275","['ALLEN C FANG', 'AUDREY R LIAO']","54-Albero-Ct,-Rancho-Palos-Verdes,-CA-90275",54 Albero Ct,Rancho Palos Verdes,CA,90275,unknwon,unknwon
+"53-Oakland-Ave,-Hanover,-MA-02339",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"13343-Sunkiss-Loop,-Windermere,-FL-34786","['MOLINA CAIRO', 'MOLINA CARMEN T']","13343-Sunkiss-Loop,-Windermere,-FL-34786",13343 Sunkiss Loop,Windermere,FL,34786,unknwon,unknwon
+"9245-W-Ira-St,-Tucson,-AZ-85735",['RHONDA J CLARK'],"9245-W-Ira-St,-Tucson,-AZ-85735",9245 W Ira St,Tucson,AZ,85735,"9245 W Ira St, Tucson, AZ 85735",unknwon
+"50-E-Bellevue-Pl,-Apt-2105,-Chicago,-IL-60611",['ALPANA SINGH'],"50-E-BELLEVUE-PL2105,-Chicago,-IL-60611",50 E BELLEVUE PL2105,Chicago,IL,60611,unknwon,unknwon
+"5129-N-Newton-Cir,-Park-City,-KS-67219",['ELIZABETH J BECKER'],"5129-N-Newton-Cir,-Wichita,-KS-67219",5129 N Newton Cir,Wichita,KS,67219,unknwon,unknwon
+"1641-Old-Orchard-Ln,-Seabrook,-TX-77586","['DAVID HIGGINBOTHAM', 'REBA D HIGGINBOTHAM']","1641-Old-Orchard-Ln,-Seabrook,-TX-77586",1641 Old Orchard Ln,Seabrook,TX,77586,unknwon,unknwon
+"328-Union-Ave,-Runnemede,-NJ-08078","['Tepedino Michael P', 'RIVERA CLAUDIA']","328-Union-Ave,-Runnemede,-NJ-08078",328 Union Ave,Runnemede,NJ,08078,"328 Union Ave, Runnemede, NJ 08078",unknwon
+"877-Brosmer-Dr,-Reynoldsburg,-OH-43068","['MANGALI MAYA BHATTARAI', 'HARRI KHANAL']","877-Brosmer-Dr,-Reynoldsburg,-OH-43068",877 Brosmer Dr,Reynoldsburg,OH,43068,unknwon,unknwon
+"3222-W-Myrtle-Ave,-Phoenix,-AZ-85051",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"24417-Twin-Lake-Dr,-Land-O-Lakes,-FL-34639",['2017-2 IH BORROWER'],"PO-BOX-4778,-Logan,-UT-84323",PO BOX 4778,Logan,UT,84323,unknwon,unknwon
+"624-N-Main-St,-Kewaunee,-WI-54216",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"141-S-670-E,-Pleasant-Grove,-UT-84062","['BILLY ORUM', 'CARRIE ORUM']","141-S-670-E,-Pleasant-Grove,-UT-84062",141 S 670 E,Pleasant Grove,UT,84062,unknwon,unknwon
+"41-Mary-St,-West-Jefferson,-OH-43162","['Frederick T Fairchild', 'AMANDA L FAIRCHILD']","41-Mary-St,-West-Jefferson,-OH-43162",41 Mary St,West Jefferson,OH,43162,"41 Mary St, West Jefferson, OH 43162",unknwon
+"7807-Golf-Circle-Dr,-Apt-206,-Margate,-FL-33063",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"6449-Wetherole-St,-Apt-2I,-Rego-Park,-NY-11374",['64-49 WETHEROLE REALTY CO'],"8830-51st-Ave,-Elmhurst,-NY-11373",8830 51st Ave,Elmhurst,NY,11373,unknwon,unknwon
+"3350-Mcfaddin-St,-Apt-27,-Beaumont,-TX-77706",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"510-S-Irena-Ave,-Redondo-Beach,-CA-90277","['ALFONSO REGINO PENA', 'SUSAN PENA', 'THE A & S PENA FAMILY TRUST DATED J']","510-S-Irena-Ave,-Redondo-Beach,-CA-90277",510 S Irena Ave,Redondo Beach,CA,90277,unknwon,unknwon
+"713-Mainsail-Dr,-Tampa,-FL-33602",['KENDRA LEIGH YEO'],"713-Mainsail-Dr,-Tampa,-FL-33602",713 Mainsail Dr,Tampa,FL,33602,unknwon,unknwon
+"113-Obregon-St,-San-Antonio,-TX-78207","['LILY A MORENO', 'PAULO G AGUILERA']","113-Obregon-St,-San-Antonio,-TX-78207",113 Obregon St,San Antonio,TX,78207,unknwon,unknwon
+"1632-River-Oaks-Dr,-Irving,-TX-75060","['MARK KUNTZMAN', 'TRACY KUNTZMAN']","1632-River-Oaks-Dr,-Irving,-TX-75060",1632 River Oaks Dr,Irving,TX,75060,unknwon,unknwon
+"2718-Bettis-Ave,-Wasco,-CA-93280",['FRANCISCO J MARTINEZ'],"750-H-St,-APT-17A,-Wasco,-CA-93280",750 H St,Wasco,CA,93280,unknwon,APT 17A
+"337-Early-Rd,-Columbia,-TN-38401",['UMH TN COUNTRYSIDE VILLAGE LLC'],"3499-Us-Hwy,-9,-Freehold,-NJ-07728",3499 Us Hwy,Freehold,NJ,07728,unknwon,9
+"1025-Martin-Luther-King-Jr-Dr,-Asheboro,-NC-27203",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"625-Hidden-Cove-Dr,-Princeton,-TX-75407",['Angela Trinh'],"625-Hidden-Cove-Dr,-Princeton,-TX-75407",625 Hidden Cove Dr,Princeton,TX,75407,"625 Hidden Cove Dr, Princeton, TX 75407",unknwon
+"1901-N-River-Rd,-Algonquin,-IL-60102",['CARL J SWANSON'],"1901-N-River-Rd,-Algonquin,-IL-60102",1901 N River Rd,Algonquin,IL,60102,unknwon,unknwon
+"8600-Douglas-Ave,-Dallas,-TX-75225",['RADICAL PROPERTIES LP'],"1229-Slocum-St,---A,-Dallas,-TX-75207",1229 Slocum St,Dallas,TX,75207,unknwon,# A
+"1615-Mariah-Way-E,-Fort-Walton-Beach,-FL-32547",['EDWARD R APPLER'],"2023-Jamaica-Dr,-Navarre,-FL-32566",2023 Jamaica Dr,Navarre,FL,32566,unknwon,unknwon
+"134-Danforth-Dr,-Port-Charlotte,-FL-33980",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"3813-Octavia-Ln,-Round-Rock,-TX-78681","['RUDY CARRASCO', 'ANNA CARRASCO']","3813-Octavia-Ln,-Round-Rock,-TX-78681",3813 Octavia Ln,Round Rock,TX,78681,unknwon,unknwon
+"235th-St-W,-Rosamond,-CA-93560",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"21515-Fairhaven-Creek-Dr,-Cypress,-TX-77433","['TOWNSEND PAUL P TARRETOWNSEND GRET A', 'TOWNSEND MARIO']","21515-Fairhaven-Creek-Dr,-Cypress,-TX-77433",21515 Fairhaven Creek Dr,Cypress,TX,77433,unknwon,unknwon
+"14405-Hardtree-Dr,-Lake-Hughes,-CA-93532",['SUMEN FAMILY TRUST'],"PO-BOX-112,-Lake-Hughes,-CA-93532",PO BOX 112,Lake Hughes,CA,93532,unknwon,unknwon
+"3011-Nova-Scotia-Ln,-Melbourne,-FL-32935","['KYLE FOGLESONG', 'JESSICA DILLOW']","3011-Nova-Scotia-Ln,-Melbourne,-FL-32935",3011 Nova Scotia Ln,Melbourne,FL,32935,unknwon,unknwon
+"106-Ada-St,-West-Monroe,-LA-71291",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11114-Marbel-Ave,-Downey,-CA-90241","['JOANNE L WINBURNE', 'FAMILYUST WINBURNE']","1430-W-Stanford-Ranch-Rd,-APT-117,-Rocklin,-CA-95765",1430 W Stanford Ranch Rd,Rocklin,CA,95765,unknwon,APT 117
+"717-Gee-St,-Salinas,-CA-93905",['RAMON G GALINDO'],"717-Gee-St,-Salinas,-CA-93905",717 Gee St,Salinas,CA,93905,unknwon,unknwon
+"1907-Arbor-Vista-Dr,-Charlotte,-NC-28262","['MY Q NGUYEN', 'ELIZABETH NGUYEN']","334-Hobart-Ave,-Haledon,-NJ-07508",334 Hobart Ave,Haledon,NJ,07508,unknwon,unknwon
+"Marsh-View-Dr,-Lot-1,-Townsend,-GA-31331",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1009-W-Blaine-St,-Seattle,-WA-98119","['CHRISTOPHER WEBB LEE', 'MADISYN SCRIBNER']","1009-W-Blaine-St,-Seattle,-WA-98119",1009 W Blaine St,Seattle,WA,98119,unknwon,unknwon
+"110-3rd-Ave,-Apt-3,-St-Pete-Beach,-FL-33706",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"502-1st-St-N,-Texas-City,-TX-77590",[''],unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"23330-Westheimer-Pkwy,-Katy,-TX-77494",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"10425-Hopcraft-Rd,-Onondaga,-MI-49264",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"247-Candytuft-Rd,-Reisterstown,-MD-21136","['LILLIAN B PRUITT', 'GENEVA L PRUITT']","247-Candytuft-Rd,-Reisterstown,-MD-21136",247 Candytuft Rd,Reisterstown,MD,21136,unknwon,unknwon
+"1775-N-Lafayette-St,-Unit-1,-Denver,-CO-80218",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"15441-Sabillasville-Rd,-Blue-Ridge-Summit,-PA-17214",['THE TRANSFIGURATION EPISCOPAL CHURCH OF'],"PO-BOX-B,-Blue-Ridge-Summit,-PA-17214",PO BOX B,Blue Ridge Summit,PA,17214,unknwon,unknwon
+"6-Penny-Ln,-Scarsdale,-NY-10583",['TRACY DENNIS'],"6-Penny-Ln,-Scarsdale,-NY-10583",6 Penny Ln,Scarsdale,NY,10583,unknwon,unknwon
+"28-Asbury-Rd,-Asheville,-NC-28804",['MEREDITH ARNOW LOVE'],"28-Asbury-Rd,-Asheville,-NC-28804",28 Asbury Rd,Asheville,NC,28804,unknwon,unknwon
+"653-Cross-Keys-Rd,-Sicklerville,-NJ-08081",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"118-Glavera-Ave-NE,-Canton,-OH-44704",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"25117-Plantation-Dr-NE,-Atlanta,-GA-30324","['MARK MYERS', 'LAURA MYERS']","11716-Sw-Moon-River-Way,-Port-Saint-Lucie,-FL-34987",11716 Sw Moon River Way,Port Saint Lucie,FL,34987,unknwon,unknwon
+"4252-N-Teutonia-Ave,-Apt-201,-Milwaukee,-WI-53209",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"161-Kaylor-Rd,-Pittsburgh,-PA-15237","['JEFFREY MITCHELL', 'MINDY MITCHELL']","161-Kaylor-Rd,-Pittsburgh,-PA-15237",161 Kaylor Rd,Pittsburgh,PA,15237,unknwon,unknwon
+"6750-Us-Hwy,-27-N-Apt-C23,-Sebring,-FL-33870","['HARDWICK,C E & LOU A TRUST']","26-Hidden-Ridge-Trl,-Jackson,-MI-49203",26 Hidden Ridge Trl,Jackson,MI,49203,unknwon,unknwon
+"172-Parkrose-Dr,-Buda,-TX-78610",['Ray Eugene Pilgirm'],"172-Parkrose-Dr,-Buda,-TX-78610",172 Parkrose Dr,Buda,TX,78610,"172 Parkrose Dr, Buda, TX 78610",unknwon
+"6-Quail-Path,-Liverpool,-NY-13090",['MALLORY GOODFELLOW'],"6-Quail-Path,-Liverpool,-NY-13090",6 Quail Path,Liverpool,NY,13090,unknwon,unknwon
+"2520-Woodside-Dr,-Lewisville,-TX-75077",['Dalia Elibiary Ajam'],"2520-Woodside-Dr,-Lewisville,-TX-75077",2520 Woodside Dr,Lewisville,TX,75077,"2520 Woodside Dr, Lewisville, TX 75077",unknwon
+"10742-W-Flower-St,-Avondale,-AZ-85392",['RAYMOND BORGES'],"10742-W-Flower-St,-Avondale,-AZ-85392",10742 W Flower St,Avondale,AZ,85392,unknwon,unknwon
+"2523-Spring-St,-Pittsburgh,-PA-15210",['RUSSELL A RENKIN'],"2523-Spring-St,-Pittsburgh,-PA-15210",2523 Spring St,Pittsburgh,PA,15210,unknwon,unknwon
+"59274-Herwig-Rd,-Trlr-47,-Slidell,-LA-70461",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"14400-Vose-St,-Apt-203,-Van-Nuys,-CA-91405",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1620-S-Chance-Ave,-Apt-117,-Fresno,-CA-93702",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"9350-S-Cimarron-Rd,-Unit-2080,-Las-Vegas,-NV-89178",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1433-Royer-St,-Des-Moines,-IA-50316","['CASTILLO GABRIEL', 'CASTILLO BLANCA']","1433-Royer-St,-Des-Moines,-IA-50316",1433 Royer St,Des Moines,IA,50316,unknwon,unknwon
+"8099-Bridle-Path-Cir,-Jurupa-Valley,-CA-92509",['STEVEN BRIAN FOLEY'],"8099-Bridle-Path-Cir,-Jurupa-Valley,-CA-92509",8099 Bridle Path Cir,Jurupa Valley,CA,92509,unknwon,unknwon
+"12615-Huntingwick-Dr,-Houston,-TX-77024","['SINISA BUDIMIR', 'NATASA NINKOVIC']","15411-Stable-Oak-Dr,-Cypress,-TX-77429",15411 Stable Oak Dr,Cypress,TX,77429,unknwon,unknwon
+"3711-Landon-Park-Dr,-Katy,-TX-77449",['GOMES THERENCE'],"3711-Landon-Park-Dr,-Katy,-TX-77449",3711 Landon Park Dr,Katy,TX,77449,unknwon,unknwon
+"4312-Airport-Blvd,-Austin,-TX-78722",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2028-Kays-Mill-Rd,-Finksburg,-MD-21048","['STEVEN L GLENDENNING', 'TAMMY M GLENDENNING']","2028-Kays-Mill-Rd,-Finksburg,-MD-21048",2028 Kays Mill Rd,Finksburg,MD,21048,unknwon,unknwon
+"1344-Stuart-St,-Denver,-CO-80204",['CHARLES ARTHUR GARDNER JR'],"1344-Stuart-St,-Denver,-CO-80204",1344 Stuart St,Denver,CO,80204,unknwon,unknwon
+"6252-N-Lee-St,-Apt-14,-Morrow,-GA-30260",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1068-Ringwood-Ave,-Ste-1,-Haskell,-NJ-07420",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"13068-E-Adams-Rd,-Hammond,-LA-70403","['JOSHUA A MOTICHEK', 'MELINDA H MOTICHEK']","13068-E-Adams-Rd,-Hammond,-LA-70403",13068 E Adams Rd,Hammond,LA,70403,unknwon,unknwon
+"5161-Bluegrass-Trl,-Grovetown,-GA-30813",['SARA L TAYLOR'],"5161-Bluegrass-Trl,-Grovetown,-GA-30813",5161 Bluegrass Trl,Grovetown,GA,30813,unknwon,unknwon
+"2235-Catamaran-Dr,-Lake-Havasu-City,-AZ-86404",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"401-S-El-Cielo-Rd,-Unit-176,-Palm-Springs,-CA-92262","['RON PICHE', 'KIM HUMPHRIES']",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2945-W-Peterson-Ave---B,-Chicago,-IL-60659",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2127-Green-St,-Philadelphia,-PA-19130",['WILLIAM K RICH'],"2127-Green-St,-Philadelphia,-PA-19130",2127 Green St,Philadelphia,PA,19130,unknwon,unknwon
+"306-Upper-Mountain-Ave,-Montclair,-NJ-07043",[''],"306-Upper-Mountain-Ave,-Montclair,-NJ-07043",306 Upper Mountain Ave,Montclair,NJ,07043,unknwon,unknwon
+"385-Piermont-Ave,-Hillsdale,-NJ-07642","['Alfred Markja', 'DHURATA MARKJA']","385-Piermont-Ave,-Hillsdale,-NJ-07642",385 Piermont Ave,Hillsdale,NJ,07642,"385 Piermont Ave, Hillsdale, NJ 07642",unknwon
+"8507-Sagestone-Ct,-Houston,-TX-77095","['WAYNE A EDWARDS', 'BARBARA L EDWARDS']","8507-Sagestone-Ct,-Houston,-TX-77095",8507 Sagestone Ct,Houston,TX,77095,unknwon,unknwon
+"11319-Corum-St,-Houston,-TX-77089",['ROBERTO ALCORTA'],"11319-Corum-St,-Houston,-TX-77089",11319 Corum St,Houston,TX,77089,unknwon,unknwon
+"302-Sagebrush,-Pharr,-TX-78577",['Rebecca G Schoonover'],"1118-38th-St,-Des-Moines,-IA-50311",1118 38th St,Des Moines,IA,50311,"1118 38th St, Des Moines, IA 50311",unknwon
+"258-W-Nicklaus-Ave,-Kalispell,-MT-59901",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"139-Seabreeze-Dr,-Murrells-Inlet,-SC-29576",['NANCY C HARWELL'],"PO-BOX-13649,-Florence,-SC-29504",PO BOX 13649,Florence,SC,29504,unknwon,unknwon
+"114-E-Oak-St,-Palmyra,-PA-17078",['ROBERT M BERKHIMER'],"114-E-Oak-St,-Palmyra,-PA-17078",114 E Oak St,Palmyra,PA,17078,unknwon,unknwon
+"1512-N-Florence-Pl,-Tulsa,-OK-74110",['MARIA JOSEFINA TORRES'],"1512-N-Florence-Pl,-Tulsa,-OK-74110",1512 N Florence Pl,Tulsa,OK,74110,unknwon,unknwon
+"11890-W-135th-St,-Overland-Park,-KS-66221",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11209-Fetterly-Rd-W,-Hopkins,-MN-55305",[''],"11209-Fetterly-Rd-W,-Minnetonka,-MN-55305",11209 Fetterly Rd W,Minnetonka,MN,55305,unknwon,unknwon
+"1465-Culpepper-Dr,-Naperville,-IL-60540","['BRET ENGEL', 'GRETTA ENGEL']","1465-Culpepper-Dr,-Naperville,-IL-60540",1465 Culpepper Dr,Naperville,IL,60540,unknwon,unknwon
+"2722-Halsey-Dr,-Flower-Mound,-TX-75028","['ROHINI ARASHANAPALLI', 'SRINIVAS HANMANDLU']","3421-Courtney-Dr,-Flower-Mound,-TX-75022",3421 Courtney Dr,Flower Mound,TX,75022,unknwon,unknwon
+"6261-E-Canyon-Crossing-Dr,-Nampa,-ID-83687",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"26076-Weigel-Rd,-New-Boston,-MI-48164","['JOHN MURRAY', 'KATHY MURRAY']","26076-Weigel-Rd,-New-Boston,-MI-48164",26076 Weigel Rd,New Boston,MI,48164,unknwon,unknwon
+"16-Sylvester-St,-Manchester,-NH-03102",['IRENE P CASSIDY'],"16-Sylvester-St,-Manchester,-NH-03102",16 Sylvester St,Manchester,NH,03102,unknwon,unknwon
+"10527-Driver-Ave,-Saint-Louis,-MO-63114",['ROLAND E FRANCES I MEYER'],"10527-Driver-Ave,-Saint-Louis,-MO-63114",10527 Driver Ave,Saint Louis,MO,63114,unknwon,unknwon
+"716-N-Atlanta-St,-Owasso,-OK-74055",['DON E AGOSTO'],"17808-N-161st-East-Ave,-Oologah,-OK-74053",17808 N 161st East Ave,Oologah,OK,74053,unknwon,unknwon
+"123-Wayward-Dr,-Durham,-NC-27703",['GERALD L SINGLETON'],"123-Wayward-Dr,-Durham,-NC-27703",123 Wayward Dr,Durham,NC,27703,unknwon,unknwon
+"402-Shady-Oaks-Cir,-Denton,-TX-76208",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"59604-Plum-Nearly-Rd,-Bogalusa,-LA-70427",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"105-Hickory-Hills-Dr,-Murfreesboro,-TN-37128",['Jamie Dean Thurby'],"105-Hickory-Hills-Dr,-Murfreesboro,-TN-37128",105 Hickory Hills Dr,Murfreesboro,TN,37128,"105 Hickory Hills Dr, Murfreesboro, TN 37128",unknwon
+"955-Eudora-St,-Apt-1603,-Denver,-CO-80220","['CHESTER E TRUBEY', 'PAULETTE A TRUBEY LESLIE A RI TRUBEY']","955-Eudora-St,-APT-1107,-Denver,-CO-80220",955 Eudora St,Denver,CO,80220,unknwon,APT 1107
+"321-323-Shore-Dr,-Apt-16---UNIT-23,-Highlands,-NJ-07732",['BRUCE PERSHAN'],"24-Pinckney-Rd,-Red-Bank,-NJ-07701",24 Pinckney Rd,Red Bank,NJ,07701,unknwon,unknwon
+"490-Hoffman-Ave,-Apt-311,-Trenton,-NJ-08618",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"108-S-Ellyn-Ave,-Glen-Ellyn,-IL-60137",['ROBERT E FIRCHAU'],"563-Prince-Edward-Rd,-Glen-Ellyn,-IL-60137",563 Prince Edward Rd,Glen Ellyn,IL,60137,unknwon,unknwon
+"1025-E-Young-St,-Longview,-TX-75602",['IMPACT ASSETS LLC'],"10007-Briarwild-Ln,-Houston,-TX-77080",10007 Briarwild Ln,Houston,TX,77080,unknwon,unknwon
+"21423-Old-Owen-Rd,-Monroe,-WA-98272",['DALE PETERSON'],"28109-Old-Owen-Rd,-Monroe,-WA-98272",28109 Old Owen Rd,Monroe,WA,98272,unknwon,unknwon
+"7440-N-Hermitage-Ave,-Apt-3G,-Chicago,-IL-60626",['JONATHAN SANCEN ROSAS'],"7440-N-Hermitage-Ave,-Chicago,-IL-60626",7440 N Hermitage Ave,Chicago,IL,60626,unknwon,unknwon
+"888-E-Quincy-Ave,-Englewood,-CO-80113","['DEBORAH G MACMILLAN', 'WILLIAM B MACMILLAN']","906-E-Quincy-Ave,-Cherry-Hills-Village,-CO-80113",906 E Quincy Ave,Cherry Hills Village,CO,80113,unknwon,unknwon
+"444-Niu-St,-Apt-3405A,-Honolulu,-HI-96815",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4751-Hamburg-St,-Las-Vegas,-NV-89147",['JUDITH ANN WADE'],"4751-Hamburg-St,-Las-Vegas,-NV-89147",4751 Hamburg St,Las Vegas,NV,89147,unknwon,unknwon
+"10504-Lord-Dr,-Saint-Louis,-MO-63136",['Sharmen Goins'],"10504-Lord-Dr,-Saint-Louis,-MO-63136",10504 Lord Dr,Saint Louis,MO,63136,"10504 Lord Dr, Saint Louis, MO 63136",unknwon
+"2304-Oak-Ln,-Ste-236,-Grand-Prairie,-TX-75051",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1112-Stoeber-Ave,-Sarasota,-FL-34232","['STOKES JEREMY', 'STOKES NATASHA']","1112-Stoeber-Ave,-Sarasota,-FL-34232",1112 Stoeber Ave,Sarasota,FL,34232,unknwon,unknwon
+"5212-Ne-37th-St,-Kansas-City,-MO-64117",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"707-S-Windsor-St,-Windsor,-MO-65360",['HARRY LYNN ADAMS'],"38294-Swisher-Rd,-Windsor,-MO-65360",38294 Swisher Rd,Windsor,MO,65360,unknwon,unknwon
+"50-W-34th-St,-Unit-09A11,-Manhattan,-NY-10001",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"3403-Memel-St,-Apt-C,-Houston,-TX-77026",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"705-Huron-Hl,-Madison,-WI-53711",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1400-H-G-Mosley-Pkwy,-Apt-907,-Longview,-TX-75604",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4913-S-Narcissus-Ave,-Broken-Arrow,-OK-74011","['RONALD J LAMB', 'PAMELA J LAMB']","PO-BOX-747,-Broken-Arrow,-OK-74013",PO BOX 747,Broken Arrow,OK,74013,unknwon,unknwon
+"233-Ligustrum-Ln,-Apt-204,-Merritt-Island,-FL-32953",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"19043-Island-View-Dr,-Mora,-MN-55051",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"3329-Highway,-1045,-Amite,-LA-70422",['JOHNNY L MILLER'],"3329-Highway,-1045,-Amite,-LA-70422",3329 Highway,Amite,LA,70422,unknwon,1045
+"2426-Summit-View-St,-Grand-Prairie,-TX-75050","['VICTOR ISIDRO', 'ROSA ISIDRO']","2426-Summit-View-St,-Grand-Prairie,-TX-75050",2426 Summit View St,Grand Prairie,TX,75050,unknwon,unknwon
+"8250-Forsyth-Blvd,-Unit-209,-Clayton,-MO-63105",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"PO-Box-93372,-Las-Vegas,-NV-89193",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1523-E-204th-St,-Euclid,-OH-44117",['A & A VISION & INVESTMENTS LLC'],"1523-E-204th-St,-Euclid,-OH-44117",1523 E 204th St,Euclid,OH,44117,unknwon,unknwon
+"716-S-Highland-St,-Arlington,-VA-22204",['BRANDON HEATH MAY'],"716-S-Highland-St,-Arlington,-VA-22204",716 S Highland St,Arlington,VA,22204,unknwon,unknwon
+"177-Jupiter-Trl,-Weatherford,-TX-76088",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"721-N-Atlantic-Ave,-Pittsburgh,-PA-15224",['KOSHER INVESTMENT PROPERTIES LLC'],"210-Killarney-Rd,-Wexford,-PA-15090",210 Killarney Rd,Wexford,PA,15090,unknwon,unknwon
+"116-Richmond-Dr,-Fairview-Heights,-IL-62208",['TIMOTHY CONKLIN'],"116-Richmond-Dr,-Fairview-Heights,-IL-62208",116 Richmond Dr,Fairview Heights,IL,62208,unknwon,unknwon
+"801-Vance-St-E,-Wilson,-NC-27893","['ROY SPELL', 'MARGARET BROOKS SPELL']","108-Chippendail-Dr,-Greenville,-NC-27858",108 Chippendail Dr,Greenville,NC,27858,unknwon,unknwon
+"10611-Drexel-Ave,-Cleveland,-OH-44108",['EARNESTINE POPE'],"10611-Drexel-Ave,-Cleveland,-OH-44108",10611 Drexel Ave,Cleveland,OH,44108,unknwon,unknwon
+"10844-Collins-St,-North-Hollywood,-CA-91601",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1802-Commercial-St,-Steilacoom,-WA-98388",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1110-Sw-48th-Ter,-Apt-A201,-Cape-Coral,-FL-33914",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"8903-C-E-King-Pkwy,-Trlr-108,-Houston,-TX-77044",['MANUEL ARTHUR'],"8903-C-E-King-Pkwy,-TRLR-108,-Houston,-TX-77044",8903 C E King Pkwy,Houston,TX,77044,unknwon,TRLR 108
+"14449-Fox-St,-Mission-Hills,-CA-91345","['Daniel Lopez', 'MARGIE LOPEZ', 'THE LOPEZ FAMILY TRUST']","14449-Fox-St,-Mission-Hills,-CA-91345",14449 Fox St,Mission Hills,CA,91345,"14449 Fox St, Mission Hills, CA 91345",unknwon
+"816-Ash-St,-Burleson,-TX-76028",['K & A BULLOCK INVESTMENTS LLC'],"PO-BOX-2488,-Burleson,-TX-76097",PO BOX 2488,Burleson,TX,76097,unknwon,unknwon
+"941-Stratford-Ave,-Sweetwater,-TN-37874",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"26-Pleasant-St,-Apt-2,-Cambridge,-MA-02139",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"5810-Lalor-Dr,-San-Jose,-CA-95123",['ALAN J STEIN'],"5810-Lalor-Dr,-San-Jose,-CA-95123",5810 Lalor Dr,San Jose,CA,95123,unknwon,unknwon
+"1258-Lago-Vista-Dr,-Beverly-Hills,-CA-90210",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1689-Mclain-Rd-NW,-Acworth,-GA-30101","['RALPH M CORRUBIA', 'PATRICIA A CORRUBIA']","1689-Mclain-Rd-NW,-Acworth,-GA-30101",1689 Mclain Rd NW,Acworth,GA,30101,unknwon,unknwon
+"46-Planters-Cir,-Beaufort,-SC-29907",['HUGH E C HILL'],"46-Planters-Cir,-Beaufort,-SC-29907",46 Planters Cir,Beaufort,SC,29907,unknwon,unknwon
+"100-Grant-Ave,-Apt-306,-Duquesne,-PA-15110",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4022-Sparrow-Rock-St,-Las-Vegas,-NV-89129",['HUNT FAMILY TRUST'],"1447-N-Center-St,-Orange,-CA-92867",1447 N Center St,Orange,CA,92867,unknwon,unknwon
+"6238-Pelican-Coral,-San-Antonio,-TX-78244","['MANUEL MONTELLANO', 'MONICA MONTEZ MONTELLANO']","6238-PELICAN-CORAL,-San-Antonio,-TX-78244",6238 PELICAN CORAL,San Antonio,TX,78244,unknwon,unknwon
+"2171-W-Sunset-Surprise-Ct,-Tucson,-AZ-85742",['SCOTT T MEREDITH'],"2171-W-Sunset-Surprise-Ct,-Tucson,-AZ-85742",2171 W Sunset Surprise Ct,Tucson,AZ,85742,"2171 W Sunset Surprise Ct, Tucson, AZ 85742",unknwon
+"1060-W-Hollywood-Ave,-Apt-501,-Chicago,-IL-60660",['Milan Nikolic'],"1060-W-Hollywood-Ave,-APT-501,-Chicago,-IL-60660",1060 W Hollywood Ave,Chicago,IL,60660,"1060 W Hollywood Ave, APT 501, Chicago, IL 60660",APT 501
+"6057-Magellan-Rd,-Jacksonville,-FL-32222","['David R Durrence', 'DAVID R DURRENCE', 'Jamien R Durrence']","6057-Magellan-Rd,-Jacksonville,-FL-32222",6057 Magellan Rd,Jacksonville,FL,32222,"6057 Magellan Rd, Jacksonville, FL 32222",unknwon
+"975-Pine-Ridge-Dr,-Plantation,-FL-33317",['JANE A BARROW'],"975-Pine-Ridge-Dr,-Plantation,-FL-33317",975 Pine Ridge Dr,Plantation,FL,33317,unknwon,unknwon
+"14612-S-St,-Omaha,-NE-68137",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1102-E-Hickory-St,-Denton,-TX-76205",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"8944-Candice-Lee-Ct,-Las-Vegas,-NV-89149",['IH BORROWER L P 20171'],"1717-Main-St,-STE-2000,-Dallas,-TX-75201",1717 Main St,Dallas,TX,75201,"1717 Main St, STE 2000, Dallas, TX 75201",STE 2000
+"2335-Avellino-Ave,-Saint-Cloud,-FL-34771","['ANNETTE M BROWN', 'CODY A BROWN']","2335-Avellino-Ave,-Saint-Cloud,-FL-34771",2335 Avellino Ave,Saint Cloud,FL,34771,unknwon,unknwon
+"711-Penny-Ln,-Trussville,-AL-35173",['KC PROPERTIES V LLC'],"695-Chris-Ct,-Trussville,-AL-35173",695 Chris Ct,Trussville,AL,35173,unknwon,unknwon
+"1179-Abernathy-Rd,-Ashland-City,-TN-37015",['AUTUMN M LINNE'],"1179-Abernathy-Rd,-Ashland-City,-TN-37015",1179 Abernathy Rd,Ashland City,TN,37015,unknwon,unknwon
+"4855-Orleans-Ln-N,-Minneapolis,-MN-55442",['ROBIN OBRIEN'],"4855-Orleans-Ln-N,-Minneapolis,-MN-55442",4855 Orleans Ln N,Minneapolis,MN,55442,unknwon,unknwon
+"212-Anderson-St,-Piedmont,-SC-29673",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"3117-Brentwood-Dr,-Grand-Island,-NE-68801","['Christopher M Carroll', 'Kristin A Carroll']","3117-Brentwood-Dr,-Grand-Island,-NE-68801",3117 Brentwood Dr,Grand Island,NE,68801,"3117 Brentwood Dr, Grand Island, NE 68801",unknwon
+"2623-S-Andrews-Ln,-San-Bernardino,-CA-92408",['SWH 2017-1 BORROWER LP'],"1717-Main-St,-STE-2000,-Dallas,-TX-75201",1717 Main St,Dallas,TX,75201,"1717 Main St, STE 2000, Dallas, TX 75201",STE 2000
+"715-S-Alton-Way,-Unit-7C,-Denver,-CO-80247",['PATRICIA ROSAPEP SEARS'],"715-S-Alton-Way,-Denver,-CO-80247",715 S Alton Way,Denver,CO,80247,unknwon,unknwon
+"PO-Box-3387,-Conway,-SC-29528",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"9782-S-182nd-Dr,-Goodyear,-AZ-85338",['WHITE LIVING TRUST'],"9782-S-182nd-Dr,-Goodyear,-AZ-85338",9782 S 182nd Dr,Goodyear,AZ,85338,unknwon,unknwon
+"15-Clematis-Ave,-Waterbury,-CT-06708",['DADIK DOKO'],"58-Cedar-Rdg,-Oakville,-CT-06779",58 Cedar Rdg,Oakville,CT,06779,unknwon,unknwon
+"7336-E-Norwood-St,-Mesa,-AZ-85207","['JONATHAN VEST', 'DEBORAH VEST']","7336-E-Norwood-St,-Mesa,-AZ-85207",7336 E Norwood St,Mesa,AZ,85207,unknwon,unknwon
+"840-Sacramento-Ave,-Apt-340,-West-Sacramento,-CA-95605",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"34-Ashley-Ave,-Charleston,-SC-29401","['JOHN W MATTHEWS', 'DENISE J MATTHEWS']","34-Ashley-Ave,-Charleston,-SC-29401",34 Ashley Ave,Charleston,SC,29401,unknwon,unknwon
+"613-Jumbuck-Ln,-Bakersfield,-CA-93307",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"122-Mckeel-Ave,-Tarrytown,-NY-10591",['MICHAEL KLEIN'],"122-Mckeel-Ave,-Tarrytown,-NY-10591",122 Mckeel Ave,Tarrytown,NY,10591,unknwon,unknwon
+"7920-Seville-Pl,-Apt-1904,-Boca-Raton,-FL-33433",['RIFKIN MARILYN L TRUST'],"7920-Seville-Pl,-APT-1904,-Boca-Raton,-FL-33433",7920 Seville Pl,Boca Raton,FL,33433,"7920 Seville Pl, APT 1904, Boca Raton, FL 33433",APT 1904
+"134-Partridge-Cir,-Carlisle,-PA-17013",['KAREN L CHESTNUT'],"134-Partridge-Cir,-Carlisle,-PA-17013",134 Partridge Cir,Carlisle,PA,17013,unknwon,unknwon
+"3958-N-Albina-Ave,-Portland,-OR-97227",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1901-S-Henry-Ln,-Gilbert,-AZ-85295","['Vasquez Michael Eric', 'MENDOZA PAOLA']","1901-S-Henry-Ln,-Gilbert,-AZ-85295",1901 S Henry Ln,Gilbert,AZ,85295,"1901 S Henry Ln, Gilbert, AZ 85295",unknwon
+"1337-Banks-St,-Houston,-TX-77006",['KATHLEEN WETMORE'],"1338-Milford-St,-Houston,-TX-77006",1338 Milford St,Houston,TX,77006,unknwon,unknwon
+"2120-Dogwood-Dr,-Sevierville,-TN-37876",['MCMURRY CONSTRUCTION CO INC'],"5335-Distriplex-Farms-Dr,-Memphis,-TN-38141",5335 Distriplex Farms Dr,Memphis,TN,38141,unknwon,unknwon
+"1602-Yeomans-Path,-Lakeland,-FL-33809","['STEIN,L & P TRUST']","12181-Sheridan-St,-Hollywood,-FL-33026",12181 Sheridan St,Hollywood,FL,33026,unknwon,unknwon
+"3410-E-Janice-St,-Long-Beach,-CA-90805","['Huss,joseph L Trustee']","3410-E-Janice-St,-Long-Beach,-CA-90805",3410 E Janice St,Long Beach,CA,90805,"3410 E Janice St, Long Beach, CA 90805",unknwon
+"34-Prospect-St,-Roosevelt,-NY-11575",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"5071-Elrose-Ave,-San-Jose,-CA-95124","['THANGAVELU SIVARAMAN', 'SARAVANAVEL AARTHI']","5071-Elrose-Ave,-San-Jose,-CA-95124",5071 Elrose Ave,San Jose,CA,95124,unknwon,unknwon
+"25306-Saddlebrook-Ranch-Dr,-Tomball,-TX-77375",['YOLANDA PONTON'],"5211-Graystone-Ln,-Houston,-TX-77069",5211 Graystone Ln,Houston,TX,77069,unknwon,unknwon
+"14680-Nw-66th-Ter,-Kansas-City,-MO-64152",['LINGERFELT LIVING TRUST'],"14680-Nw-66th-Ter,-Kansas-City,-MO-64152",14680 Nw 66th Ter,Kansas City,MO,64152,unknwon,unknwon
+"202-Petunia-Dr,-Griffin,-GA-30223","['TRYPHENA H PACITTI', 'CHRISTOPHER PACITTI']","202-Petunia-Dr,-Griffin,-GA-30223",202 Petunia Dr,Griffin,GA,30223,unknwon,unknwon
+"8510-West-St,-Houston,-TX-77093",['DOSIS INVESTMENT LLC'],"9219-Bellaire-Blvd,-STE-146,-Houston,-TX-77036",9219 Bellaire Blvd,Houston,TX,77036,"9219 Bellaire Blvd, STE 146, Houston, TX 77036",STE 146
+"8085-Caminito-De-Pizza,-Unit-L,-San-Diego,-CA-92108",['Serena Roa Laguardia'],"8085-CAMINITO-DE-PIZZA,-UNIT-L,-San-Diego,-CA-92108",8085 CAMINITO DE PIZZA,San Diego,CA,92108,"8085 CAMINITO DE PIZZA, UNIT L, San Diego, CA 92108",UNIT L
+"1109-Dennison-St,-Little-Rock,-AR-72202",['THOMAS ISIAH'],"1109-Dennison-St,-Little-Rock,-AR-72202",1109 Dennison St,Little Rock,AR,72202,unknwon,unknwon
+"17319-Acorn-Rdg,-Eden-Prairie,-MN-55347","['Janell R Lofton-minta', 'MICHAEL D MINTA']","17319-Acorn-Rdg,-Eden-Prairie,-MN-55347",17319 Acorn Rdg,Eden Prairie,MN,55347,"17319 Acorn Rdg, Eden Prairie, MN 55347",unknwon
+"625-Prendergast-Ave,-Apt-3,-Jamestown,-NY-14701",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"475-N-Highland-St,-Apt-3F,-Memphis,-TN-38122",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1560-Central-Ave,-Unit-440,-Saint-Petersburg,-FL-33705",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"7020-Henry-Quincy-Way,-Charlotte,-NC-28277",['RABINDRA SAGUNARTHY'],"7118-Summerhill-Ridge-Dr,-Charlotte,-NC-28226",7118 Summerhill Ridge Dr,Charlotte,NC,28226,unknwon,unknwon
+"61023-Amethyst-St,-Bend,-OR-97702","['PATRICK WENK', 'SARAH WENK']","61020-Amethyst-St,-Bend,-OR-97702",61020 Amethyst St,Bend,OR,97702,unknwon,unknwon
+"6704-Nantucket-Ln,-Arlington,-TX-76001",['AGNES JANISZEWSKI'],"6704-Nantucket-Ln,-Arlington,-TX-76001",6704 Nantucket Ln,Arlington,TX,76001,unknwon,unknwon
+"273-Jaimes-Ln,-Atoka,-TN-38004","['JAMES D RAY', 'SUSAN K RAY']","273-Jaimes-Ln,-Atoka,-TN-38004",273 Jaimes Ln,Atoka,TN,38004,unknwon,unknwon
+"134-Palarm-Creek-Rd,-Conway,-AR-72032",['TIM COOK'],"11318-Mundo-Rd,-North-Little-Rock,-AR-72118",11318 Mundo Rd,North Little Rock,AR,72118,unknwon,unknwon
+"3482-Big-Sur-Dr,-Las-Vegas,-NV-89122",['ALAN P SCHAFF'],"3482-Big-Sur-Dr,-Las-Vegas,-NV-89122",3482 Big Sur Dr,Las Vegas,NV,89122,unknwon,unknwon
+"2432-S-15th-Ave,-Broadview,-IL-60155",['THEOTIS MC MURTRY'],"2432-S-15th-Ave,-Broadview,-IL-60155",2432 S 15th Ave,Broadview,IL,60155,unknwon,unknwon
+"631-W-Greenfield-St,-Elkhorn,-WI-53121",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1300-Se-1st-St,-Apt-5,-Fort-Lauderdale,-FL-33301",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1500-Hamilton-St,-Apt-736,-Philadelphia,-PA-19130",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"9220-Bradford-Forest-Dr,-Harrisburg,-NC-28075","['JAMES A GAITHER', 'LUCILLE G GAITHER']","9220-Bradford-Forest-Dr,-Harrisburg,-NC-28075",9220 Bradford Forest Dr,Harrisburg,NC,28075,unknwon,unknwon
+"565-Sparks-Blvd,-Apt-BF618,-Sparks,-NV-89434",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"626-Apple-Orchard-Cir,-Berkeley-Springs,-WV-25411",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"10462-E-Olla-Ave,-Mesa,-AZ-85212","['JOANNA DIAZ', 'EDUARDO BARRIOS']","10462-E-Olla-Ave,-Mesa,-AZ-85212",10462 E Olla Ave,Mesa,AZ,85212,unknwon,unknwon
+"16151-Silverleaf-Dr,-San-Lorenzo,-CA-94580",['RUSSELL Y H YANG'],"16174-Silverleaf-Dr,-San-Lorenzo,-CA-94580",16174 Silverleaf Dr,San Lorenzo,CA,94580,unknwon,unknwon
+"5408-Brooks-St,-Rio-Grande-City,-TX-78582",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2109-Elfen-Gln,-Van-Buren,-AR-72956",[''],unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"586-W-Mount-Maria-Rd,-Spruce,-MI-48762","['ROBERT J MARTIN', 'JACKQULYN S MARTIN']","4350-Black-River-Rd,-Croswell,-MI-48422",4350 Black River Rd,Croswell,MI,48422,unknwon,unknwon
+"105-S-12th-St,-Apt-C6,-Murray,-KY-42071",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"7463-S-Via-Rancho-Ln,-Costa,-Tucson,-AZ-85756","['Diana Nunez Sabori', 'Luis Angel Nunez Martinez']","7463-S-Via-Rancho-Ln,-COSTA,-Tucson,-AZ-85756",7463 S Via Rancho Ln,Tucson,AZ,85756,"7463 S Via Rancho Ln, COSTA, Tucson, AZ 85756",COSTA
+"324-Saint-Francis-Way,-Knoxville,-TN-37919",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2391-Sample-Ave,-Clovis,-CA-93611",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"102-Long-St,-Morganton,-NC-28655","['Ted Ervin Garrison', 'CAROLYN R GARRISON']","102-Long-St,-Morganton,-NC-28655",102 Long St,Morganton,NC,28655,"102 Long St, Morganton, NC 28655",unknwon
+"39670-Highview-Dr,-Oakhurst,-CA-93644",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"505-Forest-St,-Martinsville,-VA-24112",['PAMELA DAWN BREWER'],"PO-BOX-3468,-Martinsville,-VA-24115",PO BOX 3468,Martinsville,VA,24115,unknwon,unknwon
+"1111-Chamboard-Ln,-Houston,-TX-77018",['KRISTIN DIANE B THOMPSON'],"1111-Chamboard-Ln,-Houston,-TX-77018",1111 Chamboard Ln,Houston,TX,77018,unknwon,unknwon
+"13645-E-Colonial-Dr,-Apt-168,-Orlando,-FL-32826",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2449-E-Club-Dr-NE,-Apt-114,-Brookhaven,-GA-30319",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2701-Hillsboro-Ave-N,-Apt-309,-Minneapolis,-MN-55427",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"290-Hanover-Rd,-York,-PA-17408",['LARRY E SMITH'],"290-Hanover-Rd,-York,-PA-17408",290 Hanover Rd,York,PA,17408,unknwon,unknwon
+"6034-S-12th-Pl,-Phoenix,-AZ-85042","['Millan Paulino', 'LUNA YADIRA A C']","6034-S-12th-Pl,-Phoenix,-AZ-85042",6034 S 12th Pl,Phoenix,AZ,85042,"6034 S 12th Pl, Phoenix, AZ 85042",unknwon
+"1217-Bellaire-Dr-NE,-Brookhaven,-GA-30319",['David W Pumphrey'],"1217-Bellaire-Dr-NE,-Brookhaven,-GA-30319",1217 Bellaire Dr NE,Brookhaven,GA,30319,"1217 Bellaire Dr NE, Brookhaven, GA 30319",unknwon
+"610-E-North-St,-Apt-7,-Greenville,-SC-29601",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"96-Franklin-Square-Dr,-Apt-107,-Munford,-TN-38058",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"509-Wentworth-Ave,-Battle-Creek,-MI-49015",['HART REAL ESTATE LLC'],"8266-W-O-Ave,-Kalamazoo,-MI-49009",8266 W O Ave,Kalamazoo,MI,49009,unknwon,unknwon
+"4140-Sw-53rd-Ave,-Portland,-OR-97221",['JAMES JOSEPH HEBENSTREIT'],"4140-Sw-53rd-Ave,-Portland,-OR-97221",4140 Sw 53rd Ave,Portland,OR,97221,unknwon,unknwon
+"1100-16th-St,-Clarkston,-WA-99403",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"327-Cedar-Ridge-Rd,-Randleman,-NC-27317","['WHITE HAROLD D', 'WHITE ROSEMARIE D']","327-Cedar-Ridge-Rd,-Randleman,-NC-27317",327 Cedar Ridge Rd,Randleman,NC,27317,unknwon,unknwon
+"628A-7-1-2-St-SW,-Charlottesville,-VA-22903",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"375-Meadow-Ln,-Mooresville,-NC-28115","['CHRIS L GALES', 'KATHY K GALES']","375-Meadow-Ln,-Mooresville,-NC-28115",375 Meadow Ln,Mooresville,NC,28115,unknwon,unknwon
+"4200-Veterans-Memorial-Blvd,-Metairie,-LA-70006",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"17511-Ohio-Canal-Ct,-Humble,-TX-77346","['Douglas Marshall Slattery', 'CASEY WILLIAMSON SLATTERY', 'Lauren Slattery Wehmeyer', 'REBECCA SLATTERY BURNSIDE']","17511-Ohio-Canal-Ct,-Humble,-TX-77346",17511 Ohio Canal Ct,Humble,TX,77346,"17511 Ohio Canal Ct, Humble, TX 77346",unknwon
+"843-Wood-Ave,-Edison,-NJ-08820","['Laxmi Bhardwaj', 'SUWANALUK PROMSRI']","843-Wood-Ave,-Edison,-NJ-08820",843 Wood Ave,Edison,NJ,08820,"843 Wood Ave, Edison, NJ 08820",unknwon
+"779-Briarcliff-Dr,-Orange-City,-FL-32763","['ROBERT WASMUNDT', 'PAMELA WASMUNDT']","779-Briarcliff-Dr,-Orange-City,-FL-32763",779 Briarcliff Dr,Orange City,FL,32763,unknwon,unknwon
+"3185-Dove-Ln,-Mulberry,-FL-33860",['SUSAN DIANE BROOKS'],"3185-Dove-Ln,-Mulberry,-FL-33860",3185 Dove Ln,Mulberry,FL,33860,unknwon,unknwon
+"8745-Steelhead-Ct,-Reno,-NV-89523",['ASSADURIAN TRUST'],"8745-Steelhead-Ct,-Reno,-NV-89523",8745 Steelhead Ct,Reno,NV,89523,"8745 Steelhead Ct, Reno, NV 89523",unknwon
+"568-Past-St,-Palmetto,-GA-30268",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"78-Tuscarora-Ave,-Beaufort,-SC-29907",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"45-313-Namoku-St,-Kaneohe,-HI-96744",['CURTIS MICHAEL HAGEN'],"45-313-Namoku-St,-Kaneohe,-HI-96744",45-313 Namoku St,Kaneohe,HI,96744,unknwon,unknwon
+"461-Coopers-Way,-Centerton,-AR-72719",['TYLER W CAVIN'],"461-Coopers-Way,-Centerton,-AR-72719",461 Coopers Way,Centerton,AR,72719,unknwon,unknwon
+"3733-Autumn-Ln,-Baytown,-TX-77521",['JANEEN THORNHILL'],"3733-Autumn-Ln,-Baytown,-TX-77521",3733 Autumn Ln,Baytown,TX,77521,unknwon,unknwon
+"15411-Blackwell-Dr,-Omaha,-NE-68137",['MICHAEL TRITZ'],"15411-Blackwell-Dr,-Omaha,-NE-68137",15411 Blackwell Dr,Omaha,NE,68137,unknwon,unknwon
+"515-W-Summit-Ave,-Coeur-D-Alene,-ID-83814","['RUSSELL MACRAE', 'CYNTHIA A WOOD']","515-W-Summit-Ave,-Coeur-D-Alene,-ID-83814",515 W Summit Ave,Coeur D Alene,ID,83814,unknwon,unknwon
+"15-S-Church-St,-Unit-4,-Spring-City,-PA-19475",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1406-Bliss-St,-Belvidere,-IL-61008",['JOHN J HENAO BOSSIO'],"1406-Bliss-St,-Belvidere,-IL-61008",1406 Bliss St,Belvidere,IL,61008,unknwon,unknwon
+"2100-Winsted-Ln,-Apt-A,-Austin,-TX-78703",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"201-08-116th-Ave,-Saint-Albans,-NY-11412",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"901-44th-Ave-NE,-Saint-Petersburg,-FL-33703","['YOUNG, SHERWOOD D TRUST', 'JANET T YOUNG']","9920-108th-St,-Seminole,-FL-33772",9920 108th St,Seminole,FL,33772,unknwon,unknwon
+"6186-Zachary-Ave,-Springfield,-OH-45502",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"91-1079-Kaupea-St,-Kapolei,-HI-96707","['HAWAIIAN HOME LANDS', 'BOBBIE K WAIALAE']","PO-BOX-1879,-Honolulu,-HI-96805",PO BOX 1879,Honolulu,HI,96805,unknwon,unknwon
+"460-W-Hintz-Rd,-Wheeling,-IL-60090",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"5237-Magellan-Way-W,-Delray-Beach,-FL-33484",['John Russo'],"5237-Magellan-Way-W,-Delray-Beach,-FL-33484",5237 Magellan Way W,Delray Beach,FL,33484,"5237 Magellan Way W, Delray Beach, FL 33484",unknwon
+"1379-Land-Grove-Dr,-Kernersville,-NC-27284",['KIMYATA S SURRATT'],"1379-Land-Grove-Dr,-Kernersville,-NC-27284",1379 Land Grove Dr,Kernersville,NC,27284,unknwon,unknwon
+"8735-Crampton-Dr,-Powell,-OH-43065","['ANANTHA M PRASAD', 'ANANTHA ROOPA PRASAD']","8735-Crampton-Dr,-Powell,-OH-43065",8735 Crampton Dr,Powell,OH,43065,unknwon,unknwon
+"67-Lagoon-Rd,-Statesboro,-GA-30461",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"25267-18th-St,-San-Bernardino,-CA-92404",['ANA BERTHA CISNEROS MORALES'],"25267-18th-St,-San-Bernardino,-CA-92404",25267 18th St,San Bernardino,CA,92404,unknwon,unknwon
+"Carthage-Rd,-West-End,-NC-27376",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"5286-24th-St,-Detroit,-MI-48208",['STEVEN HARRIS'],"5272-24th-St,-Detroit,-MI-48208",5272 24th St,Detroit,MI,48208,unknwon,unknwon
+"2108-E-Woodstone-Dr,-Hayden,-ID-83835",['BRUCE A ANDERSON'],"2108-E-Woodstone-Dr,-Hayden,-ID-83835",2108 E Woodstone Dr,Hayden,ID,83835,unknwon,unknwon
+"1348-Yadkinville-Rd,-Mocksville,-NC-27028",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"10243-Classic-Oak-Rd-N,-Jacksonville,-FL-32225",['BLAKE HARTLAND'],"10243-Classic-Oak-Rd-N,-Jacksonville,-FL-32225",10243 Classic Oak Rd N,Jacksonville,FL,32225,"10243 Classic Oak Rd N, Jacksonville, FL 32225",unknwon
+"1406-E-6th-Ave,-Brodhead,-WI-53520",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"505-N-Maple-St,-Searcy,-AR-72143",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"602-4th-St-S,-Northwood,-IA-50459",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"30264-Lands-End-Pl,-Canyon-Lake,-CA-92587",['WILLIAM B VAN VLEET'],"275-S-Remington-Ct,-Anaheim,-CA-92807",275 S Remington Ct,Anaheim,CA,92807,unknwon,unknwon
+"7992-N-Indian-Rd-E,-Dry-Fork,-UT-84078",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"7142-S-Maplewood-Ave,-Chicago,-IL-60629",['JOSE GUZMAN'],"7142-S-Maplewood-Ave,-Chicago,-IL-60629",7142 S Maplewood Ave,Chicago,IL,60629,unknwon,unknwon
+"2727-W-43rd-St,-Apt-410,-Minneapolis,-MN-55410",['MICHAEL STEPHEN MOORES'],"2727-W-43rd-St,-Minneapolis,-MN-55410",2727 W 43rd St,Minneapolis,MN,55410,unknwon,unknwon
+"704-Walnut-Ridge-Ests,-Pottstown,-PA-19464",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11839-Loma-Dr,-Apt-8,-Whittier,-CA-90604",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"3327-Las-Vegas-Blvd-S,-Ste-1560,-Las-Vegas,-NV-89109",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"6033-W-Bethany-Home-Rd,-Apt-804,-Glendale,-AZ-85301",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11505-Pace-Bend-Ct,-Gibsonton,-FL-33534",['AMH VICTORY LANDING DEVELOPMENT LLC'],"30601-Agoura-Rd,-STE-200,-Agoura-Hills,-CA-91301",30601 Agoura Rd,Agoura Hills,CA,91301,unknwon,STE 200
+"297-County-Hwy,-241,-Benton,-MO-63736",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"824-Pecos-River-Dr,-Granbury,-TX-76048",['JUAN ESPINOZA'],"824-Pecos-River-Dr,-Granbury,-TX-76048",824 Pecos River Dr,Granbury,TX,76048,unknwon,unknwon
+"202-Crossroads-Cir,-Montrose,-CO-81401",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2-W-Rawhide-Ave,-Gilbert,-AZ-85233",['ALLEN FAMILY TRUST'],"2-W-Rawhide-Ave,-Gilbert,-AZ-85233",2 W Rawhide Ave,Gilbert,AZ,85233,"2 W Rawhide Ave, Gilbert, AZ 85233",unknwon
+"5103-Concordia-St,-Fairfax,-VA-22032",['Martin T Hafner'],"5103-Concordia-St,-Fairfax,-VA-22032",5103 Concordia St,Fairfax,VA,22032,unknwon,unknwon
+"11211-Nw-7th-St,-Apt-2,-Miami,-FL-33172",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"5606-Dalrymple-Rd,-Minneapolis,-MN-55424","['C S FRALEY', 'B A FRALEY']","5606-Dalrymple-Rd,-Edina,-MN-55424",5606 Dalrymple Rd,Edina,MN,55424,unknwon,unknwon
+"1544-S-53rd-St,-Philadelphia,-PA-19143",['JAMES WILLIAMS'],"1544-S-53rd-St,-Philadelphia,-PA-19143",1544 S 53rd St,Philadelphia,PA,19143,unknwon,unknwon
+"300-Mercer-St,-Apt-30J,-New-York,-NY-10003",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"627-Cory-St,-Bessemer,-AL-35020",['Linda G Brown'],"627-Cory-St,-Bessemer,-AL-35020",627 Cory St,Bessemer,AL,35020,"627 Cory St, Bessemer, AL 35020",unknwon
+"PO-Box-527,-Harrison,-NJ-07029",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"12-Huntington-Ln,-Willingboro,-NJ-08046",['RAMONA FLETCHER'],"12-Huntington-Ln,-Willingboro,-NJ-08046",12 Huntington Ln,Willingboro,NJ,08046,unknwon,unknwon
+"10721-Emerald-Park-Ln,-Fort-Worth,-TX-76052",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"315-May-Oak-Rd,-Columbia,-SC-29229",['Willie A Barnes'],"315-May-Oak-Rd,-Columbia,-SC-29229",315 May Oak Rd,Columbia,SC,29229,"315 May Oak Rd, Columbia, SC 29229",unknwon
+"2070-World-Parkway-Blvd,-Apt-20,-Clearwater,-FL-33763",['FREDERICK SOLARI'],"57-Depot-St,-South-Easton,-MA-02375",57 Depot St,South Easton,MA,02375,unknwon,unknwon
+"105-S-Alarcon-St,-Unit-A,-Prescott,-AZ-86303",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1636-Hull-Ave,-Apt-202,-Des-Moines,-IA-50313",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2441-Carlmont-Dr,-Apt-306,-Belmont,-CA-94002",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11151-Trinity-River-Dr,-Rancho-Cordova,-CA-95670",['SHIANNE E BURHOP'],"11151-Trinity-River-Dr,-Rancho-Cordova,-CA-95670",11151 Trinity River Dr,Rancho Cordova,CA,95670,unknwon,unknwon
+"1725-Tillstream-Dr,-Orlando,-FL-32818","['RICKHARDO R BUNTING', 'BARBARA E BUNTING']","1725-Tillstream-Dr,-Orlando,-FL-32818",1725 Tillstream Dr,Orlando,FL,32818,unknwon,unknwon
+"1241-5th-St,-Whitehall,-PA-18052","['THOMAS W LEASWITCH', 'ANNE LEASWITCH']","1241-5th-St,-Whitehall,-PA-18052",1241 5th St,Whitehall,PA,18052,unknwon,unknwon
+"22271-E-Bellewood-Pl,-Aurora,-CO-80015",['ABAK LLC'],"7670-E-Arizona-Dr,-Denver,-CO-80231",7670 E Arizona Dr,Denver,CO,80231,unknwon,unknwon
+"14-Santa-Cruz-Dr,-Florissant,-MO-63031","['SCOTT L JONES', 'CHRISTINE M JONES']","14-Santa-Cruz-Dr,-Florissant,-MO-63031",14 Santa Cruz Dr,Florissant,MO,63031,unknwon,unknwon
+"1595-Mono-Ave,-San-Leandro,-CA-94578",['JOSEF KAPPER'],"20700-Tuxedo-Ct,-Castro-Valley,-CA-94552",20700 Tuxedo Ct,Castro Valley,CA,94552,unknwon,unknwon
+"1825-Oates-Dr,-Apt-722,-Mesquite,-TX-75150",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"506-Hiawatha-Trl,-Georgetown,-KY-40324",['JOE WORTHINGTON'],"138-S-Broadway-St,-STE-6B,-Georgetown,-KY-40324",138 S Broadway St,Georgetown,KY,40324,unknwon,STE 6B
+"9136-Trail-Ct,-Jonesboro,-GA-30238","['FORREST ROBERT A', 'GRAY BRENDA L']","9136-Trail-Ct,-Jonesboro,-GA-30238",9136 Trail Ct,Jonesboro,GA,30238,unknwon,unknwon
+"101-E-10th-St,-Ste-4G,-New-York-City,-NY-10003",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2434-Covey-Ct,-Santa-Rosa,-CA-95403","['BUYERS ACCEPTED LLC,']","2434-Covey-Ct,-Santa-Rosa,-CA-95403",2434 Covey Ct,Santa Rosa,CA,95403,unknwon,unknwon
+"3318-Saint-James-Pl,-Falls-Church,-VA-22042","['BASS, JUDY MARSHA & JUDY MARSHA BAS']","3318-Saint-James-Pl,-Falls-Church,-VA-22042",3318 Saint James Pl,Falls Church,VA,22042,unknwon,unknwon
+"1627-Woodhaven-Ct,-Mundelein,-IL-60060","['JEFFREY W TEGTMEYER', 'ELIZABETH R TEGTMEYER']","1627-Woodhaven-Ct,-Mundelein,-IL-60060",1627 Woodhaven Ct,Mundelein,IL,60060,unknwon,unknwon
+"18335-Sagebrush-Trl,-Desert-Hot-Springs,-CA-92241",['SHANE SAVOLD'],"709-Oceanhill-Dr,-Huntington-Beach,-CA-92648",709 Oceanhill Dr,Huntington Beach,CA,92648,unknwon,unknwon
+"PO-Box-2006,-Denham-Springs,-LA-70727",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"9758-Old-Lincoln-Trl,-Fairview-Heights,-IL-62208",['EDGAR MCCLURE'],"9758-Old-Lincoln-Trl,-Fairview-Heights,-IL-62208",9758 Old Lincoln Trl,Fairview Heights,IL,62208,unknwon,unknwon
+"2457-S-Palmetto-Ave,-Sanford,-FL-32771",['MICHELE LOUISE'],"2457-S-Palmetto-Ave,-Sanford,-FL-32771",2457 S Palmetto Ave,Sanford,FL,32771,unknwon,unknwon
+"J5-The-Mdws,-Clifton,-NJ-07012",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"65-Cambridge-Ave,-Jersey-City,-NJ-07307",['ROBERT BELFIORE'],"65-Cambridge-Ave,-Jersey-City,-NJ-07307",65 Cambridge Ave,Jersey City,NJ,07307,unknwon,unknwon
+"1491-Pompey-Dr,-San-Jose,-CA-95128","['AYDA TAHMASIAN SVARANE', 'JOSE ROBERTO MANJARREZ IBARRA']","1491-Pompey-Dr,-San-Jose,-CA-95128",1491 Pompey Dr,San Jose,CA,95128,unknwon,unknwon
+"257-Deerwood-Cir,-Unit-2-9,-Naples,-FL-34113",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"933-West-Blvd,-Hartford,-CT-06105",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1500-Holly-Ln-NE,-Atlanta,-GA-30329","['TATE PHYLLIS', 'ROBERTS AHUVA D']","1500-Holly-Ln-NE,-Atlanta,-GA-30329",1500 Holly Ln NE,Atlanta,GA,30329,unknwon,unknwon
+"1019-Sw-39th-St,-San-Antonio,-TX-78237","['RAMIRO HERNANDEZ', 'JUANITA G HERNANDEZ']","1019-Sw-39th-St,-San-Antonio,-TX-78237",1019 Sw 39th St,San Antonio,TX,78237,unknwon,unknwon
+"256-E-Gas-Ave,-York,-PA-17403",['IVAN D ORTEGA'],"256-E-Gas-Ave,-York,-PA-17403",256 E Gas Ave,York,PA,17403,unknwon,unknwon
+"1806-N-Culberson-St,-Gainesville,-TX-76240",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2520-Sea-Robin-Rd,-Pensacola,-FL-32526",['ROMAN NAVARRETE'],"2520-Sea-Robin-Rd,-Pensacola,-FL-32526",2520 Sea Robin Rd,Pensacola,FL,32526,unknwon,unknwon
+"Big-Woods-Rd,-Smyrna,-DE-19977",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"106-Anita-Dr,-Egg-Harbor-Township,-NJ-08234",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"231-S-Cherry-St,-Itasca,-IL-60143","['LUKASZ D WOJDYLA', 'JUSTYNA K LENIAR']","231-S-Cherry-St,-Itasca,-IL-60143",231 S Cherry St,Itasca,IL,60143,unknwon,unknwon
+"1521-N-Elk-Grove-Ave,-Chicago,-IL-60622",['WAYNE E ZUSCHLAG'],"1521-N-Elk-Grove-Ave,-Chicago,-IL-60622",1521 N Elk Grove Ave,Chicago,IL,60622,unknwon,unknwon
+"2613-N-Prospect-Ave,-Springfield,-MO-65803",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"917-Katie-Cir,-Royersford,-PA-19468","['William G Moore', 'ELIZABETH A MOORE']","917-Katie-Cir,-Royersford,-PA-19468",917 Katie Cir,Royersford,PA,19468,"917 Katie Cir, Royersford, PA 19468",unknwon
+"18055-Manning-Dr,-Prairieville,-LA-70769",['MITCHELL C STOLIER'],"18055-Manning-Dr,-Prairieville,-LA-70769",18055 Manning Dr,Prairieville,LA,70769,unknwon,unknwon
+"20748-W-Grant-Mine-Rd,-Wittmann,-AZ-85361","['ALLEN D REDMON', 'SUE REDMON']","PO-BOX-2,-Wittmann,-AZ-85361",PO BOX 2,Wittmann,AZ,85361,unknwon,unknwon
+"5500-Broken-Sound-Blvd-NW,---2-1202,-Boca-Raton,-FL-33487",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"10122-Harvest-Gold-Dr,-Charlotte,-NC-28215","['BHANU PRAKASH KASTALA', 'PERATHOTI LAVANYA']","10122-Harvest-Gold-Dr,-Charlotte,-NC-28215",10122 Harvest Gold Dr,Charlotte,NC,28215,unknwon,unknwon
+"117-Pinckney-Pl,-Aiken,-SC-29803",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"16-Prospect-St,-Waterville,-ME-04901","['LEO J QUIRION', 'LORRAINE M QUIRION']","16-Prospect-St,-Waterville,-ME-04901",16 Prospect St,Waterville,ME,04901,unknwon,unknwon
+"14-Langdon-Ct,-Sicklerville,-NJ-08081",['MONIKA GUPTA'],"1-2nd-St,-APT-1011,-Jersey-City,-NJ-07302",1 2nd St,Jersey City,NJ,07302,unknwon,APT 1011
+"4805-Hahns-Peak-Dr,-Unit-204,-Loveland,-CO-80538",['THARP REAL ESTATE LLC'],"2727-Bluebonnet-Ln,-Fort-Collins,-CO-80525",2727 Bluebonnet Ln,Fort Collins,CO,80525,unknwon,unknwon
+"517-S-Moon-Rd,-Apache-Junction,-AZ-85119",['CHELSEA CONNOLLY'],"517-S-Moon-Rd,-Apache-Junction,-AZ-85119",517 S Moon Rd,Apache Junction,AZ,85119,unknwon,unknwon
+"4127-Sunnyside-Ave,-Baltimore,-MD-21215",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"202-Southland-Dr,-Sanger,-TX-76266",['WENDOLYN L YEAKLEY'],"202-Southland-Dr,-Sanger,-TX-76266",202 Southland Dr,Sanger,TX,76266,unknwon,unknwon
+"1938-Kingston-Rd,-Farmington,-UT-84025",['RICHARD BRADLEY DUTSON'],"1938-Kingston-Rd,-Farmington,-UT-84025",1938 Kingston Rd,Farmington,UT,84025,unknwon,unknwon
+"277-Mark-Ave,-Glendale-Heights,-IL-60139",['OSCAR CABRERA'],"277-Mark-Ave,-Glendale-Heights,-IL-60139",277 Mark Ave,Glendale Heights,IL,60139,unknwon,unknwon
+"139-S-15th-Ave,-Maywood,-IL-60153",['LARRY SANDERS'],"139-S-15th-Ave,-Maywood,-IL-60153",139 S 15th Ave,Maywood,IL,60153,unknwon,unknwon
+"3579-Warfield-Rd,-Graham,-NC-27253",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4261-Edelweiss-Dr,-Plainfield,-IN-46168","['ZACHARY LOVE', 'JILL LOVE']","4261-Edelweiss-Dr,-Plainfield,-IN-46168",4261 Edelweiss Dr,Plainfield,IN,46168,unknwon,unknwon
+"3951-Forestside-Dr,-Columbus,-GA-31907",['WILLIAM MARTIN'],"7703-Hillmont-Dr,-Columbus,-GA-31909",7703 Hillmont Dr,Columbus,GA,31909,unknwon,unknwon
+"7570-W-Flamingo-Rd,-Unit-159,-Las-Vegas,-NV-89147",['LIN CHENLIN'],"3401-E-Hilltonia-Dr,-West-Covina,-CA-91792",3401 E Hilltonia Dr,West Covina,CA,91792,unknwon,unknwon
+"410-Market-St,-Galveston,-TX-77550",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"8633-Barrique-Rd,-New-Kent,-VA-23124",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11057-Sw-3rd-St,-Unit-11057,-Sweetwater,-FL-33174",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"581-Roosevelt-Hall,-Ypsilanti,-MI-48197",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"355-N-Boise-Ave,-Loveland,-CO-80537",['BEAR CLOVER TOWNHOMES LLC'],"PO-BOX-815,-Loveland,-CO-80539",PO BOX 815,Loveland,CO,80539,unknwon,unknwon
+"1500-The-Plz,-Charlotte,-NC-28205",['Susan K Campbell'],"1500-The-Plz,-Charlotte,-NC-28205",1500 The Plz,Charlotte,NC,28205,"1500 The Plz, Charlotte, NC 28205",unknwon
+"1007-Quail-Hollow-Dr,-Mary-Esther,-FL-32569","['BRYCE HINES', 'SIMO CANEKERATNE']","308-Miracle-Strip-Pkwy-SW,-UNIT-17C,-Fort-Walton-Beach,-FL-32548",308 Miracle Strip Pkwy SW,Fort Walton Beach,FL,32548,unknwon,UNIT 17C
+"101-Boucher-Ln,-Ligonier,-PA-15658","['ROBERT G HUWALT', 'DONNA M HUWALT']","101-Boucher-Ln,-Ligonier,-PA-15658",101 Boucher Ln,Ligonier,PA,15658,unknwon,unknwon
+"130-Dwight-St,-Waterbury,-CT-06704","['NATHANIEL WILSON', 'MARGARITE WILSON']","130-Dwight-St,-Waterbury,-CT-06704",130 Dwight St,Waterbury,CT,06704,unknwon,unknwon
+"4899-Smithfield-Dr,-Manchester,-MD-21102","['ALBERTO P CECCHINELLI', 'ASHLEY CECCHINELLI']","4899-Smithfield-Dr,-Manchester,-MD-21102",4899 Smithfield Dr,Manchester,MD,21102,unknwon,unknwon
+"42-Chester-St,-West-Springfield,-MA-01089",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"82-Crow-Creek-Rd,-Darby,-MT-59829",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"22-Lake-Julia-Dr-S,-Ponte-Vedra-Beach,-FL-32082",['KLEIN-FINCH LIVING TRUST'],"22-Lake-Julia-Dr-S,-Ponte-Vedra-Beach,-FL-32082",22 Lake Julia Dr S,Ponte Vedra Beach,FL,32082,unknwon,unknwon
+"2410-Everest-Pkwy,-Cape-Coral,-FL-33904","['PHILIP A HENNINGE', 'CYNTHIA L HENNINGE']","2410-Everest-Pkwy,-Cape-Coral,-FL-33904",2410 Everest Pkwy,Cape Coral,FL,33904,unknwon,unknwon
+"1388-Laurel-Hill-Dr,-Clermont,-FL-34711",['LAUREL HILL DRIVE LAND 1388'],"916-Eagle-View-Dr,-Charleston,-SC-29414",916 Eagle View Dr,Charleston,SC,29414,"916 Eagle View Dr, Charleston, SC 29414",unknwon
+"600-Beverly-Ave-E,-Sherwood,-AR-72120","['ALLEN GUIDRY', 'CANDY GUIDRY', 'GUIDRY FAMILY REVOCABLE TRUST']","600-Beverly-Ave-E,-Sherwood,-AR-72120",600 Beverly Ave E,Sherwood,AR,72120,unknwon,unknwon
+"729-Daniel-Freeman-Cir,-Inglewood,-CA-90301","['VENKATESWARLU VURIMI', 'ASHALATHA VURIMI']","729-Daniel-Freeman-Cir,-Inglewood,-CA-90301",729 Daniel Freeman Cir,Inglewood,CA,90301,unknwon,unknwon
+"4400-Kingfish-Ln,-Unit-1,-Panama-City-Beach,-FL-32408",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1632-Ne-Prescott-St,-Apt-6,-Portland,-OR-97211",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"PO-Box-2621,-Weatherford,-TX-76086",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1702-Parkway-Dr,-Lubbock,-TX-79403",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4347-Beachside-Two-Dr,-Unit-4347,-Miramar-Beach,-FL-32550",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"31-Oakview-Ter,-Unit-2,-Boston,-MA-02130",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"810-Sycamore-St,-Ste-609,-Cincinnati,-OH-45202",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4001-Airport-Fwy,-Ste-400,-Bedford,-TX-76021",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"386-Whitecliff-Dr,-Ellijay,-GA-30540",['MICHAEL WATKINS'],"1960-Hastings-St,-Marietta,-GA-30062",1960 Hastings St,Marietta,GA,30062,unknwon,unknwon
+"6002-S-82nd-St,-Unit-1A,-Tampa,-FL-33619",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"42-Acorn-Ct,-Zion-Crossroads,-VA-22942","['ALLEN, ERNEST B JR & CAROLYN K']","42-Acorn-Ct,-Zion-Crossroads,-VA-22942",42 Acorn Ct,Zion Crossroads,VA,22942,unknwon,unknwon
+"8445-Graves-Ave,-Unit-6,-Santee,-CA-92071",['DON TOMMY DONATO MIRANDA'],"8445-Graves-Ave,-UNIT-6,-Santee,-CA-92071",8445 Graves Ave,Santee,CA,92071,unknwon,UNIT 6
+"4844-Tarragon-Ln,-Grand-Prairie,-TX-75052","['Mohammad Karim', 'DORA I KARIM']","4844-Tarragon-Ln,-Grand-Prairie,-TX-75052",4844 Tarragon Ln,Grand Prairie,TX,75052,"4844 Tarragon Ln, Grand Prairie, TX 75052",unknwon
+"10319-Denison-Ave,-Cupertino,-CA-95014",['JONATHAN CHANG'],"10319-Denison-Ave,-Cupertino,-CA-95014",10319 Denison Ave,Cupertino,CA,95014,unknwon,unknwon
+"14120-Sw-168th-Ln,-Miami,-FL-33177",['HERMINIA HYBL'],"14120-Sw-168th-Ln,-Miami,-FL-33177",14120 Sw 168th Ln,Miami,FL,33177,unknwon,unknwon
+"730-Hawks-Crest-Ln,-Blacklick,-OH-43004","['HYNES,DONNA L TRUST']","730-Hawks-Crest-Ln,-Blacklick,-OH-43004",730 Hawks Crest Ln,Blacklick,OH,43004,unknwon,unknwon
+"1696-Snows-Mill-Rd,-Monroe,-GA-30655","['ARNOLD TIMOTHY M', 'ARNOLD PAMELA K']","2355-Liberty-Hill-Church-Rd,-Monroe,-GA-30655",2355 Liberty Hill Church Rd,Monroe,GA,30655,unknwon,unknwon
+"1511-W-Speedway-Blvd,-Tucson,-AZ-85745","['Anthony A Amado', 'SONIA M AMADO']","210-8th-St-SE,-Auburn,-WA-98002",210 8th St SE,Auburn,WA,98002,"210 8th St SE, Auburn, WA 98002",unknwon
+"1419-El-Camino-Real,-Santa-Clara,-CA-95050",['Daniel Fu'],"1419-EL-CAMINO-REAL,-Santa-Clara,-CA-95050",1419 EL CAMINO REAL,Santa Clara,CA,95050,"1419 EL CAMINO REAL, Santa Clara, CA 95050",unknwon
+"350-Hillside-Dr,-New-Cumberland,-PA-17070","['JOHN MATTHEW', 'MARINA MATTHEW']","350-Hillside-Dr,-New-Cumberland,-PA-17070",350 Hillside Dr,New Cumberland,PA,17070,unknwon,unknwon
+"862-Bridgewood-Dr,-Rock-Hill,-SC-29732",['LINDA B BROOKOVER'],"3090-Coytee-Rd,-Greenback,-TN-37742",3090 Coytee Rd,Greenback,TN,37742,unknwon,unknwon
+"PO-Box-366,-Conestee,-SC-29636",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"5117-Saratoga-Ave,-Bethesda,-MD-20816","['JOHN T COFFIN', 'DENISE W COFFIN']","5117-Saratoga-Ave,-Bethesda,-MD-20816",5117 Saratoga Ave,Bethesda,MD,20816,unknwon,unknwon
+"20550-150th-St,-Carroll,-IA-51401",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"213-Bridle-Ln,-Washington,-PA-15301",['JESSICA L MONTGOMERY'],"213-Bridle-Ln,-Washington,-PA-15301",213 Bridle Ln,Washington,PA,15301,unknwon,unknwon
+"3404-Ribbon-Reef-Ln,-Austin,-TX-78728",['ADNAN SYED'],"3404-Ribbon-Reef-Ln,-Austin,-TX-78728",3404 Ribbon Reef Ln,Austin,TX,78728,unknwon,unknwon
+"208-Lakeside-Dr,-Newport,-NC-28570",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"497-Spring-Lake-Dr,-Melbourne,-FL-32940","['GARY D MC MURRY', 'MARY A MC MURRY']","497-Spring-Lake-Dr,-Melbourne,-FL-32940",497 Spring Lake Dr,Melbourne,FL,32940,unknwon,unknwon
+"4700-Catawba-River-Rd,-Edgemoor,-SC-29712",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"18800-Cohasset-St,-Unit-B,-Los-Angeles,-CA-91335",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"433-Hoopers-Creek-Rd,-Fletcher,-NC-28732",['FRIEDA YOUNGBLOOD HOLDEN'],"PO-BOX-129,-Fletcher,-NC-28732",PO BOX 129,Fletcher,NC,28732,unknwon,unknwon
+"2945-Avenida-Valera,-Carlsbad,-CA-92009",['LAMIEH MOHAJER-NASSIPOUR'],"2945-AVENIDA-VALERA,-Carlsbad,-CA-92009",2945 AVENIDA VALERA,Carlsbad,CA,92009,unknwon,unknwon
+"11223-Ratliffe-St,-Norwalk,-CA-90650",['GUADALUPE JAIMES'],"11223-Ratliffe-St,-Norwalk,-CA-90650",11223 Ratliffe St,Norwalk,CA,90650,unknwon,unknwon
+"470-El-Portal-Dr,-Merced,-CA-95340",['MASAKO QUICK'],"470-El-Portal-Dr,-Merced,-CA-95340",470 El Portal Dr,Merced,CA,95340,unknwon,unknwon
+"6067-Warbling-Ln,-Westerville,-OH-43081",['HARNICHAR SUZANNE M TRUST'],"6067-Warbling-Ln,-Westerville,-OH-43081",6067 Warbling Ln,Westerville,OH,43081,unknwon,unknwon
+"74-Clemmer-Ave,-Akron,-OH-44313",['TASHMEEN A HUDA'],"74-Clemmer-Ave,-Akron,-OH-44313",74 Clemmer Ave,Akron,OH,44313,unknwon,unknwon
+"2229-Via,-Firenze,-Henderson,-NV-89044",['CINDY L CUTHBERTSON'],"2229-Via,-FIRENZE,-Henderson,-NV-89044",2229 Via,Henderson,NV,89044,unknwon,FIRENZE
+"5111-Bonnedale-Ct,-Tampa,-FL-33624",['YON YUSLAYDI'],"5111-Bonnedale-Ct,-Tampa,-FL-33624",5111 Bonnedale Ct,Tampa,FL,33624,unknwon,unknwon
+"9-Short-24th-Ave-E,-Tuscaloosa,-AL-35404","['WEBBER RALPH B', 'PATTY P WEBBER']","9750-Keenes-Mill-Rd,-Cottondale,-AL-35453",9750 Keenes Mill Rd,Cottondale,AL,35453,unknwon,unknwon
+"485-Brown-Thrasher-Ct,-Alpharetta,-GA-30009","['STEVEN MICHAEL MUELLER', 'DENISE SPENCER MUELLER']","485-Brown-Thrasher-Ct,-Alpharetta,-GA-30009",485 Brown Thrasher Ct,Alpharetta,GA,30009,unknwon,unknwon
+"15400-Sw-81st-Cir-Ln,-Apt-1011,-Miami,-FL-33193",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"5-Running-Brook-Rd,-Waterbury,-CT-06704",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2100-Augusta-Blvd,-Apt-134,-Fairfield,-OH-45014",['VOGT PROPERTIES LLC'],"1440-W-8th-St,-Cincinnati,-OH-45203",1440 W 8th St,Cincinnati,OH,45203,unknwon,unknwon
+"10530-Secretariat-Dr,-Indianapolis,-IN-46234",['MOAB PROPERTIES LLC'],"8103-E-Us-Hwy,-36-STE-128,-Avon,-IN-46123",8103 E Us Hwy,Avon,IN,46123,unknwon,36 STE 128
+"445-S-Shelby-St,-Hobart,-IN-46342",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1-Lucier-St,-Nashua,-NH-03064",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"12549-Wissant-Ln,-Saint-Louis,-MO-63146",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4660-Marysville-Rd,-Delaware,-OH-43015","['DONALD O BRYANT', 'PAMELA J BRYANT']","4660-Marysville-Rd,-Delaware,-OH-43015",4660 Marysville Rd,Delaware,OH,43015,unknwon,unknwon
+"1536-Greenbriar-Blvd,-Boulder,-CO-80305",['HAIYAN WANG'],"8500-148th-Ave-NE,-Redmond,-WA-98052",8500 148th Ave NE,Redmond,WA,98052,unknwon,unknwon
+"3141-Glennhaven-Dr,-Byram,-MS-39272",[''],"3141-Glennhaven-Dr,-Byram,-MS-39272",3141 Glennhaven Dr,Byram,MS,39272,unknwon,unknwon
+"603-E-9th-St,-Washington,-NC-27889","['LESTER CALEB WOOLARD', 'LEE LAMAR WOOLARD']","114-Isabella-Ave,-Washington,-NC-27889",114 Isabella Ave,Washington,NC,27889,unknwon,unknwon
+"132-Herndon-Dr,-Evansville,-IN-47711","['GEORGE MICHAEL DAMIEN JONES', 'BRITTANY L JONES']","132-Herndon-Dr,-Evansville,-IN-47711",132 Herndon Dr,Evansville,IN,47711,unknwon,unknwon
+"3402-Griffin-Rd,-Fort-Lauderdale,-FL-33312",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2291-Peeksville-Rd,-Locust-Grove,-GA-30248","['JOSEPH R COCHRAN', 'SALLY JO COCHRAN']","2291-Peeksville-Rd,-Locust-Grove,-GA-30248",2291 Peeksville Rd,Locust Grove,GA,30248,unknwon,unknwon
+"1913-Michelle-Ct,-Grove-City,-OH-43123",[''],unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"158-Midwood-Ave,-Waterbury,-CT-06708",['RANDY B POULTER'],"158-Midwood-Ave,-Waterbury,-CT-06708",158 Midwood Ave,Waterbury,CT,06708,unknwon,unknwon
+"408-Winter-Park-Dr,-O-Fallon,-MO-63366",['YOU W SONG'],"408-Winter-Park-Dr,-O-Fallon,-MO-63366",408 Winter Park Dr,O Fallon,MO,63366,unknwon,unknwon
+"3230-Brawner-Pkwy,-Corpus-Christi,-TX-78411",['ESTEVAN RAY HERNANDEZ'],"3230-Brawner-Pkwy,-Corpus-Christi,-TX-78411",3230 Brawner Pkwy,Corpus Christi,TX,78411,unknwon,unknwon
+"815-Kilsyth-Rd,-Elizabeth,-NJ-07208",['ALTON THOMAS'],"815-Kilsyth-Rd,-Elizabeth,-NJ-07208",815 Kilsyth Rd,Elizabeth,NJ,07208,unknwon,unknwon
+"815-1st-St,-Augusta,-GA-30901",['Lester Finley'],"2974-Arrowwood-Cir,-Hephzibah,-GA-30815",2974 Arrowwood Cir,Hephzibah,GA,30815,unknwon,unknwon
+"36550-Chester-Rd,-Apt-2702,-Avon,-OH-44011",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"29015-Abbey-Grove-Ln,-Katy,-TX-77494","['SAMUEL H COOK', 'KAREN E COOK']","29015-Abbey-Grove-Ln,-Katy,-TX-77494",29015 Abbey Grove Ln,Katy,TX,77494,unknwon,unknwon
+"1417-S-Camlan-Ln-W,-Springville,-UT-84663",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"1803-Sw-Stallings-Dr,-Ste-1,-Nacogdoches,-TX-75964",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"Rolling-Hls,-Lot-8,-Viroqua,-WI-54665",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2316-Wyoming-St,-Carlsbad,-NM-88220",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"20-Washington-St,-Apt-49,-Methuen,-MA-01844","['FREDERICK E HALL', 'LINA E HALL']","20-Washington-St,-APT-49,-Methuen,-MA-01844",20 Washington St,Methuen,MA,01844,unknwon,APT 49
+"850-Sw-7th-St,-Fort-Lauderdale,-FL-33315",[''],unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4923-W-31st-St,-Little-Rock,-AR-72204",['JAMES WHITE'],"14501-Cerise-Ave,-Hawthorne,-CA-90250",14501 Cerise Ave,Hawthorne,CA,90250,unknwon,unknwon
+"1335-Scott-Ave,-Fort-Wayne,-IN-46807",['CNR REAL ESTATES LLC'],"3422-Amulet-Dr,-Fort-Wayne,-IN-46815",3422 Amulet Dr,Fort Wayne,IN,46815,unknwon,unknwon
+"105-Dakota-Dr,-Rio-Grande-City,-TX-78582","['JUAN A GONZALEZ', 'VIRIDIANA GONZALEZ']","105-Dakota-Dr,-Rio-Grande-City,-TX-78582",105 Dakota Dr,Rio Grande City,TX,78582,unknwon,unknwon
+"2980-Delmar-Ln-NW,-Apt-H7,-Atlanta,-GA-30311",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"18936-Nw-85th-Ave,-Apt-2606,-Hialeah,-FL-33015",['CLARA ZUBIZARRETA TAYLOR CLARA ZUBIZARRET'],"8415-Nw-165th-Ter,-Miami-Lakes,-FL-33016",8415 Nw 165th Ter,Miami Lakes,FL,33016,unknwon,unknwon
+"227-Center-St,-Canandaigua,-NY-14424",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"95-E-King-St,-Dallastown,-PA-17313","['KEVIN O FISCHBACH', 'JESSICA A FISCHBACH']","95-E-King-St,-Dallastown,-PA-17313",95 E King St,Dallastown,PA,17313,unknwon,unknwon
+"1612-Houston-Blvd,-Apt-13,-South-Houston,-TX-77587",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"919-W-Prince-Rd,-Tucson,-AZ-85705",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"9177-S-South-Chicago-Ave,-Apt-602,-Chicago,-IL-60617",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2970-N-Cardell-Cir,-Tucson,-AZ-85712",['MARLENE J OBEAR'],"2970-N-Cardell-Cir,-Tucson,-AZ-85712",2970 N Cardell Cir,Tucson,AZ,85712,"2970 N Cardell Cir, Tucson, AZ 85712",unknwon
+"7-Di-Lago-Park-Place-Dr,-Shady-Shores,-TX-76208",['DALE PAYNE'],"7-Di-Lago-Park-Place-Dr,-Shady-Shores,-TX-76208",7 Di Lago Park Place Dr,Shady Shores,TX,76208,unknwon,unknwon
+"21258-Woodland-Way,-Shorewood,-IL-60404",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"6433-Birchcrest-Ct,-Las-Vegas,-NV-89108",['SALVADOR P LINDAYAG'],"6433-Birchcrest-Ct,-Las-Vegas,-NV-89108",6433 Birchcrest Ct,Las Vegas,NV,89108,unknwon,unknwon
+"3548-Paradise-Dr,-Laredo,-TX-78046",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2029-Airport-Rd,-Whispering-Pines,-NC-28327",['DOUGLAS ANDREW MURPHY'],"2029-Airport-Rd,-Carthage,-NC-28327",2029 Airport Rd,Carthage,NC,28327,unknwon,unknwon
+"12551-S-Ocotillo-Ridge-Trl,-Vail,-AZ-85641",['Robert A Petry'],"12551-S-Ocotillo-Ridge-Trl,-Vail,-AZ-85641",12551 S Ocotillo Ridge Trl,Vail,AZ,85641,"12551 S Ocotillo Ridge Trl, Vail, AZ 85641",unknwon
+"3437-Decoursey-Ave,---2,-Covington,-KY-41015",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"929-E-Foothill-Blvd,-Spc-149,-Upland,-CA-91786","['JUSTIN SUNDSTROM', 'JENNIFER SUNDSTROM']","929-E-Foothill-Blvd,-SPC-149,-Upland,-CA-91786",929 E Foothill Blvd,Upland,CA,91786,unknwon,SPC 149
+"4171-Cumbrian-Gardens-Ln,-Jacksonville,-FL-32257","['IAN MICHAEL SVOBODA', 'TAYLOR SVOBODA']","4171-Cumbrian-Gardens-Ln,-Jacksonville,-FL-32257",4171 Cumbrian Gardens Ln,Jacksonville,FL,32257,unknwon,unknwon
+"PO-Box-36,-Silver-Spring,-PA-17575",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"607-W-Provential-Dr,-Apt-8,-Anaheim,-CA-92805",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"2300-Wilshire-Blvd,-Unit-201,-Santa-Monica,-CA-90403",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"Morris-Shepherd-Dr,-Unit-7,-Brownwood,-TX-76801",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"34665-Sherwood-Dr,-Solon,-OH-44139",['Vestfal Lovelia S Tr'],"34665-Sherwood-Dr,-Solon,-OH-44139",34665 Sherwood Dr,Solon,OH,44139,"34665 Sherwood Dr, Solon, OH 44139",unknwon
+"9612-Mathog-Rd,-Riverview,-FL-33578","['THOMAS JEFFREY M', 'THOMAS CYNTHIA L']","9612-Mathog-Rd,-Riverview,-FL-33578",9612 Mathog Rd,Riverview,FL,33578,unknwon,unknwon
+"737-Woodfield-Rd,-Villanova,-PA-19085",['BARBARA K NORWITZ'],"737-Woodfield-Rd,-Villanova,-PA-19085",737 Woodfield Rd,Villanova,PA,19085,unknwon,unknwon
+"1356-E-11th-St,-Casa-Grande,-AZ-85122",['Estrella Villatoro'],"1356-E-11th-St,-Casa-Grande,-AZ-85122",1356 E 11th St,Casa Grande,AZ,85122,"1356 E 11th St, Casa Grande, AZ 85122",unknwon
+"2803-N-22nd-St,-Tampa,-FL-33605",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"11807-Highgrove-Dr,-Houston,-TX-77077",['YUNES GOLABBAKHSH'],"11807-Highgrove-Dr,-Houston,-TX-77077",11807 Highgrove Dr,Houston,TX,77077,unknwon,unknwon
+"6741-Day-St,-Tujunga,-CA-91042","['Derek Althen', 'RONDA ALTHEN']","6741-Day-St,-Tujunga,-CA-91042",6741 Day St,Tujunga,CA,91042,"6741 Day St, Tujunga, CA 91042",unknwon
+"6407-Beechwood-St,-Detroit,-MI-48210",['DETROIT LAND BANK AUTHORITY'],"500-Griswold-St,-Detroit,-MI-48226",500 Griswold St,Detroit,MI,48226,unknwon,unknwon
+"1206-Ambrose-Dr,-Salado,-TX-76571","['PETE B STEBBINS', 'PATRICIA A STEBBINS']","1206-Ambrose-Dr,-Salado,-TX-76571",1206 Ambrose Dr,Salado,TX,76571,unknwon,unknwon
+"PO-Box-519,-Union,-SC-29379",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4153-Rialto-Ave,-Clovis,-CA-93619",['JUDITH A MARK'],"4153-Rialto-Ave,-Clovis,-CA-93619",4153 Rialto Ave,Clovis,CA,93619,unknwon,unknwon
+"7034-Golden-Crst,-Elkridge,-MD-21075","['Keenan Hall', 'Hall Kimmeria']","7034-Golden-Crst,-Elkridge,-MD-21075",7034 Golden Crst,Elkridge,MD,21075,"7034 Golden Crst, Elkridge, MD 21075",unknwon
+"952-Plymouth-Sorrento-Rd,-Apopka,-FL-32712",['NANCY LEE CASCA'],"2095-Vista,-ALCEDO,-Camarillo,-CA-93012",2095 Vista,Camarillo,CA,93012,unknwon,ALCEDO
+"5111-Mckittrick-Canyon-Dr,-Austin,-TX-78759",['NANCY SANDERS GATES'],"5111-Mckittrick-Canyon-Dr,-Austin,-TX-78759",5111 Mckittrick Canyon Dr,Austin,TX,78759,unknwon,unknwon
+"PO-Box-453,-Westville,-NJ-08093",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"34-Wax-Myrtle-Ct,-Hilton-Head-Island,-SC-29926",['CONRAD F & ELAINE H KOEHLER TRUST'],"34-Wax-Myrtle-Ct,-Hilton-Head-Island,-SC-29926",34 Wax Myrtle Ct,Hilton Head Island,SC,29926,unknwon,unknwon
+"801-East-Dr,-Edmond,-OK-73034",['MATTHEW C PALMER'],"801-East-Dr,-Edmond,-OK-73034",801 East Dr,Edmond,OK,73034,unknwon,unknwon
+"837-Worcester-Dr,-Schenectady,-NY-12309","['RUSSELL TOPPING', 'MAUREEN TOPPING ANDREW TOPPING']","837-Worcester-Dr,-Niskayuna,-NY-12309",837 Worcester Dr,Niskayuna,NY,12309,unknwon,unknwon
+"259-Lee-Rd,-601,-Phenix-City,-AL-36870",[''],unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"617-Hillside-Rd,-Glenview,-IL-60025","['BURKS ANDREW', 'MA CHIHUA']","617-Hillside-Rd,-Glenview,-IL-60025",617 Hillside Rd,Glenview,IL,60025,unknwon,unknwon
+"15422-Carrillon-Estates-Blvd,-Tampa,-FL-33625","['HUGUES CHRISTOPHER JOHN EST HUGUES LINDA COOPER LIFE EATATE', 'HUGUES LINDA COOPER TRUSTE']","15422-Carrillon-Estates-Blvd,-Tampa,-FL-33625",15422 Carrillon Estates Blvd,Tampa,FL,33625,unknwon,unknwon
+"1122-Nw-4th-St,-Meridian,-ID-83642","['LUIGI MANGIONE', 'LAURYE J MANGIONE']","1122-Nw-4th-St,-Meridian,-ID-83642",1122 Nw 4th St,Meridian,ID,83642,unknwon,unknwon
+"230-Sharon-Rd,-Arcadia,-CA-91007","['TACAWY,SOUZANE LIVING TRUST']","230-Sharon-Rd,-Arcadia,-CA-91007",230 Sharon Rd,Arcadia,CA,91007,unknwon,unknwon
+"180-Cimarron-Ct,-Apt-E,-Oshkosh,-WI-54902",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"7635-Concord-Rd,-Beaumont,-TX-77708",['SHERI ROBBINS'],"9135-Grizzly-Dr,-Kountze,-TX-77625",9135 Grizzly Dr,Kountze,TX,77625,unknwon,unknwon
+"109-Freestone-St,-Greenville,-SC-29605",['DUNBAR INVESTMENTS HOLDINGS LLC'],"PO-BOX-1972,-Simpsonville,-SC-29681",PO BOX 1972,Simpsonville,SC,29681,"PO BOX 1972, Simpsonville, SC 29681",unknwon
+"82-Cliffwood-Ave,-Unit-38,-Cliffwood,-NJ-07721",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"4401-Cedar-Ave,-Pikesville,-MD-21208",['CHRIS TZANAKOS'],"219-Ashland-Rd,-Cockeysville,-MD-21030",219 Ashland Rd,Cockeysville,MD,21030,unknwon,unknwon
+"7945-Cobblesprings-Dr,-Avon,-IN-46123",['BANKS TRUST'],"7945-Cobblesprings-Dr,-Avon,-IN-46123",7945 Cobblesprings Dr,Avon,IN,46123,unknwon,unknwon
+"PO-Box-81,-Concord,-NC-28026",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"7400-Windsor-Woods-Dr,-Apt-2C,-Canton,-MI-48187",unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon,unknwon
+"6208-202nd-St-SW,-Unit-63,-Lynnwood,-WA-98036",['MANUEL AREVALO MARTINEZ'],"6208-202nd-St-SW,-Lynnwood,-WA-98036",6208 202nd St SW,Lynnwood,WA,98036,unknwon,unknwon

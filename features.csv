@@ -1,0 +1,501 @@
+id,architectureType,exteriorType,floorCount,heating,viewType,cooling,coolingType,fireplace,garage,garageType,heatingType,roofType,roomCount,unitCount,fireplaceType,foundationType,garageSpaces,pool,poolType,bathrooms,bedrooms,squareFootage
+"6522-28th-Ave,-Kenosha,-WI-53143",Duplex Single,Aluminum / Vinyl Siding,2.0,True,unknown,True,Commercial,unknown,True,Detached,Hot Water,unknown,0.0,2.0,unknown,unknown,0.0,unknown,unknown,2.0,6.0,1848.0
+"20422-W-Legend-Trl,-Buckeye,-AZ-85396",unknown,Stucco,1.0,True,unknown,unknown,unknown,unknown,True,Garage,unknown,Concrete,0.0,0.0,unknown,unknown,3.0,unknown,unknown,3.0,3.0,2566.0
+"1041-Scaleybark-Rd,-Charlotte,-NC-28209",unknown,Brick Veneer,1.0,True,unknown,True,Central,True,True,Garage,Forced Air,Asphalt,0.0,1.0,Single,Raised,0.0,unknown,unknown,2.0,3.0,2484.0
+"2352-Sw-5th-St,-Apt-16,-Miami,-FL-33135",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2301-S-Austin-Ave,-Ste-5,-Denison,-TX-75020",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"51-Birdsong-Pkwy,-Orchard-Park,-NY-14127",Colonial,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Attached,Central,unknown,11.0,1.0,unknown,unknown,0.0,unknown,unknown,2.5,4.0,3684.0
+"113-Oak-Ave,-Bellmawr,-NJ-08031",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,720.0
+"11875-Westview-Pkwy,-San-Diego,-CA-92126",Condo / Apartment,unknown,0.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,unknown,0.0,1.0,unknown,unknown,2.0,unknown,unknown,3.0,5.0,2322.0
+"8715-Shadow-Crest-St,-Houston,-TX-77074",Traditional,Brick Veneer,1.0,True,unknown,True,Central,unknown,unknown,unknown,Central,unknown,6.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,3.0,4.0,1855.0
+"4465-Boca-Way,-Spc-137,-Reno,-NV-89502",Mobile Home,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"815-Kendall-St,-Port-Orchard,-WA-98366",Ranch,Wood Shingle,1.0,True,unknown,unknown,unknown,unknown,True,Detached,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,884.0
+"7002-Lakeview-Dr,-Unit-101,-San-Antonio,-TX-78244",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,3.0,1324.0
+"1009-Mechanic-St,-Bethlehem,-PA-18015",Other,Brick,2.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Forced Air,unknown,8.0,1.0,unknown,unknown,0.0,unknown,unknown,3.0,3.0,2270.0
+"3665-Whispering-Pines-Loop-S,-Delaware,-OH-43015",Conventional,Combination,2.0,True,unknown,True,Central,True,unknown,unknown,unknown,unknown,8.0,0.0,unknown,unknown,0.0,unknown,unknown,3.5,4.0,3456.0
+"705-Chapel-Rd,-Glenside,-PA-19038",Split Level,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,unknown,True,Basement,Central,unknown,6.0,1.0,unknown,unknown,0.0,unknown,unknown,2.5,4.0,2381.0
+"54-Albero-Ct,-Rancho-Palos-Verdes,-CA-90275",unknown,unknown,0.0,True,unknown,True,Commercial,unknown,unknown,unknown,Central,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,4.0,4.0,4004.0
+"53-Oakland-Ave,-Hanover,-MA-02339",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1553.0
+"13343-Sunkiss-Loop,-Windermere,-FL-34786",unknown,Stucco,2.0,True,unknown,True,Central,unknown,True,Garage,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,2.0,unknown,unknown,3.0,4.0,2623.0
+"9245-W-Ira-St,-Tucson,-AZ-85735",Mobile Home,unknown,1.0,unknown,unknown,unknown,unknown,unknown,True,Carport,unknown,Aluminum,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1440.0
+"50-E-Bellevue-Pl,-Apt-2105,-Chicago,-IL-60611",High Rise,Concrete Block,27.0,True,unknown,True,Wall,unknown,True,Attached,Electric,unknown,5.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,0.0,0.0
+"5129-N-Newton-Cir,-Park-City,-KS-67219",Log Cabin / Rustic,Wood,1.0,True,Cul-de-sac,True,Commercial,True,True,Attached Garage,Forced Air,Composition Shingle,7.0,1.0,unknown,Concrete,2.0,unknown,unknown,3.0,3.0,1804.0
+"1641-Old-Orchard-Ln,-Seabrook,-TX-77586",Traditional,Brick,1.0,True,unknown,True,Central,True,True,Detached,Central,unknown,7.0,1.0,unknown,Slab / Mat / Raft,1.0,unknown,unknown,2.0,3.0,2583.0
+"328-Union-Ave,-Runnemede,-NJ-08078",unknown,Brick,2.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1632.0
+"877-Brosmer-Dr,-Reynoldsburg,-OH-43068",unknown,Brick / Stone,2.0,True,unknown,True,Central,True,True,Attached,Central,Asphalt,8.0,1.0,unknown,unknown,2.0,unknown,unknown,2.5,4.0,3034.0
+"3222-W-Myrtle-Ave,-Phoenix,-AZ-85051",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"24417-Twin-Lake-Dr,-Land-O-Lakes,-FL-34639",unknown,Stucco,1.0,True,Water,True,Central,unknown,True,Attached,Forced Air,Asphalt,0.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,3.0,2044.0
+"624-N-Main-St,-Kewaunee,-WI-54216",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"141-S-670-E,-Pleasant-Grove,-UT-84062",A-Frame,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,True,True,Built-in,Forced Air,Shingle,8.0,1.0,unknown,OTHER,0.0,unknown,unknown,2.0,3.0,1510.0
+"41-Mary-St,-West-Jefferson,-OH-43162",unknown,Wood,1.0,True,unknown,True,Central,unknown,True,Carport,Central,Shingle,5.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,888.0
+"7807-Golf-Circle-Dr,-Apt-206,-Margate,-FL-33063",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,739.0
+"6449-Wetherole-St,-Apt-2I,-Rego-Park,-NY-11374",Condo / Apartment,unknown,7.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,706.0
+"3350-Mcfaddin-St,-Apt-27,-Beaumont,-TX-77706",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"510-S-Irena-Ave,-Redondo-Beach,-CA-90277",unknown,unknown,0.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Central,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,5.0,5.0,4658.0
+"713-Mainsail-Dr,-Tampa,-FL-33602",Condo / Apartment,Stucco,2.0,True,unknown,True,Central,unknown,True,Garage,Central,Tile,0.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,1.0,900.0
+"113-Obregon-St,-San-Antonio,-TX-78207",unknown,Aluminum / Vinyl Siding,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Floor / Wall,Asphalt,4.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,1.0,2.0,752.0
+"1632-River-Oaks-Dr,-Irving,-TX-75060",unknown,Brick Veneer,1.0,True,unknown,True,Central,unknown,unknown,unknown,Central,Composition Shingle,0.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.0,3.0,1642.0
+"2718-Bettis-Ave,-Wasco,-CA-93280",unknown,unknown,1.0,True,unknown,True,Central,unknown,True,Attached,Forced Air,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,4.0,1346.0
+"337-Early-Rd,-Columbia,-TN-38401",OTHER,unknown,0.0,unknown,unknown,True,Central,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1216.0
+"1025-Martin-Luther-King-Jr-Dr,-Asheboro,-NC-27203",unknown,Stucco,1.0,True,unknown,True,Central,unknown,True,unknown,Forced Air,Asphalt,0.0,1.0,unknown,Retaining Wall,0.0,unknown,unknown,3.0,3.0,2036.0
+"625-Hidden-Cove-Dr,-Princeton,-TX-75407",unknown,Brick,1.0,True,unknown,True,Central,unknown,True,Attached,Central,unknown,5.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,4.0,2052.0
+"1901-N-River-Rd,-Algonquin,-IL-60102",unknown,Frame Siding,2.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Forced Air,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,3.0,2.0,2889.0
+"8600-Douglas-Ave,-Dallas,-TX-75225",unknown,Stone,2.0,True,unknown,True,Central,True,True,Mixed,Central,Aluminum,0.0,1.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,5.0,4.0,7064.0
+"1615-Mariah-Way-E,-Fort-Walton-Beach,-FL-32547",unknown,Brick,2.0,True,unknown,True,Central,True,True,Garage,Forced Air,Wood,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1810.0
+"134-Danforth-Dr,-Port-Charlotte,-FL-33980",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"3813-Octavia-Ln,-Round-Rock,-TX-78681",unknown,Stone,2.0,True,unknown,True,Central,True,True,Garage,Central,unknown,0.0,0.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,2.5,5.0,3043.0
+"235th-St-W,-Rosamond,-CA-93560",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"21515-Fairhaven-Creek-Dr,-Cypress,-TX-77433",unknown,Brick Veneer,1.0,True,unknown,True,Central,True,True,Attached,Central,unknown,9.0,0.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,3.5,4.0,4049.0
+"14405-Hardtree-Dr,-Lake-Hughes,-CA-93532",unknown,unknown,0.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Floor / Wall,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,1704.0
+"3011-Nova-Scotia-Ln,-Melbourne,-FL-32935",unknown,Stucco,1.0,True,unknown,True,Central,unknown,True,Attached,Central,Asphalt,0.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.0,3.0,1323.0
+"106-Ada-St,-West-Monroe,-LA-71291",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"11114-Marbel-Ave,-Downey,-CA-90241",Triplex,unknown,0.0,True,unknown,True,Commercial,unknown,unknown,unknown,Floor / Wall,unknown,0.0,3.0,unknown,unknown,0.0,unknown,unknown,6.0,6.0,2907.0
+"717-Gee-St,-Salinas,-CA-93905",unknown,Wood Siding,1.0,True,unknown,unknown,unknown,True,True,Attached Garage,Floor / Wall,Composition Shingle,9.0,1.0,unknown,Concrete,2.0,unknown,unknown,2.0,3.0,1672.0
+"1907-Arbor-Vista-Dr,-Charlotte,-NC-28262",unknown,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Garage,Forced Air,unknown,0.0,1.0,Prefab,Slab / Mat / Raft,0.0,unknown,unknown,2.5,5.0,2769.0
+"Marsh-View-Dr,-Lot-1,-Townsend,-GA-31331",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1009-W-Blaine-St,-Seattle,-WA-98119",unknown,unknown,2.0,True,unknown,unknown,unknown,True,True,Basement,Forced Air,unknown,0.0,1.0,unknown,unknown,1.0,unknown,unknown,1.5,5.0,1990.0
+"110-3rd-Ave,-Apt-3,-St-Pete-Beach,-FL-33706",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"502-1st-St-N,-Texas-City,-TX-77590",unknown,Wood Frame / Siding,1.0,True,unknown,True,Central,unknown,unknown,unknown,Central,Composition Shingle,0.0,1.0,unknown,Slab,0.0,unknown,unknown,2.0,0.0,1659.0
+"23330-Westheimer-Pkwy,-Katy,-TX-77494",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"10425-Hopcraft-Rd,-Onondaga,-MI-49264",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,3.0,2785.0
+"247-Candytuft-Rd,-Reisterstown,-MD-21136",Conventional,Asbestos Shingle,1.0,True,unknown,True,Commercial,True,True,Garage,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,884.0
+"1775-N-Lafayette-St,-Unit-1,-Denver,-CO-80218",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,769.0
+"15441-Sabillasville-Rd,-Blue-Ridge-Summit,-PA-17214",Ranch / Rambler,unknown,1.0,unknown,unknown,unknown,unknown,True,unknown,unknown,unknown,unknown,5.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,1116.0
+"6-Penny-Ln,-Scarsdale,-NY-10583",unknown,unknown,2.0,unknown,unknown,unknown,unknown,unknown,True,Detached,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,3.0,0.0,3138.0
+"28-Asbury-Rd,-Asheville,-NC-28804",Conventional,Wood,2.0,True,unknown,True,Commercial,True,True,Garage,Steam,Composition Shingle,0.0,1.0,unknown,Crawl / Raised,2.0,unknown,unknown,4.0,3.0,3002.0
+"653-Cross-Keys-Rd,-Sicklerville,-NJ-08081",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"118-Glavera-Ave-NE,-Canton,-OH-44704",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,3.0,1282.0
+"25117-Plantation-Dr-NE,-Atlanta,-GA-30324",Condo / Apartment,Stone,1.0,True,unknown,True,Central,True,unknown,unknown,Forced Air,unknown,6.0,1.0,Prefab,unknown,0.0,unknown,unknown,2.0,2.0,1462.0
+"4252-N-Teutonia-Ave,-Apt-201,-Milwaukee,-WI-53209",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"161-Kaylor-Rd,-Pittsburgh,-PA-15237",Ranch,Brick,1.0,True,unknown,True,Central,unknown,True,Attached,Central,Shingle,4.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,2.0,683.0
+"6750-Us-Hwy,-27-N-Apt-C23,-Sebring,-FL-33870",Condo / Apartment,Stucco,1.0,True,unknown,True,Central,unknown,True,Carport,Forced Air,Metal,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,983.0
+"172-Parkrose-Dr,-Buda,-TX-78610",unknown,Brick,1.0,True,unknown,True,Central,unknown,True,Attached,Central,Composition Shingle,0.0,0.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,3.0,4.0,2999.0
+"6-Quail-Path,-Liverpool,-NY-13090",unknown,Wood,2.0,True,unknown,unknown,unknown,unknown,True,Basement,Forced Air,unknown,0.0,1.0,unknown,unknown,1.0,unknown,unknown,1.5,3.0,1308.0
+"2520-Woodside-Dr,-Lewisville,-TX-75077",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Attached,Central,Composition Shingle,0.0,1.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,2.0,4.0,3000.0
+"10742-W-Flower-St,-Avondale,-AZ-85392",unknown,Stucco,1.0,True,unknown,True,Refrigeration,unknown,True,Garage,Forced Air,Other,6.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1644.0
+"2523-Spring-St,-Pittsburgh,-PA-15210",Other,Other,2.0,True,unknown,unknown,unknown,unknown,True,Garage,Central,Shingle (Not Wood),7.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1424.0
+"59274-Herwig-Rd,-Trlr-47,-Slidell,-LA-70461",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"14400-Vose-St,-Apt-203,-Van-Nuys,-CA-91405",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,0.0
+"1620-S-Chance-Ave,-Apt-117,-Fresno,-CA-93702",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"9350-S-Cimarron-Rd,-Unit-2080,-Las-Vegas,-NV-89178",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1433-Royer-St,-Des-Moines,-IA-50316",Bungalow,OTHER,1.0,True,unknown,True,Commercial,unknown,True,Detached,Forced Air,Asphalt,5.0,1.0,unknown,Masonry,0.0,unknown,unknown,1.0,2.0,768.0
+"8099-Bridle-Path-Cir,-Jurupa-Valley,-CA-92509",unknown,unknown,1.0,True,unknown,True,Central,True,True,Attached,Central,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,4.0,2028.0
+"12615-Huntingwick-Dr,-Houston,-TX-77024",Townhouse,Brick Veneer,2.0,True,unknown,True,Central,unknown,True,Mixed,Central,unknown,6.0,1.0,unknown,Slab / Mat / Raft,1.0,unknown,unknown,2.5,3.0,1794.0
+"3711-Landon-Park-Dr,-Katy,-TX-77449",Traditional,Brick,2.0,True,unknown,True,Central,True,True,Attached,Central,unknown,8.0,1.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,2.5,4.0,2704.0
+"4312-Airport-Blvd,-Austin,-TX-78722",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2028-Kays-Mill-Rd,-Finksburg,-MD-21048",Conventional,Siding,2.0,True,unknown,True,Commercial,True,True,Attached,Heat Pump,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.5,0.0,2254.0
+"1344-Stuart-St,-Denver,-CO-80204",unknown,Brick,1.0,True,unknown,unknown,unknown,True,True,Detached,Forced Air,unknown,5.0,1.0,unknown,unknown,2.0,unknown,unknown,1.0,2.0,1048.0
+"6252-N-Lee-St,-Apt-14,-Morrow,-GA-30260",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1068-Ringwood-Ave,-Ste-1,-Haskell,-NJ-07420",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"13068-E-Adams-Rd,-Hammond,-LA-70403",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,2594.0
+"5161-Bluegrass-Trl,-Grovetown,-GA-30813",unknown,Asphalt Shingle,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,3.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,3.0,1920.0
+"2235-Catamaran-Dr,-Lake-Havasu-City,-AZ-86404",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1301.0
+"401-S-El-Cielo-Rd,-Unit-176,-Palm-Springs,-CA-92262",Condo / Apartment,unknown,2.0,True,unknown,True,Central,True,True,Carport,Central,Tile,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1112.0
+"2945-W-Peterson-Ave---B,-Chicago,-IL-60659",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1103.0
+"2127-Green-St,-Philadelphia,-PA-19130",Condo / Apartment,Brick,4.0,True,Average,unknown,unknown,unknown,True,Open,unknown,unknown,0.0,0.0,unknown,unknown,1.0,unknown,unknown,4.5,5.0,3855.0
+"306-Upper-Mountain-Ave,-Montclair,-NJ-07043",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,5768.0
+"385-Piermont-Ave,-Hillsdale,-NJ-07642",unknown,unknown,2.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,3.0,1596.0
+"8507-Sagestone-Ct,-Houston,-TX-77095",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Detached,Central,unknown,10.0,1.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,3.5,4.0,3653.0
+"11319-Corum-St,-Houston,-TX-77089",Traditional,Brick Veneer,1.0,True,unknown,True,Central,unknown,True,Attached,Central,unknown,7.0,1.0,unknown,Slab,2.0,unknown,unknown,2.0,3.0,1466.0
+"302-Sagebrush,-Pharr,-TX-78577",Mobile Home,Vinyl,1.0,True,unknown,True,Central,unknown,unknown,unknown,Central,Metal,0.0,1.0,unknown,Block,0.0,unknown,unknown,1.0,2.0,824.0
+"258-W-Nicklaus-Ave,-Kalispell,-MT-59901",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"139-Seabreeze-Dr,-Murrells-Inlet,-SC-29576",unknown,Concrete,1.0,unknown,unknown,True,Central,True,True,Mixed,unknown,unknown,10.0,0.0,unknown,unknown,4.0,unknown,unknown,3.0,4.0,1684.0
+"114-E-Oak-St,-Palmyra,-PA-17078",unknown,Aluminum Siding,2.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Hot Water,unknown,8.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,4.0,960.0
+"1512-N-Florence-Pl,-Tulsa,-OK-74110",Ranch,Siding,1.0,True,unknown,True,Central,unknown,True,Attached,Central,Composition Shingle,0.0,1.0,unknown,OTHER,0.0,unknown,unknown,1.0,0.0,1104.0
+"11890-W-135th-St,-Overland-Park,-KS-66221",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"11209-Fetterly-Rd-W,-Hopkins,-MN-55305",unknown,Wood,2.0,True,unknown,unknown,unknown,True,True,Attached,Floor / Wall,Asphalt,8.0,1.0,unknown,unknown,3.0,unknown,unknown,3.0,2.0,3042.0
+"1465-Culpepper-Dr,-Naperville,-IL-60540",unknown,Siding,2.0,True,unknown,unknown,unknown,True,True,Garage,Electric,unknown,0.0,1.0,Single,unknown,2.0,unknown,unknown,2.5,0.0,2086.0
+"2722-Halsey-Dr,-Flower-Mound,-TX-75028",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Attached,Central,Composition Shingle,0.0,0.0,unknown,Slab / Mat / Raft,0.0,True,Pool and Hot Tub / Spa,2.0,4.0,2730.0
+"6261-E-Canyon-Crossing-Dr,-Nampa,-ID-83687",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,3.0,2834.0
+"26076-Weigel-Rd,-New-Boston,-MI-48164",Ranch,unknown,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Forced Air,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,1008.0
+"16-Sylvester-St,-Manchester,-NH-03102",Conventional,Aluminum / Vinyl Siding,2.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Forced Air,Asphalt,7.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,3.0,1419.0
+"10527-Driver-Ave,-Saint-Louis,-MO-63114",Ranch,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,True,unknown,unknown,Forced Air,unknown,7.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,2.0,1482.0
+"716-N-Atlanta-St,-Owasso,-OK-74055",Ranch / Rambler,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,unknown,True,Attached Garage,Forced Air,Composition Shingle,0.0,1.0,unknown,Slab,0.0,unknown,unknown,2.0,0.0,1194.0
+"123-Wayward-Dr,-Durham,-NC-27703",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"402-Shady-Oaks-Cir,-Denton,-TX-76208",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"59604-Plum-Nearly-Rd,-Bogalusa,-LA-70427",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,2162.0
+"105-Hickory-Hills-Dr,-Murfreesboro,-TN-37128",Ranch,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,True,True,Mixed,Heat Pump,Gravel,0.0,1.0,unknown,Block,0.0,unknown,unknown,2.0,3.0,2040.0
+"955-Eudora-St,-Apt-1603,-Denver,-CO-80220",Row End or Row Middle,Brick,1.0,True,unknown,unknown,unknown,True,True,Attached,Central,unknown,3.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,1.0,817.0
+"321-323-Shore-Dr,-Apt-16---UNIT-23,-Highlands,-NJ-07732",unknown,Brick,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,Roll Composition,3.0,1.0,unknown,Concrete Block,0.0,unknown,unknown,1.0,1.0,608.0
+"490-Hoffman-Ave,-Apt-311,-Trenton,-NJ-08618",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"108-S-Ellyn-Ave,-Glen-Ellyn,-IL-60137",Split Level,Wood,2.0,True,unknown,True,Central,unknown,True,Attached,Central,Asphalt,0.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,0.0,1374.0
+"1025-E-Young-St,-Longview,-TX-75602",unknown,OTHER,1.0,True,unknown,True,Central,unknown,True,Carport,Central,Metal,0.0,1.0,unknown,Pier / Post & Beam,0.0,unknown,unknown,1.0,0.0,810.0
+"21423-Old-Owen-Rd,-Monroe,-WA-98272",Duplex,Wood Siding,1.0,True,unknown,unknown,unknown,unknown,True,Attached,Baseboard,Composition Shingle,8.0,1.0,unknown,Crawl / Raised,2.0,unknown,unknown,2.0,4.0,1536.0
+"7440-N-Hermitage-Ave,-Apt-3G,-Chicago,-IL-60626",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,800.0
+"888-E-Quincy-Ave,-Englewood,-CO-80113",Ranch,Brick / Stone,1.0,True,unknown,unknown,unknown,unknown,True,Attached,Forced Air,Composition Shingle,0.0,0.0,unknown,OTHER,0.0,unknown,unknown,3.0,3.0,1471.0
+"444-Niu-St,-Apt-3405A,-Honolulu,-HI-96815",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4751-Hamburg-St,-Las-Vegas,-NV-89147",2+ Story,Stucco,2.0,True,unknown,True,Central,unknown,True,Built-in,Forced Air,Tile,7.0,1.0,unknown,unknown,1.0,unknown,unknown,2.5,3.0,1930.0
+"10504-Lord-Dr,-Saint-Louis,-MO-63136",Bungalow,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,unknown,unknown,unknown,Forced Air,unknown,5.0,1.0,unknown,Raised,0.0,unknown,unknown,1.5,3.0,888.0
+"2304-Oak-Ln,-Ste-236,-Grand-Prairie,-TX-75051",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1112-Stoeber-Ave,-Sarasota,-FL-34232",unknown,OTHER,1.0,True,unknown,True,Commercial,True,unknown,unknown,unknown,Asphalt,5.0,1.0,unknown,Retaining Wall,0.0,unknown,unknown,1.0,3.0,1593.0
+"5212-Ne-37th-St,-Kansas-City,-MO-64117",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"707-S-Windsor-St,-Windsor,-MO-65360",unknown,Aluminum / Vinyl Siding,1.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,Asphalt,5.0,0.0,unknown,Retaining Wall,0.0,unknown,unknown,1.0,2.0,979.0
+"50-W-34th-St,-Unit-09A11,-Manhattan,-NY-10001",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,0.0
+"3403-Memel-St,-Apt-C,-Houston,-TX-77026",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"705-Huron-Hl,-Madison,-WI-53711",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.5,4.0,2012.0
+"1400-H-G-Mosley-Pkwy,-Apt-907,-Longview,-TX-75604",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4913-S-Narcissus-Ave,-Broken-Arrow,-OK-74011",unknown,Siding,1.0,True,unknown,True,Central,True,True,Attached,Central,Composition Shingle,0.0,1.0,Single,Slab / Mat / Raft,0.0,unknown,unknown,2.0,0.0,1646.0
+"233-Ligustrum-Ln,-Apt-204,-Merritt-Island,-FL-32953",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"19043-Island-View-Dr,-Mora,-MN-55051",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1895.0
+"3329-Highway,-1045,-Amite,-LA-70422",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,784.0
+"2426-Summit-View-St,-Grand-Prairie,-TX-75050",unknown,Other,1.0,True,unknown,True,Window,unknown,unknown,unknown,Gas,Composition Shingle,0.0,1.0,unknown,Pier / Post & Beam,0.0,unknown,unknown,1.0,3.0,914.0
+"8250-Forsyth-Blvd,-Unit-209,-Clayton,-MO-63105",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,2324.0
+"PO-Box-93372,-Las-Vegas,-NV-89193",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1523-E-204th-St,-Euclid,-OH-44117",Colonial,Aluminum / Vinyl Siding,2.0,True,unknown,unknown,unknown,unknown,True,Detached,Forced Air,Asphalt,6.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,3.0,1296.0
+"716-S-Highland-St,-Arlington,-VA-22204",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,unknown,unknown,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.5,3.0,1504.0
+"177-Jupiter-Trl,-Weatherford,-TX-76088",unknown,unknown,2.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,784.0
+"721-N-Atlantic-Ave,-Pittsburgh,-PA-15224",Bungalow,Brick,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Central,Shingle,7.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,3.0,864.0
+"116-Richmond-Dr,-Fairview-Heights,-IL-62208",Mobile Home,unknown,0.0,unknown,unknown,True,Central,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1890.0
+"801-Vance-St-E,-Wilson,-NC-27893",unknown,unknown,1.0,True,unknown,True,Commercial,unknown,unknown,unknown,Heat Pump,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.5,4.0,1026.0
+"10611-Drexel-Ave,-Cleveland,-OH-44108",Colonial,Aluminum / Vinyl Siding,3.0,True,unknown,unknown,unknown,unknown,True,Garage,Hot Water,Asphalt,11.0,1.0,unknown,unknown,2.0,unknown,unknown,2.5,4.0,4868.0
+"10844-Collins-St,-North-Hollywood,-CA-91601",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,4.0,2100.0
+"1802-Commercial-St,-Steilacoom,-WA-98388",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,2309.0
+"1110-Sw-48th-Ter,-Apt-A201,-Cape-Coral,-FL-33914",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"8903-C-E-King-Pkwy,-Trlr-108,-Houston,-TX-77044",Mobile Home,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,unknown,unknown,unknown,Central,unknown,5.0,0.0,unknown,Raised,0.0,unknown,unknown,2.0,3.0,858.0
+"14449-Fox-St,-Mission-Hills,-CA-91345",Conventional,unknown,1.0,True,unknown,True,Commercial,unknown,unknown,unknown,Central,unknown,7.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1315.0
+"816-Ash-St,-Burleson,-TX-76028",Duplex,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,0.0,2174.0
+"941-Stratford-Ave,-Sweetwater,-TN-37874",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1512.0
+"26-Pleasant-St,-Apt-2,-Cambridge,-MA-02139",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"5810-Lalor-Dr,-San-Jose,-CA-95123",unknown,Stucco,1.0,True,unknown,True,Wall,True,True,Garage,unknown,Wood Shake / Shingle,7.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1618.0
+"1258-Lago-Vista-Dr,-Beverly-Hills,-CA-90210",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.5,3.0,0.0
+"1689-Mclain-Rd-NW,-Acworth,-GA-30101",Split Level,Wood,2.0,True,unknown,True,Central,True,True,Attached,Heat Pump,unknown,8.0,1.0,Prefab,unknown,0.0,unknown,unknown,2.5,4.0,2566.0
+"46-Planters-Cir,-Beaufort,-SC-29907",unknown,Brick Veneer,1.0,True,unknown,True,Central,True,True,Attached,Heat Pump,unknown,1.0,1.0,Single,Slab / Mat / Raft,2.0,unknown,unknown,0.0,1.0,1764.0
+"100-Grant-Ave,-Apt-306,-Duquesne,-PA-15110",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4022-Sparrow-Rock-St,-Las-Vegas,-NV-89129",unknown,Stucco,2.0,True,unknown,True,Central,unknown,True,Built-in,Forced Air,Tile,6.0,1.0,unknown,unknown,2.0,unknown,unknown,2.5,3.0,1739.0
+"6238-Pelican-Coral,-San-Antonio,-TX-78244",Contemporary,Wood,2.0,True,unknown,True,Central,unknown,True,Attached,Forced Air,Asphalt,6.0,1.0,unknown,Slab / Mat / Raft,1.0,unknown,unknown,2.5,4.0,2399.0
+"2171-W-Sunset-Surprise-Ct,-Tucson,-AZ-85742",unknown,Wood,1.0,True,unknown,True,Refrigeration,unknown,True,Garage,Forced Air,Tile,9.0,0.0,unknown,unknown,2.0,unknown,unknown,2.0,0.0,1921.0
+"1060-W-Hollywood-Ave,-Apt-501,-Chicago,-IL-60660",unknown,Brick,4.0,True,unknown,True,Window,unknown,True,Garage,Hot Water,unknown,4.0,1.0,unknown,Slab / Mat / Raft,1.0,unknown,unknown,0.0,1.0,0.0
+"6057-Magellan-Rd,-Jacksonville,-FL-32222",unknown,Brick Veneer,2.0,True,unknown,True,Central,unknown,True,Mixed,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,2.0,True,unknown,2.0,3.0,2980.0
+"975-Pine-Ridge-Dr,-Plantation,-FL-33317",unknown,Stucco,1.0,unknown,unknown,True,Central,unknown,True,Carport,unknown,Composition Shingle,0.0,1.0,unknown,Slab / Mat / Raft,1.0,unknown,unknown,2.0,3.0,1088.0
+"14612-S-St,-Omaha,-NE-68137",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,3.0,2132.0
+"1102-E-Hickory-St,-Denton,-TX-76205",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"8944-Candice-Lee-Ct,-Las-Vegas,-NV-89149",unknown,Stucco,3.0,True,unknown,True,Central,unknown,True,Built-in,Forced Air,Tile,6.0,1.0,unknown,unknown,1.0,unknown,unknown,3.0,2.0,1464.0
+"2335-Avellino-Ave,-Saint-Cloud,-FL-34771",unknown,Concrete Block,0.0,True,unknown,True,Package,unknown,True,Garage,unknown,Composition Shingle,0.0,0.0,unknown,Footing,0.0,unknown,unknown,2.0,4.0,1983.0
+"711-Penny-Ln,-Trussville,-AL-35173",Condo / Apartment,Vinyl,1.0,True,unknown,True,Commercial,unknown,unknown,unknown,Forced Air,Shingle,6.0,0.0,unknown,Wood,0.0,unknown,unknown,2.0,2.0,629.0
+"1179-Abernathy-Rd,-Ashland-City,-TN-37015",unknown,Aluminum / Vinyl Siding,1.0,True,unknown,True,Package,unknown,unknown,unknown,Package,Composition Shingle,0.0,1.0,unknown,Footing,0.0,unknown,unknown,2.0,3.0,1341.0
+"4855-Orleans-Ln-N,-Minneapolis,-MN-55442",Split Entry,Composition,2.0,True,unknown,True,unknown,True,True,Attached Garage,Forced Air,Asphalt,10.0,1.0,unknown,Concrete Block,2.0,unknown,unknown,2.0,4.0,1155.0
+"212-Anderson-St,-Piedmont,-SC-29673",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"3117-Brentwood-Dr,-Grand-Island,-NE-68801",unknown,OTHER,2.0,True,unknown,True,Central,True,True,Attached,Forced Air,Composition Shingle,0.0,0.0,Single,Raised,2.0,unknown,unknown,2.0,4.0,2790.0
+"2623-S-Andrews-Ln,-San-Bernardino,-CA-92408",Modern,unknown,2.0,True,unknown,True,Central,True,True,Attached,Central,Tile,10.0,1.0,unknown,unknown,3.0,unknown,unknown,2.5,5.0,2132.0
+"715-S-Alton-Way,-Unit-7C,-Denver,-CO-80247",Row End or Row Middle,Concrete Block,1.0,True,unknown,unknown,unknown,unknown,True,Carport,Hot Water,unknown,3.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,1.0,855.0
+"PO-Box-3387,-Conway,-SC-29528",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"9782-S-182nd-Dr,-Goodyear,-AZ-85338",unknown,Wood,1.0,True,unknown,True,Refrigeration,unknown,True,Garage,Forced Air,Other,8.0,1.0,unknown,unknown,3.0,unknown,unknown,3.0,0.0,2754.0
+"15-Clematis-Ave,-Waterbury,-CT-06708",Raised Ranch,Aluminum / Vinyl Siding,1.0,True,unknown,unknown,unknown,unknown,True,Underground / Basement,Electric,unknown,5.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,3.0,1038.0
+"7336-E-Norwood-St,-Mesa,-AZ-85207",unknown,Wood,1.0,True,unknown,True,Refrigeration,unknown,True,Garage,Forced Air,Concrete Tile,7.0,1.0,unknown,unknown,3.0,True,Community Pool,2.0,3.0,2126.0
+"840-Sacramento-Ave,-Apt-340,-West-Sacramento,-CA-95605",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"34-Ashley-Ave,-Charleston,-SC-29401",Split Level,OTHER,2.0,True,unknown,True,Central,True,unknown,unknown,Forced Air,Asphalt,0.0,1.0,Masonry,Slab / Mat / Raft,0.0,unknown,unknown,2.5,3.0,2020.0
+"613-Jumbuck-Ln,-Bakersfield,-CA-93307",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1410.0
+"122-Mckeel-Ave,-Tarrytown,-NY-10591",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"7920-Seville-Pl,-Apt-1904,-Boca-Raton,-FL-33433",Condo / Apartment,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1313.0
+"134-Partridge-Cir,-Carlisle,-PA-17013",unknown,Vinyl,2.0,True,unknown,True,Commercial,unknown,unknown,unknown,Forced Air,unknown,7.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,3.0,2.0,1920.0
+"3958-N-Albina-Ave,-Portland,-OR-97227",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,675.0
+"1901-S-Henry-Ln,-Gilbert,-AZ-85295",unknown,Stucco,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,0.0,1837.0
+"1337-Banks-St,-Houston,-TX-77006",unknown,unknown,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,5.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,2.0,1665.0
+"2120-Dogwood-Dr,-Sevierville,-TN-37876",unknown,Siding,2.0,True,unknown,True,Commercial,True,unknown,unknown,Central,Composition Shingle,0.0,1.0,unknown,Footing,0.0,True,unknown,3.0,3.0,1459.0
+"1602-Yeomans-Path,-Lakeland,-FL-33809",unknown,Stucco,1.0,unknown,unknown,unknown,unknown,True,True,Attached,unknown,Roll Paper,0.0,1.0,unknown,OTHER,0.0,unknown,unknown,2.0,3.0,2205.0
+"3410-E-Janice-St,-Long-Beach,-CA-90805",Conventional,unknown,1.0,True,unknown,unknown,unknown,unknown,True,Garage,Central,unknown,9.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,4.0,1312.0
+"34-Prospect-St,-Roosevelt,-NY-11575",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,0.0
+"5071-Elrose-Ave,-San-Jose,-CA-95124",unknown,unknown,1.0,True,unknown,unknown,unknown,True,True,Garage,unknown,unknown,7.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1453.0
+"25306-Saddlebrook-Ranch-Dr,-Tomball,-TX-77375",unknown,Concrete Block,1.0,True,unknown,True,Central,unknown,True,Attached,Central,unknown,6.0,0.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.0,3.0,1615.0
+"14680-Nw-66th-Ter,-Kansas-City,-MO-64152",unknown,Stucco,2.0,True,unknown,True,Commercial,True,True,Attached,Heat Pump,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,3.0,4.0,2344.0
+"202-Petunia-Dr,-Griffin,-GA-30223",unknown,Stone,1.0,True,unknown,True,Central,True,True,Attached,Central,Shingle,6.0,0.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.5,2.0,2453.0
+"8510-West-St,-Houston,-TX-77093",unknown,Concrete Block,0.0,True,unknown,True,Central,unknown,True,Garage,Central,unknown,6.0,0.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.5,3.0,1504.0
+"8085-Caminito-De-Pizza,-Unit-L,-San-Diego,-CA-92108",Condo / Apartment,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,2.0,972.0
+"1109-Dennison-St,-Little-Rock,-AR-72202",unknown,Wood,1.0,True,unknown,True,Central,True,unknown,unknown,Central,Asphalt,0.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.0,0.0,1208.0
+"17319-Acorn-Rdg,-Eden-Prairie,-MN-55347",unknown,Vinyl,2.0,True,unknown,True,Package,True,True,Attached,Floor / Wall,unknown,13.0,1.0,unknown,unknown,3.0,unknown,unknown,5.0,5.0,3461.0
+"625-Prendergast-Ave,-Apt-3,-Jamestown,-NY-14701",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"475-N-Highland-St,-Apt-3F,-Memphis,-TN-38122",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,3.0,0.0
+"1560-Central-Ave,-Unit-440,-Saint-Petersburg,-FL-33705",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1009.0
+"7020-Henry-Quincy-Way,-Charlotte,-NC-28277",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,unknown,unknown,Gas,unknown,0.0,0.0,unknown,Slab,0.0,unknown,unknown,3.5,3.0,2573.0
+"61023-Amethyst-St,-Bend,-OR-97702",unknown,Other,1.0,True,unknown,True,Commercial,True,True,Mixed,Gas,Composition Shingle,0.0,1.0,Prefab,OTHER,0.0,unknown,unknown,2.0,0.0,1812.0
+"6704-Nantucket-Ln,-Arlington,-TX-76001",unknown,unknown,2.0,True,unknown,True,Central,unknown,True,Garage,Central,unknown,0.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,2782.0
+"273-Jaimes-Ln,-Atoka,-TN-38004",unknown,Brick,1.0,True,unknown,True,Commercial,True,True,Detached,Central,Composition Shingle,0.0,1.0,unknown,Footing,0.0,unknown,unknown,3.0,0.0,2938.0
+"134-Palarm-Creek-Rd,-Conway,-AR-72032",unknown,Brick / Stone,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,unknown,Fiberglass,0.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,1.0,0.0,0.0
+"3482-Big-Sur-Dr,-Las-Vegas,-NV-89122",Modular,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,unknown,unknown,unknown,Forced Air,Composition Shingle,4.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,2.0,910.0
+"2432-S-15th-Ave,-Broadview,-IL-60155",Ranch,Brick / Stone,2.0,unknown,unknown,True,Central,unknown,True,Detached,unknown,Shingle,0.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,4.0,1901.0
+"631-W-Greenfield-St,-Elkhorn,-WI-53121",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.5,3.0,1516.0
+"1300-Se-1st-St,-Apt-5,-Fort-Lauderdale,-FL-33301",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1500-Hamilton-St,-Apt-736,-Philadelphia,-PA-19130",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,420.0
+"9220-Bradford-Forest-Dr,-Harrisburg,-NC-28075",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Mixed,Forced Air,Composition Shingle,0.0,1.0,Single,Footing,0.0,unknown,unknown,5.0,5.0,3431.0
+"565-Sparks-Blvd,-Apt-BF618,-Sparks,-NV-89434",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"626-Apple-Orchard-Cir,-Berkeley-Springs,-WV-25411",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"10462-E-Olla-Ave,-Mesa,-AZ-85212",unknown,Stucco,1.0,True,unknown,True,Refrigeration,unknown,True,Garage,Forced Air,Other,8.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,2250.0
+"16151-Silverleaf-Dr,-San-Lorenzo,-CA-94580",unknown,unknown,2.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,unknown,5.0,1.0,unknown,unknown,2.0,unknown,unknown,2.5,3.0,1416.0
+"5408-Brooks-St,-Rio-Grande-City,-TX-78582",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2109-Elfen-Gln,-Van-Buren,-AR-72956",unknown,Other,1.0,True,unknown,True,Central,unknown,True,Garage,Central,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,4.0,2.0,2671.0
+"586-W-Mount-Maria-Rd,-Spruce,-MI-48762",unknown,unknown,0.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Forced Air,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"105-S-12th-St,-Apt-C6,-Murray,-KY-42071",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"7463-S-Via-Rancho-Ln,-Costa,-Tucson,-AZ-85756",unknown,Wood,1.0,True,unknown,True,Refrigeration,unknown,unknown,unknown,Forced Air,Tile,6.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1879.0
+"324-Saint-Francis-Way,-Knoxville,-TN-37919",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2391-Sample-Ave,-Clovis,-CA-93611",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"102-Long-St,-Morganton,-NC-28655",Ranch,Brick Veneer,1.0,True,unknown,unknown,unknown,True,unknown,unknown,Central,Asphalt,5.0,1.0,unknown,Masonry,0.0,unknown,unknown,1.0,2.0,1462.0
+"39670-Highview-Dr,-Oakhurst,-CA-93644",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1964.0
+"505-Forest-St,-Martinsville,-VA-24112",unknown,Combination,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,1052.0
+"1111-Chamboard-Ln,-Houston,-TX-77018",Traditional,Brick Veneer,1.0,True,unknown,True,Central,unknown,True,Attached,Central,unknown,7.0,1.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,2.0,3.0,2017.0
+"13645-E-Colonial-Dr,-Apt-168,-Orlando,-FL-32826",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,746.0
+"2449-E-Club-Dr-NE,-Apt-114,-Brookhaven,-GA-30319",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2701-Hillsboro-Ave-N,-Apt-309,-Minneapolis,-MN-55427",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"290-Hanover-Rd,-York,-PA-17408",Ranch / Rambler,Brick,1.0,True,unknown,True,Central,True,True,Attached Garage,Hot Water,unknown,5.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,3.0,1196.0
+"6034-S-12th-Pl,-Phoenix,-AZ-85042",unknown,Stucco,1.0,True,unknown,True,Refrigeration,unknown,True,Carport,Forced Air,Built-up (Layered Asphalt),5.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,0.0,1516.0
+"1217-Bellaire-Dr-NE,-Brookhaven,-GA-30319",Ranch,Brick,1.0,True,unknown,True,Central,True,True,Garage,Central,unknown,6.0,1.0,unknown,Concrete,1.0,unknown,unknown,2.0,3.0,2171.0
+"610-E-North-St,-Apt-7,-Greenville,-SC-29601",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"96-Franklin-Square-Dr,-Apt-107,-Munford,-TN-38058",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"509-Wentworth-Ave,-Battle-Creek,-MI-49015",Bungalow,unknown,1.0,True,unknown,True,Commercial,unknown,True,Garage,Forced Air,unknown,0.0,0.0,unknown,unknown,1.0,unknown,unknown,1.0,2.0,714.0
+"4140-Sw-53rd-Ave,-Portland,-OR-97221",Other,Wood,2.0,True,unknown,unknown,unknown,True,True,Attached Garage,Forced Air,Composition Shingle,0.0,1.0,unknown,Concrete,2.0,unknown,unknown,3.0,3.0,2270.0
+"1100-16th-St,-Clarkston,-WA-99403",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"327-Cedar-Ridge-Rd,-Randleman,-NC-27317",unknown,Wood Shingle,1.0,True,unknown,True,Central,True,True,Garage,Forced Air,Shingle,0.0,1.0,unknown,Other,0.0,unknown,unknown,2.0,3.0,1668.0
+"628A-7-1-2-St-SW,-Charlottesville,-VA-22903",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"375-Meadow-Ln,-Mooresville,-NC-28115",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4200-Veterans-Memorial-Blvd,-Metairie,-LA-70006",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"17511-Ohio-Canal-Ct,-Humble,-TX-77346",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Attached,Central,unknown,8.0,1.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,3.5,4.0,3341.0
+"843-Wood-Ave,-Edison,-NJ-08820",unknown,Wood,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1125.0
+"779-Briarcliff-Dr,-Orange-City,-FL-32763",unknown,OTHER,1.0,True,unknown,True,Commercial,True,True,Attached,Forced Air,Composition Shingle,0.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.0,3.0,1614.0
+"3185-Dove-Ln,-Mulberry,-FL-33860",unknown,Other,1.0,unknown,unknown,unknown,unknown,unknown,True,Attached,unknown,Shingle,0.0,1.0,unknown,OTHER,0.0,unknown,unknown,2.0,3.0,1706.0
+"8745-Steelhead-Ct,-Reno,-NV-89523",unknown,Stucco,1.0,True,unknown,True,Commercial,True,True,Attached,Forced Air,Concrete,0.0,1.0,Single,Wood,2.0,unknown,unknown,2.0,3.0,2002.0
+"568-Past-St,-Palmetto,-GA-30268",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,4.0,0.0
+"78-Tuscarora-Ave,-Beaufort,-SC-29907",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"45-313-Namoku-St,-Kaneohe,-HI-96744",Contemporary,Wood,1.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,Built-up,5.0,1.0,unknown,Concrete,2.0,unknown,unknown,2.0,3.0,1540.0
+"461-Coopers-Way,-Centerton,-AR-72719",unknown,Masonry,1.0,True,unknown,True,Central,True,True,Attached Garage,Central,Shingle (Not Wood),0.0,1.0,Single,Slab,2.0,unknown,unknown,2.0,0.0,1547.0
+"3733-Autumn-Ln,-Baytown,-TX-77521",Traditional,Brick,2.0,True,unknown,True,Central,True,True,Detached,Central,unknown,8.0,1.0,unknown,Slab / Mat / Raft,1.0,unknown,unknown,2.5,4.0,2300.0
+"15411-Blackwell-Dr,-Omaha,-NE-68137",unknown,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,True,True,Basement,Central,Composition Shingle,7.0,1.0,unknown,Block,1.0,unknown,unknown,2.0,3.0,1548.0
+"515-W-Summit-Ave,-Coeur-D-Alene,-ID-83814",unknown,unknown,2.0,True,unknown,unknown,unknown,unknown,True,Detached,Gas,unknown,8.0,0.0,unknown,OTHER,2.0,unknown,unknown,2.0,3.0,2679.0
+"15-S-Church-St,-Unit-4,-Spring-City,-PA-19475",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,600.0
+"1406-Bliss-St,-Belvidere,-IL-61008",unknown,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Garage,Central,Composition Shingle,8.0,0.0,unknown,OTHER,2.0,unknown,unknown,1.5,4.0,3050.0
+"2100-Winsted-Ln,-Apt-A,-Austin,-TX-78703",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"201-08-116th-Ave,-Saint-Albans,-NY-11412",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,3.0,0.0
+"901-44th-Ave-NE,-Saint-Petersburg,-FL-33703",unknown,Stucco,1.0,True,unknown,True,Central,unknown,True,Garage,Forced Air,Shingle,0.0,1.0,unknown,Footing,0.0,unknown,unknown,2.0,0.0,1175.0
+"6186-Zachary-Ave,-Springfield,-OH-45502",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,3.0,2240.0
+"91-1079-Kaupea-St,-Kapolei,-HI-96707",Contemporary,Masonite,1.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,Shingle,7.0,1.0,unknown,OTHER,0.0,unknown,unknown,3.0,4.0,1677.0
+"460-W-Hintz-Rd,-Wheeling,-IL-60090",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"5237-Magellan-Way-W,-Delray-Beach,-FL-33484",Condo / Apartment,unknown,0.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,unknown,0.0,1.0,unknown,unknown,0.0,True,Community Pool,2.0,2.0,1442.0
+"1379-Land-Grove-Dr,-Kernersville,-NC-27284",Conventional,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,unknown,unknown,Forced Air,Asphalt,0.0,0.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,2.5,3.0,2052.0
+"8735-Crampton-Dr,-Powell,-OH-43065",Colonial,Brick / Stone,2.0,True,unknown,True,Commercial,True,True,Attached,Gas,unknown,8.0,1.0,unknown,Raised,2.0,unknown,unknown,2.5,4.0,2328.0
+"67-Lagoon-Rd,-Statesboro,-GA-30461",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,5.0,4.0,3000.0
+"25267-18th-St,-San-Bernardino,-CA-92404",Modern,unknown,1.0,True,unknown,True,Evaporative Cooler,True,True,Attached Garage,Central,Built-up,6.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1392.0
+"Carthage-Rd,-West-End,-NC-27376",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"5286-24th-St,-Detroit,-MI-48208",unknown,Shingle,2.0,True,unknown,unknown,unknown,unknown,True,Detached,Forced Air,Asphalt,0.0,0.0,unknown,unknown,1.0,unknown,unknown,1.5,0.0,1601.0
+"2108-E-Woodstone-Dr,-Hayden,-ID-83835",unknown,unknown,1.0,True,unknown,True,Commercial,True,True,Attached,Gas,unknown,9.0,0.0,unknown,Concrete,3.0,unknown,unknown,4.0,3.0,3370.0
+"1348-Yadkinville-Rd,-Mocksville,-NC-27028",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"10243-Classic-Oak-Rd-N,-Jacksonville,-FL-32225",unknown,Aluminum / Vinyl Siding,1.0,True,unknown,True,Central,True,True,Garage,Forced Air,Composition Shingle,0.0,1.0,Prefab,unknown,2.0,unknown,unknown,2.0,3.0,1486.0
+"1406-E-6th-Ave,-Brodhead,-WI-53520",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,1650.0
+"505-N-Maple-St,-Searcy,-AR-72143",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,16.0,16.0,7144.0
+"602-4th-St-S,-Northwood,-IA-50459",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"30264-Lands-End-Pl,-Canyon-Lake,-CA-92587",unknown,unknown,2.0,True,Water,True,Central,True,True,Attached Garage,Central,Tile,0.0,1.0,unknown,unknown,2.0,True,unknown,2.0,3.0,3008.0
+"7992-N-Indian-Rd-E,-Dry-Fork,-UT-84078",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"7142-S-Maplewood-Ave,-Chicago,-IL-60629",Bungalow,Brick / Stone,1.0,unknown,unknown,True,Commercial,unknown,True,Detached,unknown,Shingle,0.0,1.0,unknown,unknown,2.0,unknown,unknown,1.5,2.0,1040.0
+"2727-W-43rd-St,-Apt-410,-Minneapolis,-MN-55410",unknown,unknown,1.0,unknown,unknown,unknown,unknown,unknown,True,Underground / Basement,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"704-Walnut-Ridge-Ests,-Pottstown,-PA-19464",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1368.0
+"11839-Loma-Dr,-Apt-8,-Whittier,-CA-90604",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"3327-Las-Vegas-Blvd-S,-Ste-1560,-Las-Vegas,-NV-89109",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"6033-W-Bethany-Home-Rd,-Apt-804,-Glendale,-AZ-85301",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"11505-Pace-Bend-Ct,-Gibsonton,-FL-33534",Contemporary,Stucco,1.0,True,unknown,True,Central,unknown,True,Garage,Central,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,4.0,1822.0
+"297-County-Hwy,-241,-Benton,-MO-63736",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"824-Pecos-River-Dr,-Granbury,-TX-76048",Mobile Home,unknown,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1064.0
+"202-Crossroads-Cir,-Montrose,-CO-81401",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1229.0
+"2-W-Rawhide-Ave,-Gilbert,-AZ-85233",unknown,Stucco,1.0,True,unknown,True,Refrigeration,unknown,True,Carport,Forced Air,Wood,7.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,0.0,1671.0
+"5103-Concordia-St,-Fairfax,-VA-22032",Split Level,Brick,2.0,True,unknown,True,Commercial,True,True,Carport,Forced Air,Composition Shingle,8.0,1.0,unknown,unknown,2.0,unknown,unknown,4.0,4.0,2240.0
+"11211-Nw-7th-St,-Apt-2,-Miami,-FL-33172",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"5606-Dalrymple-Rd,-Minneapolis,-MN-55424",Ranch,Wood,1.0,True,unknown,True,Package,True,True,Attached,Floor / Wall,Asphalt,10.0,1.0,unknown,unknown,2.0,unknown,unknown,3.0,3.0,2064.0
+"1544-S-53rd-St,-Philadelphia,-PA-19143",Condo / Apartment,Brick,2.0,unknown,Average,unknown,unknown,unknown,unknown,unknown,unknown,unknown,7.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,4.0,1622.0
+"300-Mercer-St,-Apt-30J,-New-York,-NY-10003",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,0.0
+"627-Cory-St,-Bessemer,-AL-35020",unknown,Vinyl,1.0,True,unknown,True,Commercial,unknown,True,Carport,Forced Air,Metal,6.0,1.0,unknown,Wood,0.0,unknown,unknown,2.0,3.0,1878.0
+"PO-Box-527,-Harrison,-NJ-07029",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"12-Huntington-Ln,-Willingboro,-NJ-08046",unknown,Wood,2.0,unknown,unknown,unknown,unknown,unknown,True,Attached Garage,unknown,unknown,0.0,1.0,unknown,unknown,2.0,unknown,unknown,0.0,0.0,2288.0
+"10721-Emerald-Park-Ln,-Fort-Worth,-TX-76052",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,3.0,1892.0
+"315-May-Oak-Rd,-Columbia,-SC-29229",Conventional,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Attached,Forced Air,Asphalt,0.0,1.0,unknown,OTHER,1.0,unknown,unknown,2.0,4.0,1664.0
+"2070-World-Parkway-Blvd,-Apt-20,-Clearwater,-FL-33763",Condo / Apartment,Masonry,1.0,True,Average,True,Commercial,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,True,unknown,2.0,2.0,1400.0
+"105-S-Alarcon-St,-Unit-A,-Prescott,-AZ-86303",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,7274.0
+"1636-Hull-Ave,-Apt-202,-Des-Moines,-IA-50313",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2441-Carlmont-Dr,-Apt-306,-Belmont,-CA-94002",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"11151-Trinity-River-Dr,-Rancho-Cordova,-CA-95670",unknown,unknown,2.0,True,unknown,True,Central,True,True,Attached,Central,Wood Shingle,8.0,1.0,unknown,Slab / Mat / Raft,3.0,unknown,unknown,2.0,4.0,2006.0
+"1725-Tillstream-Dr,-Orlando,-FL-32818",unknown,Stucco,1.0,True,unknown,True,Central,unknown,True,Garage,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1746.0
+"1241-5th-St,-Whitehall,-PA-18052",unknown,Brick,1.0,True,unknown,True,Central,unknown,True,Attached,Central,unknown,6.0,1.0,unknown,unknown,0.0,True,Above-Ground Pool,2.0,3.0,1248.0
+"22271-E-Bellewood-Pl,-Aurora,-CO-80015",Ranch,Wood,1.0,True,unknown,unknown,unknown,True,True,Attached,Forced Air,Composition Shingle,0.0,1.0,unknown,OTHER,2.0,unknown,unknown,2.0,2.0,2992.0
+"14-Santa-Cruz-Dr,-Florissant,-MO-63031",Ranch,Brick,1.0,True,unknown,True,Central,True,True,Garage,Forced Air,unknown,5.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,2.0,1036.0
+"1595-Mono-Ave,-San-Leandro,-CA-94578",unknown,unknown,2.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,unknown,22.0,5.0,unknown,unknown,0.0,unknown,unknown,7.5,10.0,5432.0
+"1825-Oates-Dr,-Apt-722,-Mesquite,-TX-75150",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"506-Hiawatha-Trl,-Georgetown,-KY-40324",unknown,Brick Veneer,1.0,True,unknown,True,Central,True,True,Attached,Central,unknown,0.0,0.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1392.0
+"9136-Trail-Ct,-Jonesboro,-GA-30238",Split Level,Brick,1.0,True,unknown,True,Commercial,True,True,Carport,unknown,unknown,5.0,1.0,unknown,unknown,0.0,True,Pool and Hot Tub / Spa,2.0,3.0,1656.0
+"101-E-10th-St,-Ste-4G,-New-York-City,-NY-10003",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,0.0
+"2434-Covey-Ct,-Santa-Rosa,-CA-95403",unknown,unknown,2.0,unknown,unknown,True,Commercial,True,True,Attached,unknown,unknown,6.0,1.0,unknown,unknown,0.0,unknown,unknown,2.5,3.0,1451.0
+"3318-Saint-James-Pl,-Falls-Church,-VA-22042",unknown,Wood,1.0,True,unknown,True,Commercial,True,unknown,unknown,Forced Air,Roll Tar & Gravel,6.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,1354.0
+"1627-Woodhaven-Ct,-Mundelein,-IL-60060",Condo / Apartment,Aluminum / Vinyl Siding,2.0,True,unknown,True,Commercial,True,True,Attached,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,1.0,unknown,unknown,2.5,2.0,1232.0
+"18335-Sagebrush-Trl,-Desert-Hot-Springs,-CA-92241",unknown,unknown,1.0,True,unknown,True,Central,True,True,Attached Garage,Central,Tile,0.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1301.0
+"PO-Box-2006,-Denham-Springs,-LA-70727",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"9758-Old-Lincoln-Trl,-Fairview-Heights,-IL-62208",unknown,Brick / Stone,1.0,unknown,unknown,True,Central,True,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1439.0
+"2457-S-Palmetto-Ave,-Sanford,-FL-32771",unknown,Concrete Block,1.0,True,unknown,True,Central,unknown,True,Carport,Central,Shingle,0.0,1.0,unknown,Retaining Wall,0.0,unknown,unknown,1.0,3.0,1844.0
+"J5-The-Mdws,-Clifton,-NJ-07012",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"65-Cambridge-Ave,-Jersey-City,-NJ-07307",Colonial,Wood,2.0,True,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,4692.0
+"1491-Pompey-Dr,-San-Jose,-CA-95128",unknown,unknown,1.0,unknown,unknown,unknown,unknown,True,unknown,unknown,unknown,unknown,0.0,2.0,unknown,unknown,0.0,unknown,unknown,2.0,4.0,1919.0
+"257-Deerwood-Cir,-Unit-2-9,-Naples,-FL-34113",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1134.0
+"933-West-Blvd,-Hartford,-CT-06105",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1500-Holly-Ln-NE,-Atlanta,-GA-30329",Ranch,Brick,1.0,True,unknown,True,Central,True,True,Carport,Central,unknown,7.0,1.0,unknown,unknown,0.0,unknown,unknown,3.0,5.0,2738.0
+"1019-Sw-39th-St,-San-Antonio,-TX-78237",unknown,Wood,1.0,True,unknown,unknown,unknown,True,True,Garage,Floor / Wall,Asphalt,6.0,1.0,unknown,Pier / Post & Beam,0.0,unknown,unknown,1.0,4.0,1438.0
+"256-E-Gas-Ave,-York,-PA-17403",Colonial,Aluminum Siding,2.0,True,unknown,True,unknown,unknown,unknown,unknown,Gas,unknown,5.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,3.0,950.0
+"1806-N-Culberson-St,-Gainesville,-TX-76240",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,760.0
+"2520-Sea-Robin-Rd,-Pensacola,-FL-32526",unknown,Brick Veneer,1.0,True,unknown,True,Central,True,True,Attached,Central,Composition Shingle,0.0,1.0,Masonry,Slab / Mat / Raft,1.0,unknown,unknown,2.0,0.0,1682.0
+"Big-Woods-Rd,-Smyrna,-DE-19977",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"106-Anita-Dr,-Egg-Harbor-Township,-NJ-08234",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,5.0,2360.0
+"231-S-Cherry-St,-Itasca,-IL-60143",Split Level,Brick,2.0,unknown,unknown,True,Central,unknown,True,Detached,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1270.0
+"1521-N-Elk-Grove-Ave,-Chicago,-IL-60622",Old Style,Masonry,2.0,unknown,unknown,True,Commercial,unknown,True,Detached Garage,unknown,Shingle (Not Wood),0.0,0.0,unknown,unknown,2.0,unknown,unknown,2.0,4.0,2063.0
+"2613-N-Prospect-Ave,-Springfield,-MO-65803",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"917-Katie-Cir,-Royersford,-PA-19468",Townhouse,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Attached,Central,unknown,6.0,1.0,Prefab,unknown,0.0,unknown,unknown,2.5,3.0,1390.0
+"18055-Manning-Dr,-Prairieville,-LA-70769",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,0.0
+"20748-W-Grant-Mine-Rd,-Wittmann,-AZ-85361",Mobile Home,unknown,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,4104.0
+"5500-Broken-Sound-Blvd-NW,---2-1202,-Boca-Raton,-FL-33487",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,3.0,1640.0
+"10122-Harvest-Gold-Dr,-Charlotte,-NC-28215",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Mixed,Forced Air,Composition Shingle,0.0,0.0,unknown,Footing,0.0,unknown,unknown,3.0,5.0,3328.0
+"117-Pinckney-Pl,-Aiken,-SC-29803",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.5,4.0,2982.0
+"16-Prospect-St,-Waterville,-ME-04901",Ranch,Aluminum / Vinyl Siding,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Hot Water,Metal,5.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,3.0,1040.0
+"14-Langdon-Ct,-Sicklerville,-NJ-08081",unknown,Wood,2.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1034.0
+"4805-Hahns-Peak-Dr,-Unit-204,-Loveland,-CO-80538",Condo / Apartment,OTHER,1.0,True,unknown,True,Central,True,unknown,unknown,Central,Composition Shingle,6.0,1.0,Single,OTHER,0.0,unknown,unknown,2.0,2.0,973.0
+"517-S-Moon-Rd,-Apache-Junction,-AZ-85119",unknown,Other,1.0,True,unknown,True,Commercial,unknown,True,Attached,unknown,Tile,0.0,0.0,unknown,OTHER,0.0,unknown,unknown,2.5,4.0,2562.0
+"4127-Sunnyside-Ave,-Baltimore,-MD-21215",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"202-Southland-Dr,-Sanger,-TX-76266",unknown,Brick Veneer,1.0,True,unknown,True,Central,unknown,True,Attached,Central,Composition Shingle,0.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,1.0,2.0,936.0
+"1938-Kingston-Rd,-Farmington,-UT-84025",unknown,Stucco,2.0,True,unknown,True,Central,unknown,unknown,unknown,Central,Composition Shingle,7.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,4.0,2354.0
+"277-Mark-Ave,-Glendale-Heights,-IL-60139",Ranch / Rambler,unknown,1.0,unknown,unknown,unknown,unknown,True,True,Detached Garage,unknown,unknown,6.0,1.0,unknown,unknown,2.0,unknown,unknown,1.0,3.0,1447.0
+"139-S-15th-Ave,-Maywood,-IL-60153",unknown,Wood,2.0,unknown,unknown,unknown,unknown,unknown,True,unknown,unknown,Asphalt,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,0.0,0.0
+"3579-Warfield-Rd,-Graham,-NC-27253",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4261-Edelweiss-Dr,-Plainfield,-IN-46168",unknown,unknown,2.0,True,unknown,True,Central,True,True,Attached,Central,unknown,10.0,0.0,unknown,unknown,0.0,unknown,unknown,2.5,4.0,3026.0
+"3951-Forestside-Dr,-Columbus,-GA-31907",French Provincial,Wood Siding,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Floor / Wall,Asphalt,0.0,0.0,unknown,Crawl / Raised,0.0,unknown,unknown,1.0,2.0,696.0
+"7570-W-Flamingo-Rd,-Unit-159,-Las-Vegas,-NV-89147",Condo / Apartment,Stucco,1.0,True,unknown,True,Central,True,True,Carport,Forced Air,Tile,4.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,2.0,1023.0
+"410-Market-St,-Galveston,-TX-77550",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"8633-Barrique-Rd,-New-Kent,-VA-23124",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.5,3.0,4465.0
+"11057-Sw-3rd-St,-Unit-11057,-Sweetwater,-FL-33174",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,4.0,0.0
+"581-Roosevelt-Hall,-Ypsilanti,-MI-48197",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"355-N-Boise-Ave,-Loveland,-CO-80537",Duplex Single,Wood,2.0,True,unknown,unknown,unknown,unknown,True,Attached,Forced Air,Composition Shingle,10.0,2.0,unknown,OTHER,0.0,unknown,unknown,6.0,6.0,2888.0
+"1500-The-Plz,-Charlotte,-NC-28205",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Garage,Forced Air,Asphalt,0.0,1.0,unknown,Raised,0.0,unknown,unknown,3.0,3.0,2168.0
+"1007-Quail-Hollow-Dr,-Mary-Esther,-FL-32569",unknown,Brick,1.0,True,unknown,True,Central,True,True,Garage,Forced Air,Wood,0.0,1.0,unknown,unknown,0.0,True,unknown,2.0,3.0,1574.0
+"101-Boucher-Ln,-Ligonier,-PA-15658",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"130-Dwight-St,-Waterbury,-CT-06704",Colonial,Aluminum / Vinyl Siding,2.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Forced Air,Asphalt,6.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,4.0,1345.0
+"4899-Smithfield-Dr,-Manchester,-MD-21102",Conventional,Siding,2.0,True,unknown,True,Commercial,True,True,Attached,Forced Air,Composition Shingle,0.0,1.0,2 Story,unknown,0.0,True,In-Ground Vinyl Pool,3.5,0.0,3380.0
+"42-Chester-St,-West-Springfield,-MA-01089",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.5,3.0,1056.0
+"82-Crow-Creek-Rd,-Darby,-MT-59829",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"22-Lake-Julia-Dr-S,-Ponte-Vedra-Beach,-FL-32082",unknown,Stucco,1.0,True,unknown,True,Central,True,True,Garage,Forced Air,Composition Shingle,0.0,1.0,Prefab,OTHER,0.0,unknown,unknown,3.0,3.0,2366.0
+"2410-Everest-Pkwy,-Cape-Coral,-FL-33904",Ranch,Stucco,1.0,True,unknown,True,Central,unknown,True,Attached,Forced Air,Tile,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,2246.0
+"1388-Laurel-Hill-Dr,-Clermont,-FL-34711",unknown,Combination,1.0,True,unknown,True,Central,unknown,True,Garage,Forced Air,Shingle,0.0,1.0,unknown,Slab / Mat / Raft,2.0,unknown,unknown,2.0,3.0,2127.0
+"600-Beverly-Ave-E,-Sherwood,-AR-72120",unknown,Brick / Stone,1.0,True,unknown,True,Central,True,True,Carport,Central,Asphalt,0.0,1.0,Single,OTHER,0.0,True,Above-Ground Pool,2.0,0.0,1425.0
+"729-Daniel-Freeman-Cir,-Inglewood,-CA-90301",Condo / Apartment,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.5,4.0,2355.0
+"4400-Kingfish-Ln,-Unit-1,-Panama-City-Beach,-FL-32408",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,2.0,1485.0
+"1632-Ne-Prescott-St,-Apt-6,-Portland,-OR-97211",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"PO-Box-2621,-Weatherford,-TX-76086",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1702-Parkway-Dr,-Lubbock,-TX-79403",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4347-Beachside-Two-Dr,-Unit-4347,-Miramar-Beach,-FL-32550",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1259.0
+"31-Oakview-Ter,-Unit-2,-Boston,-MA-02130",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,600.0
+"810-Sycamore-St,-Ste-609,-Cincinnati,-OH-45202",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4001-Airport-Fwy,-Ste-400,-Bedford,-TX-76021",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"386-Whitecliff-Dr,-Ellijay,-GA-30540",unknown,Wood,2.0,True,unknown,True,Central,True,unknown,unknown,Central,Metal,0.0,0.0,unknown,Masonry,0.0,unknown,unknown,1.0,0.0,1104.0
+"6002-S-82nd-St,-Unit-1A,-Tampa,-FL-33619",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,2.0,800.0
+"42-Acorn-Ct,-Zion-Crossroads,-VA-22942",unknown,Aluminum / Vinyl Siding,1.0,True,unknown,True,Commercial,unknown,True,Garage,Heat Pump,Asphalt,0.0,1.0,unknown,Masonry,2.0,True,unknown,2.0,3.0,1873.0
+"8445-Graves-Ave,-Unit-6,-Santee,-CA-92071",Condo / Apartment,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1110.0
+"4844-Tarragon-Ln,-Grand-Prairie,-TX-75052",unknown,unknown,2.0,True,unknown,True,Central,unknown,True,Garage,Central,unknown,0.0,0.0,unknown,unknown,2.0,unknown,unknown,4.0,5.0,4115.0
+"10319-Denison-Ave,-Cupertino,-CA-95014",unknown,Stucco,1.0,True,unknown,unknown,unknown,True,True,Garage,unknown,Wood Shake / Shingle,7.0,1.0,unknown,Raised,2.0,unknown,unknown,2.0,3.0,1330.0
+"14120-Sw-168th-Ln,-Miami,-FL-33177",unknown,Concrete Block,1.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,Other,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1490.0
+"730-Hawks-Crest-Ln,-Blacklick,-OH-43004",Conventional,Brick / Stone,1.0,True,unknown,True,Commercial,unknown,True,Attached,Gas,unknown,5.0,1.0,unknown,Raised,2.0,unknown,unknown,2.5,3.0,2157.0
+"1696-Snows-Mill-Rd,-Monroe,-GA-30655",unknown,OTHER,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,Aluminum,0.0,0.0,unknown,Masonry,0.0,unknown,unknown,1.0,0.0,506.0
+"1511-W-Speedway-Blvd,-Tucson,-AZ-85745",unknown,Block,1.0,True,unknown,True,Evaporative,unknown,True,Carport,Forced Air,Built-up (Layered Asphalt),6.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,0.0,1071.0
+"1419-El-Camino-Real,-Santa-Clara,-CA-95050",Condo / Apartment,unknown,3.0,True,unknown,True,Commercial,unknown,True,Garage,unknown,unknown,7.0,0.0,unknown,unknown,0.0,unknown,unknown,3.5,3.0,1894.0
+"350-Hillside-Dr,-New-Cumberland,-PA-17070",Split Level,Stone,2.0,True,unknown,unknown,unknown,True,unknown,unknown,Radiant,unknown,6.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,1.5,3.0,2175.0
+"862-Bridgewood-Dr,-Rock-Hill,-SC-29732",unknown,Aluminum / Vinyl Siding,2.0,unknown,unknown,unknown,unknown,True,True,Garage,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,0.0,1624.0
+"PO-Box-366,-Conestee,-SC-29636",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"5117-Saratoga-Ave,-Bethesda,-MD-20816",Conventional,Brick,2.0,True,unknown,True,Commercial,True,True,Garage,Radiant,Composition Shingle,0.0,1.0,2 Story,unknown,0.0,unknown,unknown,2.5,0.0,2314.0
+"20550-150th-St,-Carroll,-IA-51401",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"213-Bridle-Ln,-Washington,-PA-15301",unknown,Aluminum / Vinyl Siding,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,6.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1705.0
+"3404-Ribbon-Reef-Ln,-Austin,-TX-78728",unknown,unknown,2.0,True,unknown,True,Central,True,True,Attached Garage,Central,Composition Shingle,0.0,1.0,unknown,Slab,2.0,unknown,unknown,3.0,0.0,2015.0
+"208-Lakeside-Dr,-Newport,-NC-28570",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"497-Spring-Lake-Dr,-Melbourne,-FL-32940",unknown,Stucco,2.0,True,unknown,True,Central,True,True,Attached,Central,Concrete,8.0,1.0,unknown,Slab / Mat / Raft,0.0,True,Pool and Hot Tub / Spa,2.0,4.0,5562.0
+"4700-Catawba-River-Rd,-Edgemoor,-SC-29712",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"18800-Cohasset-St,-Unit-B,-Los-Angeles,-CA-91335",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,1.0,700.0
+"433-Hoopers-Creek-Rd,-Fletcher,-NC-28732",Conventional,Wood Shingle,1.0,True,unknown,True,Central,unknown,True,Mixed,Forced Air,Asphalt,0.0,1.0,unknown,Concrete,4.0,unknown,unknown,1.0,2.0,1008.0
+"2945-Avenida-Valera,-Carlsbad,-CA-92009",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,unknown,0.0,1.0,unknown,unknown,3.0,unknown,unknown,3.0,5.0,2638.0
+"11223-Ratliffe-St,-Norwalk,-CA-90650",Conventional,unknown,1.0,True,unknown,unknown,unknown,unknown,True,Garage,Floor / Wall,unknown,7.0,1.0,unknown,unknown,1.0,unknown,unknown,1.0,3.0,1218.0
+"470-El-Portal-Dr,-Merced,-CA-95340",unknown,unknown,1.0,True,unknown,True,Central,True,True,Attached,Central,unknown,5.0,1.0,Single,unknown,2.0,unknown,unknown,2.0,3.0,1175.0
+"6067-Warbling-Ln,-Westerville,-OH-43081",Conventional,Brick,1.0,True,unknown,True,Commercial,unknown,True,Attached,Gas,unknown,5.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1433.0
+"74-Clemmer-Ave,-Akron,-OH-44313",Colonial,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Attached Garage,Central,unknown,7.0,1.0,Single,unknown,2.0,unknown,unknown,2.0,3.0,1851.0
+"2229-Via,-Firenze,-Henderson,-NV-89044",unknown,Stucco,2.0,True,unknown,True,Central,unknown,True,Built-in,Forced Air,Tile,5.0,0.0,unknown,unknown,2.0,unknown,unknown,2.5,2.0,1557.0
+"5111-Bonnedale-Ct,-Tampa,-FL-33624",Split Level,Concrete Block,2.0,True,unknown,True,Central,unknown,True,Garage,Central,Composition Shingle,0.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,4.0,1575.0
+"9-Short-24th-Ave-E,-Tuscaloosa,-AL-35404",unknown,Asbestos Shingle,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Gravity,Shingle,4.0,1.0,unknown,OTHER,0.0,unknown,unknown,1.0,0.0,825.0
+"485-Brown-Thrasher-Ct,-Alpharetta,-GA-30009",Conventional,Wood,2.0,True,unknown,True,Central,True,True,Garage,Forced Air,unknown,7.0,1.0,Prefab,unknown,0.0,unknown,unknown,2.5,3.0,2234.0
+"15400-Sw-81st-Cir-Ln,-Apt-1011,-Miami,-FL-33193",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1096.0
+"5-Running-Brook-Rd,-Waterbury,-CT-06704",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1585.0
+"2100-Augusta-Blvd,-Apt-134,-Fairfield,-OH-45014",Condo / Apartment,Brick,1.0,True,unknown,True,Geo-Thermal,True,True,Carport,Electric,unknown,5.0,1.0,unknown,unknown,2.0,unknown,unknown,1.5,2.0,1028.0
+"10530-Secretariat-Dr,-Indianapolis,-IN-46234",unknown,unknown,1.0,True,unknown,True,Central,True,True,Attached,Central,Asphalt,0.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1104.0
+"445-S-Shelby-St,-Hobart,-IN-46342",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"1-Lucier-St,-Nashua,-NH-03064",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"12549-Wissant-Ln,-Saint-Louis,-MO-63146",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4660-Marysville-Rd,-Delaware,-OH-43015",Conventional,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Garage,Baseboard,unknown,11.0,1.0,unknown,unknown,3.0,unknown,unknown,3.5,5.0,2968.0
+"1536-Greenbriar-Blvd,-Boulder,-CO-80305",unknown,Brick Veneer,0.0,True,unknown,True,Central,unknown,True,Carport,Forced Air,unknown,8.0,1.0,unknown,unknown,1.0,unknown,unknown,4.0,3.0,1719.0
+"3141-Glennhaven-Dr,-Byram,-MS-39272",unknown,Brick,1.0,True,unknown,True,Commercial,True,unknown,unknown,Forced Air,Asphalt,7.0,1.0,Prefab,Slab / Mat / Raft,0.0,unknown,unknown,2.0,3.0,1670.0
+"603-E-9th-St,-Washington,-NC-27889",unknown,Brick Veneer,0.0,True,unknown,True,Central,unknown,unknown,unknown,Forced Air,Composition Shingle,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,9966.0
+"132-Herndon-Dr,-Evansville,-IN-47711",unknown,unknown,1.0,True,unknown,True,Central,True,True,Detached,Central,Asphalt,6.0,0.0,Masonry,Raised,1.0,unknown,unknown,1.5,3.0,1506.0
+"3402-Griffin-Rd,-Fort-Lauderdale,-FL-33312",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2291-Peeksville-Rd,-Locust-Grove,-GA-30248",unknown,Brick Veneer,1.0,True,unknown,True,Central,True,True,Attached,Forced Air,Asphalt,5.0,1.0,unknown,OTHER,2.0,True,"Pool, Fiberglass",2.0,3.0,1829.0
+"1913-Michelle-Ct,-Grove-City,-OH-43123",Conventional,Brick / Stone,2.0,True,unknown,True,Central,unknown,True,Attached,unknown,unknown,7.0,1.0,unknown,unknown,2.0,unknown,unknown,2.5,3.0,1768.0
+"158-Midwood-Ave,-Waterbury,-CT-06708",Split Level,Aluminum / Vinyl Siding,2.0,True,unknown,True,Commercial,unknown,True,Underground / Basement,Solar,Asphalt,7.0,1.0,unknown,unknown,2.0,unknown,unknown,4.0,3.0,1724.0
+"408-Winter-Park-Dr,-O-Fallon,-MO-63366",unknown,Brick Veneer,2.0,unknown,unknown,unknown,unknown,True,True,Attached,unknown,unknown,8.0,1.0,2 Story,unknown,0.0,unknown,unknown,2.5,4.0,2544.0
+"3230-Brawner-Pkwy,-Corpus-Christi,-TX-78411",unknown,Combination,1.0,unknown,unknown,unknown,unknown,unknown,True,Mixed,unknown,Composition Shingle,0.0,1.0,unknown,Pile,3.0,unknown,unknown,0.0,0.0,1406.0
+"815-Kilsyth-Rd,-Elizabeth,-NJ-07208",unknown,unknown,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,2038.0
+"815-1st-St,-Augusta,-GA-30901",unknown,Wood Siding,1.0,True,unknown,True,Central,unknown,unknown,unknown,Central,Asphalt,4.0,2.0,unknown,Concrete Block,0.0,unknown,unknown,1.0,2.0,794.0
+"36550-Chester-Rd,-Apt-2702,-Avon,-OH-44011",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1119.0
+"29015-Abbey-Grove-Ln,-Katy,-TX-77494",unknown,Brick Veneer,0.0,True,unknown,True,Central,True,True,Attached,Central,unknown,0.0,0.0,unknown,Slab / Mat / Raft,3.0,unknown,unknown,4.0,5.0,3982.0
+"1417-S-Camlan-Ln-W,-Springville,-UT-84663",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,3.0,4.0,2556.0
+"1803-Sw-Stallings-Dr,-Ste-1,-Nacogdoches,-TX-75964",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"Rolling-Hls,-Lot-8,-Viroqua,-WI-54665",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2316-Wyoming-St,-Carlsbad,-NM-88220",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"20-Washington-St,-Apt-49,-Methuen,-MA-01844",Other,Aluminum / Vinyl Siding,2.0,True,unknown,True,Commercial,unknown,unknown,unknown,Forced Air,Asphalt,5.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,2.0,1169.0
+"850-Sw-7th-St,-Fort-Lauderdale,-FL-33315",unknown,Concrete Block,1.0,unknown,unknown,True,unknown,unknown,unknown,unknown,unknown,Tile,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1674.0
+"4923-W-31st-St,-Little-Rock,-AR-72204",unknown,Masonry,1.0,True,unknown,True,Central,True,unknown,unknown,Central,Asphalt,0.0,1.0,unknown,Pier / Post & Beam,0.0,unknown,unknown,1.0,0.0,1214.0
+"1335-Scott-Ave,-Fort-Wayne,-IN-46807",unknown,unknown,2.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Central,Asphalt,6.0,0.0,unknown,unknown,0.0,unknown,unknown,1.5,1.0,1479.0
+"105-Dakota-Dr,-Rio-Grande-City,-TX-78582",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1709.0
+"2980-Delmar-Ln-NW,-Apt-H7,-Atlanta,-GA-30311",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"18936-Nw-85th-Ave,-Apt-2606,-Hialeah,-FL-33015",Condo / Apartment,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1284.0
+"227-Center-St,-Canandaigua,-NY-14424",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"95-E-King-St,-Dallastown,-PA-17313",Cape Cod,Composition,2.0,True,unknown,True,Commercial,True,True,Attached,Hot Water,unknown,7.0,0.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,2338.0
+"1612-Houston-Blvd,-Apt-13,-South-Houston,-TX-77587",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"919-W-Prince-Rd,-Tucson,-AZ-85705",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"9177-S-South-Chicago-Ave,-Apt-602,-Chicago,-IL-60617",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2970-N-Cardell-Cir,-Tucson,-AZ-85712",unknown,Wood,1.0,True,unknown,True,Refrigeration,unknown,True,Garage,Forced Air,Built-up (Layered Asphalt),5.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,0.0,1137.0
+"7-Di-Lago-Park-Place-Dr,-Shady-Shores,-TX-76208",unknown,Brick Veneer,2.0,True,unknown,True,Central,True,True,Attached,Central,Composition Shingle,0.0,0.0,unknown,Slab / Mat / Raft,0.0,True,Pool and Hot Tub / Spa,4.0,5.0,3950.0
+"21258-Woodland-Way,-Shorewood,-IL-60404",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"6433-Birchcrest-Ct,-Las-Vegas,-NV-89108",Single Story,Stucco,1.0,True,unknown,True,Central,unknown,True,Attached Garage,Forced Air,Tile,5.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1584.0
+"3548-Paradise-Dr,-Laredo,-TX-78046",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,1456.0
+"2029-Airport-Rd,-Whispering-Pines,-NC-28327",Ranch / Rambler,Wood,1.0,True,unknown,True,Central,True,unknown,unknown,Heat Pump,Roll Composition,6.0,0.0,unknown,Footing,0.0,unknown,unknown,2.0,2.0,1854.0
+"12551-S-Ocotillo-Ridge-Trl,-Vail,-AZ-85641",Mobile Home,unknown,1.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,3.0,1680.0
+"3437-Decoursey-Ave,---2,-Covington,-KY-41015",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"929-E-Foothill-Blvd,-Spc-149,-Upland,-CA-91786",Mobile Home,unknown,1.0,True,unknown,True,Central,unknown,unknown,unknown,Floor / Wall,Composition Shingle,5.0,2.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1152.0
+"4171-Cumbrian-Gardens-Ln,-Jacksonville,-FL-32257",unknown,Concrete Block,1.0,True,unknown,True,Central,True,True,Garage,Forced Air,Composition Shingle,0.0,1.0,Prefab,unknown,1.0,unknown,unknown,2.0,3.0,1288.0
+"PO-Box-36,-Silver-Spring,-PA-17575",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"607-W-Provential-Dr,-Apt-8,-Anaheim,-CA-92805",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"2300-Wilshire-Blvd,-Unit-201,-Santa-Monica,-CA-90403",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1150.0
+"Morris-Shepherd-Dr,-Unit-7,-Brownwood,-TX-76801",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"34665-Sherwood-Dr,-Solon,-OH-44139",Ranch,Wood,1.0,True,unknown,True,Central,True,True,Basement,Forced Air,Asphalt,6.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,1492.0
+"9612-Mathog-Rd,-Riverview,-FL-33578",Ranch,Concrete Block,1.0,True,unknown,True,Central,unknown,True,Garage,Central,Composition Shingle,0.0,1.0,unknown,unknown,0.0,unknown,unknown,2.0,2.0,1642.0
+"737-Woodfield-Rd,-Villanova,-PA-19085",Cape Cod,Wood,1.0,True,unknown,True,Central,True,True,Underground / Basement,Central,unknown,7.0,1.0,unknown,unknown,2.0,unknown,unknown,2.0,3.0,2411.0
+"1356-E-11th-St,-Casa-Grande,-AZ-85122",unknown,Other,2.0,True,unknown,True,Commercial,unknown,True,Built-in,Central,Tile,0.0,1.0,unknown,OTHER,2.0,True,"Pool, Gunite",2.5,4.0,2521.0
+"2803-N-22nd-St,-Tampa,-FL-33605",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"11807-Highgrove-Dr,-Houston,-TX-77077",Traditional,Brick,2.0,True,unknown,True,Central,True,True,Detached Garage,Central,unknown,8.0,1.0,unknown,Slab,2.0,True,unknown,3.0,4.0,2378.0
+"6741-Day-St,-Tujunga,-CA-91042",Conventional,unknown,1.0,True,unknown,unknown,unknown,unknown,True,Garage,Central,unknown,8.0,1.0,unknown,unknown,1.0,unknown,unknown,2.0,2.0,1609.0
+"6407-Beechwood-St,-Detroit,-MI-48210",unknown,Brick,2.0,True,unknown,unknown,unknown,unknown,True,Detached Garage,Forced Air,Asphalt,0.0,0.0,unknown,unknown,1.0,unknown,unknown,1.0,0.0,1248.0
+"1206-Ambrose-Dr,-Salado,-TX-76571",unknown,Stone,2.0,unknown,unknown,unknown,unknown,unknown,True,Garage,unknown,Composition Shingle,0.0,0.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,0.0,0.0,2945.0
+"PO-Box-519,-Union,-SC-29379",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4153-Rialto-Ave,-Clovis,-CA-93619",unknown,unknown,1.0,unknown,unknown,True,Refrigeration,unknown,True,Garage,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,1.0,3.0,1635.0
+"7034-Golden-Crst,-Elkridge,-MD-21075",unknown,Stone,2.0,True,unknown,True,Commercial,True,True,Attached,Forced Air,Composition Shingle,0.0,1.0,unknown,unknown,2.0,unknown,unknown,3.5,0.0,3982.0
+"952-Plymouth-Sorrento-Rd,-Apopka,-FL-32712",unknown,Stucco,1.0,True,unknown,True,Central,True,unknown,unknown,Forced Air,Composition Shingle,2.0,0.0,unknown,unknown,0.0,True,unknown,3.0,4.0,3253.0
+"5111-Mckittrick-Canyon-Dr,-Austin,-TX-78759",unknown,unknown,2.0,True,unknown,True,Commercial,True,True,Attached,Central,Composition Shingle,0.0,1.0,unknown,Slab / Mat / Raft,0.0,unknown,unknown,3.0,4.0,2280.0
+"PO-Box-453,-Westville,-NJ-08093",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"34-Wax-Myrtle-Ct,-Hilton-Head-Island,-SC-29926",unknown,Stucco,1.0,True,unknown,True,Central,unknown,True,Attached,Heat Pump,unknown,1.0,1.0,unknown,Slab / Mat / Raft,4.0,unknown,unknown,2.5,1.0,1563.0
+"801-East-Dr,-Edmond,-OK-73034",Ranch / Rambler,Brick,1.0,True,unknown,True,Central,True,True,Carport,Forced Air,Roll Composition,6.0,1.0,unknown,Crawl / Raised,3.0,unknown,unknown,2.0,3.0,3815.0
+"837-Worcester-Dr,-Schenectady,-NY-12309",Colonial,Aluminum / Vinyl Siding,2.0,True,unknown,True,Central,True,True,Attached,Central,unknown,8.0,1.0,unknown,unknown,0.0,unknown,unknown,2.5,4.0,2307.0
+"259-Lee-Rd,-601,-Phenix-City,-AL-36870",unknown,Wood,1.0,True,unknown,True,Central,unknown,True,Garage,Forced Air,unknown,0.0,96.0,unknown,unknown,0.0,unknown,unknown,1.0,0.0,2504.0
+"617-Hillside-Rd,-Glenview,-IL-60025",Split Level,Wood,2.0,unknown,unknown,True,Central,True,True,Attached,unknown,Shingle,0.0,1.0,unknown,unknown,2.0,unknown,unknown,3.5,4.0,3116.0
+"15422-Carrillon-Estates-Blvd,-Tampa,-FL-33625",Contemporary,Stucco,1.0,True,unknown,True,Central,unknown,True,Garage,Central,Composition Shingle,0.0,1.0,unknown,unknown,2.0,unknown,unknown,3.0,4.0,2642.0
+"1122-Nw-4th-St,-Meridian,-ID-83642",Conventional,Aluminum / Vinyl Siding,1.0,True,unknown,True,Commercial,True,True,Attached,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,3.0,4.0,2246.0
+"230-Sharon-Rd,-Arcadia,-CA-91007",Conventional,unknown,1.0,True,unknown,unknown,unknown,unknown,True,Garage,Central,unknown,8.0,1.0,unknown,unknown,1.0,unknown,unknown,3.0,3.0,2372.0
+"180-Cimarron-Ct,-Apt-E,-Oshkosh,-WI-54902",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"7635-Concord-Rd,-Beaumont,-TX-77708",unknown,Brick,1.0,True,unknown,True,Central,unknown,True,Attached Garage,Central,unknown,0.0,1.0,unknown,Slab,1.0,unknown,unknown,0.0,0.0,811.0
+"109-Freestone-St,-Greenville,-SC-29605",Ranch,Brick Veneer,1.0,True,unknown,unknown,unknown,unknown,True,Carport,Forced Air,Shingle,5.0,1.0,unknown,unknown,0.0,unknown,unknown,1.5,3.0,1100.0
+"82-Cliffwood-Ave,-Unit-38,-Cliffwood,-NJ-07721",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"4401-Cedar-Ave,-Pikesville,-MD-21208",Conventional,Wood,2.0,True,unknown,True,Commercial,True,True,Garage,unknown,unknown,0.0,1.0,unknown,unknown,0.0,unknown,unknown,1.0,3.0,1756.0
+"7945-Cobblesprings-Dr,-Avon,-IN-46123",unknown,unknown,2.0,True,unknown,True,Central,True,True,Attached,Central,Asphalt,0.0,1.0,Masonry,Raised,2.0,unknown,unknown,2.5,4.0,1952.0
+"PO-Box-81,-Concord,-NC-28026",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"7400-Windsor-Woods-Dr,-Apt-2C,-Canton,-MI-48187",unknown,unknown,0.0,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0.0,0.0,unknown,unknown,0.0,unknown,unknown,0.0,0.0,0.0
+"6208-202nd-St-SW,-Unit-63,-Lynnwood,-WA-98036",Mobile Home,unknown,1.0,True,unknown,unknown,unknown,unknown,unknown,unknown,Forced Air,Built-up,0.0,1.0,unknown,Pier,0.0,unknown,unknown,1.0,0.0,576.0
